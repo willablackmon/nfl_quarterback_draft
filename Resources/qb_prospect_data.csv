@@ -1,0 +1,279 @@
+draft_year,player_id,player_name,school,pick,overall,round,traded,trade_note,team,weight,height,grade
+2004,7841,Eli Manning,Ole Miss,1.0,1.0,1.0,False,,San Diego Chargers,221.0,77.0,98.0
+2004,7842,Philip Rivers,North Carolina State,4.0,4.0,1.0,False,,New York Giants,224.0,77.0,95.0
+2004,7840,Ben Roethlisberger,Miami (OH),11.0,11.0,1.0,False,,Pittsburgh Steelers,241.0,77.0,99.0
+2004,7843,J.P. Losman,Tulane,22.0,22.0,1.0,False,from Dallas,Buffalo Bills,224.0,74.0,89.0
+2004,7844,Matt Schaub,Virginia,27.0,90.0,3.0,False,from Indianapolis,Atlanta Falcons,233.0,78.0,80.0
+2004,7853,Luke McCown,Louisiana Tech,10.0,106.0,4.0,False,,Cleveland Browns,208.0,76.0,60.0
+2004,7859,Craig Krenzel,Ohio State,16.0,148.0,5.0,False,,Chicago Bears,228.0,76.0,43.0
+2004,7867,Andrew Hall,Delaware,20.0,185.0,6.0,False,from Green Bay,Philadelphia Eagles,220.0,74.0,20.0
+2004,7846,Josh Harris,Bowling Green,22.0,187.0,6.0,False,,Baltimore Ravens,234.0,73.0,68.0
+2004,7869,Jim Sorgi,Wisconsin,28.0,193.0,6.0,False,,Indianapolis Colts,207.0,75.0,30.0
+2004,7850,Jeff Smoker,Michigan State,36.0,201.0,6.0,False,,St. Louis Rams,225.0,75.0,54.0
+2004,7845,John Navarre,Michigan,1.0,202.0,7.0,False,,Arizona Cardinals,246.0,78.0,59.0
+2004,7847,Cody Pickett,Washington,16.0,217.0,7.0,False,,San Francisco 49ers,230.0,76.0,66.0
+2004,7858,Casey Bramlet,Wyoming,17.0,218.0,7.0,False,,Cincinnati Bengals,225.0,76.0,30.0
+2004,7848,Matt Mauck,LSU,24.0,225.0,7.0,False,,Denver Broncos,228.0,74.0,52.0
+2004,7857,B.J. Symons,Texas Tech,47.0,248.0,7.0,False,,Houston Texans,210.0,73.0,37.0
+2004,7851,Bradlee Van Pelt,Colorado State,49.0,250.0,7.0,False,,Denver Broncos,223.0,74.0,47.0
+2004,7852,JARED LORENZEN,Kentucky,,,,,,,288.0,75.375,57.0
+2004,7855,ROD RUTHERFORD,Pittsburgh,,,,,,,240.0,73.625,48.0
+2004,7849,RYAN DINWIDDIE,Boise State,,,,,,,192.0,72.5,45.0
+2004,7854,CASEY CLAUSEN,Tennessee,,,,,,,223.0,75.5,39.0
+2004,7856,SCOTT RISLOV,San Jose State,,,,,,,224.0,73.0,36.0
+2004,7862,JASON FIFE,,,,,,,,226.0,75.875,34.0
+2004,7861,ROBERT KENT,Jackson State,,,,,,,230.0,76.5,32.0
+2004,7870,ADAM HALL,,,,,,,,215.0,74.125,31.0
+2005,9077,Alex Smith,Utah,1.0,1.0,1.0,False,,San Francisco 49ers,217.0,76.0,98.0
+2005,8743,Aaron Rodgers,California,24.0,24.0,1.0,False,,Green Bay Packers,223.0,74.0,99.0
+2005,8754,Jason Campbell,Auburn,25.0,25.0,1.0,False,from Denver,Washington Redskins,230.0,77.0,86.0
+2005,8747,Charlie Frye,Akron,3.0,67.0,3.0,False,,Cleveland Browns,225.0,76.0,85.0
+2005,8746,Andrew Walter,Arizona State,5.0,69.0,3.0,False,,Oakland Raiders,233.0,78.0,84.0
+2005,8749,David Greene,Georgia,21.0,85.0,3.0,False,,Seattle Seahawks,226.0,76.0,70.0
+2005,8748,Kyle Orton,Purdue,5.0,106.0,4.0,False,,Chicago Bears,233.0,76.0,79.0
+2005,8769,Stefan LeFors,Louisville,20.0,121.0,4.0,False,from Seattle,Carolina Panthers,208.0,72.0,59.0
+2005,8768,Dan Orlovsky,Connecticut,9.0,145.0,5.0,False,from Arizona through New England,Detroit Lions,225.0,77.0,67.0
+2005,9112,Adrian McPherson,Florida State,16.0,152.0,5.0,False,,New Orleans Saints,218.0,76.0,68.0
+2005,8751,Derek Anderson,Oregon State,39.0,213.0,6.0,False,,Baltimore Ravens,242.0,78.0,73.0
+2005,8760,James Kilian,Tulsa,15.0,229.0,7.0,False,,Kansas City Chiefs,215.0,75.0,30.0
+2005,8762,Ryan Fitzpatrick,Harvard,36.0,250.0,7.0,False,,St. Louis Rams,232.0,74.0,64.0
+2005,8750,Jason White,Oklahoma,,,,,,,223.0,74.5,63.0
+2005,8756,Timmy Chang,Hawai'i,,,,,,,211.0,73.0,61.0
+2005,8758,Bryan Randall,,,,,,,,225.0,72.25,53.0
+2005,8753,Chris Rix,,,,,,,,214.0,74.0,49.0
+2005,8764,Gino Guidugli,,,,,,,,229.0,75.75,46.0
+2005,9078,Walter Washington,Temple,,,,,,,237.0,73.875,42.0
+2005,8775,Dustin Long,Sam Houston State,,,,,,,208.0,74.5,37.0
+2005,8791,Craig Ochs,Montana,,,,,,,218.0,73.75,36.0
+2005,8763,Jared Allen,Florida Atlantic,,,,,,,218.0,74.25,33.0
+2005,8761,Darian Durant,,,,,,,,215.0,71.0,31.0
+2006,10300,Vince Young,Texas,3.0,3.0,1.0,False,,Tennessee Titans,229.0,77.0,97.0
+2006,9237,Matt Leinart,USC,10.0,10.0,1.0,False,,Arizona Cardinals,223.0,77.0,98.0
+2006,9296,Jay Cutler,Vanderbilt,11.0,11.0,1.0,False,from St. Louis,Denver Broncos,226.0,75.0,96.0
+2006,9824,Kellen Clemens,Oregon,17.0,49.0,2.0,False,from Dallas,New York Jets,224.0,74.0,85.0
+2006,10418,Tarvaris Jackson,Alabama State,32.0,64.0,2.0,False,from Pittsburgh,Minnesota Vikings,226.0,74.0,65.0
+2006,9268,Charlie Whitehurst,Clemson,17.0,81.0,3.0,False,,San Diego Chargers,223.0,77.0,77.0
+2006,9322,Brodie Croyle,Alabama,21.0,85.0,3.0,False,,Kansas City Chiefs,205.0,75.0,81.0
+2006,9917,Ingle Martin,Furman,15.0,148.0,5.0,False,from Atlanta,Green Bay Packers,220.0,74.0,35.0
+2006,10303,Omar Jacobs,Bowling Green,31.0,164.0,5.0,False,,Pittsburgh Steelers,232.0,76.0,72.0
+2006,9190,Bruce Gradkowski,Toledo,25.0,194.0,6.0,False,from N.Y. Giants,Tampa Bay Buccaneers,217.0,73.0,63.0
+2006,9259,D.J. Shockley,Georgia,15.0,223.0,7.0,False,,Atlanta Falcons,214.0,73.0,59.0
+2007,11405,JaMarcus Russell,LSU,1.0,1.0,1.0,False,,Oakland Raiders,256.0,78.0,98.0
+2007,10302,Brady Quinn,Notre Dame,22.0,22.0,1.0,False,from Dallas,Cleveland Browns,232.0,76.0,97.0
+2007,10870,Kevin Kolb,Houston,4.0,36.0,2.0,False,from Cleveland through Dallas,Philadelphia Eagles,218.0,75.0,71.0
+2007,10491,John Beck,BYU,8.0,40.0,2.0,False,,Miami Dolphins,215.0,74.0,86.0
+2007,10301,Drew Stanton,Michigan State,11.0,43.0,2.0,False,from Buffalo,Detroit Lions,226.0,75.0,87.0
+2007,10660,Trent Edwards,Stanford,28.0,92.0,3.0,False,from Baltimore,Buffalo Bills,231.0,76.0,85.0
+2007,11165,Isaiah Stanback,Washington,4.0,103.0,4.0,False,from Cleveland,Dallas Cowboys,216.0,74.0,59.0
+2007,11098,Jeff Rowe,Nevada,14.0,151.0,5.0,False,,Cincinnati Bengals,226.0,77.0,39.0
+2007,11150,Troy Smith,Ohio State,37.0,174.0,5.0,False,,Baltimore Ravens,225.0,72.0,70.0
+2007,11016,Jordan Palmer,UTEP,31.0,205.0,6.0,False,from Chicago,Washington Redskins,231.0,78.0,44.0
+2007,11200,Tyler Thigpen,Coastal Carolina,7.0,217.0,7.0,False,,Minnesota Vikings,216.0,74.0,20.0
+2007,10886,Chris Leak,Florida,,,,,,,209.0,71.875,56.0
+2007,11014,Tyler Palko,Pittsburgh,,,,,,,215.0,73.375,50.0
+2007,11305,Jared Zabransky,Boise State,,,,,,,204.0,73.75,49.0
+2007,10971,Matt Moore,,,,,,,,191.0,75.375,36.0
+2007,11193,Zac Taylor,Nebraska,,,,,,,216.0,74.375,32.0
+2007,11038,James Pickney,East Carolina,,,,,,,208.0,74.5,31.0
+2008,11586,Matt Ryan,Boston College,3.0,3.0,1.0,False,,Atlanta Falcons,228.0,77.0,98.0
+2008,11486,Joe Flacco,Delaware,18.0,18.0,1.0,True,From Texans,Baltimore Ravens,236.0,78.0,89.0
+2008,12009,Brian Brohm,Louisville,25.0,56.0,2.0,False,From Browns,Green Bay Packers,230.0,75.0,93.0
+2008,12045,Chad Henne,Michigan,26.0,57.0,2.0,False,From Chargers,Miami Dolphins,230.0,75.0,90.0
+2008,11708,Kevin O'Connell,San Diego State,31.0,94.0,3.0,False,,New England Patriots,225.0,77.0,59.0
+2008,11740,John David Booty,USC,2.0,137.0,5.0,True,From Rams through Packers,Minnesota Vikings,218.0,74.0,78.0
+2008,11955,Dennis Dixon,Oregon,21.0,156.0,5.0,False,,Pittsburgh Steelers,195.0,75.0,45.0
+2008,11706,Josh Johnson,San Diego,25.0,160.0,5.0,True,From Chargers through Patriots,Tampa Bay Buccaneers,213.0,75.0,54.0
+2008,11766,Erik Ainge,Tennessee,27.0,162.0,5.0,True,From Packers,New York Jets,225.0,78.0,66.0
+2008,11634,Colt Brennan,Hawai'i,20.0,186.0,6.0,False,,Washington Redskins,207.0,74.0,41.0
+2008,11985,Andre' Woodson,Kentucky,32.0,198.0,6.0,False,,New York Giants,229.0,76.0,71.0
+2008,12001,Matt Flynn,LSU,2.0,209.0,7.0,True,From Rams through Vikings,Green Bay Packers,231.0,74.0,48.0
+2008,12203,Alex Brink,Washington State,16.0,223.0,7.0,False,,Houston Texans,211.0,74.0,30.0
+2009,24681,Matthew Stafford,Georgia,1.0,1.0,1.0,False,,Detroit Lions,225.0,74.0,96.0
+2009,24676,Mark Sanchez,USC,5.0,5.0,1.0,True,from Cleveland,New York Jets,227.0,74.0,95.0
+2009,24693,Josh Freeman,Kansas State,17.0,17.0,1.0,True,from N.Y. Jets through Cleveland,Tampa Bay Buccaneers,248.0,78.0,85.0
+2009,24649,Pat White,West Virginia,12.0,44.0,2.0,False,from Washington,Miami Dolphins,197.0,72.0,79.0
+2009,24059,Stephen McGee,Texas A&M,1.0,101.0,4.0,False,from Detroit,Dallas Cowboys,225.0,75.0,54.0
+2009,24352,Rhett Bomar,Sam Houston State,15.0,151.0,5.0,False,from New Orleans,New York Giants,225.0,74.0,56.0
+2009,24710,Nate Davis,Ball State,35.0,171.0,5.0,False,Compensatory selection,San Francisco 49ers,226.0,73.0,51.0
+2009,24659,Tom Brandstater,Fresno State,1.0,174.0,6.0,True,from Detroit,Denver Broncos,220.0,77.0,47.0
+2009,23947,Mike Teel,Rutgers,5.0,178.0,6.0,False,,Seattle Seahawks,230.0,75.0,30.0
+2009,24365,Keith Null,West Texas A&M,23.0,196.0,6.0,False,from Atlanta,St. Louis Rams,222.0,75.0,30.0
+2009,24344,Curtis Painter,Purdue,28.0,201.0,6.0,False,,Indianapolis Colts,225.0,75.0,39.0
+2009,23857,Brian Hoyer,,,,,,,,215.0,74.0,60.0
+2009,24604,Hunter Cantwell,Louisville,,,,,,,235.0,76.375,46.0
+2009,24410,Graham Harrell,Texas Tech,,,,,,,223.0,74.125,43.0
+2009,24152,John Parker Wilson,Alabama,,,,,,,219.0,73.5,40.0
+2010,25545,Sam Bradford,Oklahoma,1.0,1.0,1.0,False,,St. Louis Rams,236.0,76.0,97.0
+2010,24889,Tim Tebow,Florida,25.0,25.0,1.0,True,from Baltimore,Denver Broncos,236.0,75.0,78.0
+2010,25716,Jimmy Clausen,Notre Dame,16.0,48.0,2.0,False,,Carolina Panthers,222.0,75.0,89.0
+2010,25548,Colt McCoy,Texas,21.0,85.0,3.0,False,from New England through Oakland,Cleveland Browns,216.0,73.0,86.0
+2010,25179,Michael Kafka,Northwestern,24.0,122.0,4.0,True,from Green Bay,Philadelphia Eagles,225.0,75.0,59.0
+2010,25321,John Skelton,Fordham,24.0,155.0,5.0,True,from Philadelphia through N.Y. Jets and Pittsburgh,Arizona Cardinals,243.0,77.0,50.0
+2010,25811,Jonathan Crompton,Tennessee,37.0,168.0,5.0,False,Compensatory Pick,San Diego Chargers,222.0,75.0,33.0
+2010,25398,Rusty Smith,Florida Atlantic,7.0,176.0,6.0,True,from Seattle,Tennessee Titans,231.0,77.0,30.0
+2010,25394,Dan LeFevour,Central Michigan,12.0,181.0,6.0,False,,Chicago Bears,230.0,75.0,54.0
+2010,25810,Joe Webb,UAB,30.0,199.0,6.0,False,,Minnesota Vikings,223.0,75.0,30.0
+2010,25575,Tony Pike,Cincinnati,35.0,204.0,6.0,False,Compensatory Pick,Carolina Panthers,223.0,78.0,73.0
+2010,25709,Levi Brown,Troy,2.0,209.0,7.0,False,from Detroit,Buffalo Bills,229.0,76.0,58.0
+2010,25736,Sean Canfield,Oregon State,32.0,239.0,7.0,False,,New Orleans Saints,223.0,76.0,38.0
+2010,25570,Zac Robinson,Oklahoma State,43.0,250.0,7.0,False,Compensatory Pick,New England Patriots,214.0,75.0,30.0
+2011,27308,Cam Newton,Auburn,1.0,1.0,1.0,False,,Carolina Panthers,248.0,77.0,93.0
+2011,26069,Jake Locker,Washington,8.0,8.0,1.0,False,,Tennessee Titans,231.0,75.0,90.0
+2011,27028,Blaine Gabbert,Missouri,10.0,10.0,1.0,True,from Washington,Jacksonville Jaguars,234.0,76.0,96.0
+2011,27210,Christian Ponder,Florida State,12.0,12.0,1.0,False,,Minnesota Vikings,229.0,74.0,85.0
+2011,26122,Andy Dalton,TCU,3.0,35.0,2.0,False,,Cincinnati Bengals,215.0,74.0,86.0
+2011,26167,Colin Kaepernick,Nevada,4.0,36.0,2.0,True,from Denver,San Francisco 49ers,233.0,77.0,81.0
+2011,26080,Ryan Mallett,Arkansas,10.0,74.0,3.0,False,from Minnesota,New England Patriots,253.0,79.0,82.0
+2011,26154,Ricky Stanzi,Iowa,4.0,135.0,5.0,False,from Denver through Tampa Bay,Kansas City Chiefs,223.0,76.0,75.0
+2011,27302,T.J. Yates,North Carolina,21.0,152.0,5.0,True,from Indianapolis through Washington,Houston Texans,221.0,76.0,46.0
+2011,27272,Nathan Enderle,Idaho,29.0,160.0,5.0,False,,Chicago Bears,240.0,76.0,43.0
+2011,27229,Tyrod Taylor,Virginia Tech,15.0,180.0,6.0,False,from St. Louis,Baltimore Ravens,216.0,73.0,60.0
+2011,26219,Greg McElroy,Alabama,5.0,208.0,7.0,False,from Arizona,New York Jets,220.0,74.0,49.0
+2011,26105,Pat Devlin,Delaware,,,,,,,225.0,75.375,38.0
+2011,27111,Scott Tolzien,,,,,,,,209.0,74.0,32.0
+2011,27116,Taylor Potts,Texas Tech,,,,,,,220.0,76.0,31.0
+2012,28325,Andrew Luck,Stanford,1.0,1.0,1.0,False,,Indianapolis Colts,234.0,76.0,99.0
+2012,28956,Robert Griffin III,Baylor,2.0,2.0,1.0,False,Swap from St. Louis,Washington Redskins,231.0,74.0,97.0
+2012,28393,Ryan Tannehill,Texas A&M,8.0,8.0,1.0,False,,Miami Dolphins,221.0,76.0,94.0
+2012,28779,Brandon Weeden,Oklahoma State,22.0,22.0,1.0,False,From Atlanta,Cleveland Browns,221.0,76.0,86.0
+2012,29000,Brock Osweiler,Arizona State,25.0,57.0,2.0,False,,Denver Broncos,242.0,79.0,87.0
+2012,28525,Russell Wilson,Wisconsin,12.0,75.0,3.0,False,,Seattle Seahawks,204.0,71.0,69.0
+2012,27468,Nick Foles,Arizona,25.0,88.0,3.0,False,from Houston,Philadelphia Eagles,243.0,77.0,84.0
+2012,28010,Kirk Cousins,Michigan State,7.0,102.0,4.0,False,,Washington Redskins,214.0,75.0,83.0
+2012,28260,Ryan Lindley,San Diego State,15.0,185.0,6.0,False,,Arizona Cardinals,229.0,76.0,37.0
+2012,28378,B.J. Coleman,Chattanooga,36.0,243.0,7.0,False,compensatory,Green Bay Packers,233.0,75.0,32.0
+2012,28139,Chandler Harnish,Northern Illinois,46.0,253.0,7.0,False,,Indianapolis Colts,219.0,74.0,33.0
+2012,28606,Kellen Moore,,,,,,,,197.0,72.0,42.0
+2013,30224,EJ Manuel,Florida State,16.0,16.0,1.0,True,from St. Louis,Buffalo Bills,237.0,77.0,76.0
+2013,29965,Geno Smith,West Virginia,7.0,39.0,2.0,False,,New York Jets,218.0,74.0,89.0
+2013,29224,Mike Glennon,NC State,11.0,73.0,3.0,False,,Tampa Bay Buccaneers,225.0,79.0,77.0
+2013,29232,Matt Barkley,USC,1.0,98.0,4.0,True,from Jacksonville,Philadelphia Eagles,227.0,75.0,87.0
+2013,29300,Ryan Nassib,Syracuse,13.0,110.0,4.0,True,from Arizona via San Diego,New York Giants,227.0,74.0,88.0
+2013,29967,Tyler Wilson,Arkansas,15.0,112.0,4.0,False,from Tampa Bay,Oakland Raiders,215.0,74.0,78.0
+2013,29956,Landry Jones,Oklahoma,18.0,115.0,4.0,False,,Pittsburgh Steelers,225.0,76.0,74.0
+2013,29288,Brad Sorensen,Southern Utah,15.0,221.0,7.0,False,,San Diego Chargers,229.0,77.0,30.0
+2013,29975,Zac Dysert,Miami (OH),28.0,234.0,7.0,False,,Denver Broncos,231.0,75.0,75.0
+2013,30157,Sean Renfree,Duke,43.0,249.0,7.0,False,Compensatory Selection,Atlanta Falcons,219.0,75.0,50.0
+2013,30056,Matt Scott,Arizona,,,,,,,213.0,74.125,71.0
+2013,29972,Tyler Bray,Tennessee,,,,,,,232.0,78.125,65.0
+2013,29691,Ryan Griffin,Tulane,,,,,,,216.0,75.875,48.0
+2014,34717,Blake Bortles,UCF,3.0,3.0,1.0,False,,Jacksonville Jaguars,232.0,77.0,91.0
+2014,33057,Johnny Manziel,Texas A&M,22.0,22.0,1.0,True,from Philadelphia,Cleveland Browns,207.0,72.0,90.0
+2014,33598,Teddy Bridgewater,Louisville,32.0,32.0,1.0,True,From Seattle,Minnesota Vikings,214.0,74.0,89.0
+2014,32176,Derek Carr,Fresno State,4.0,36.0,2.0,False,,Oakland Raiders,214.0,74.0,68.0
+2014,33695,Jimmy Garoppolo,Eastern Illinois,30.0,62.0,2.0,False,,New England Patriots,226.0,74.0,82.0
+2014,33064,Logan Thomas,Virginia Tech,20.0,120.0,4.0,False,,Arizona Cardinals,248.0,78.0,61.0
+2014,33173,Tom Savage,Pittsburgh,35.0,135.0,4.0,False,Compensatory,Houston Texans,228.0,76.0,75.0
+2014,34147,Aaron Murray,Georgia,23.0,163.0,5.0,False,,Kansas City Chiefs,207.0,73.0,62.0
+2014,34118,AJ McCarron,Alabama,24.0,164.0,5.0,False,,Cincinnati Bengals,220.0,75.0,78.0
+2014,33654,Zach Mettenberger,LSU,2.0,178.0,6.0,True,from Washington,Tennessee Titans,224.0,77.0,60.0
+2014,34154,David Fales,San Jose State,7.0,183.0,6.0,False,Trade from Tampa Bay,Chicago Bears,212.0,74.0,63.0
+2014,33171,Keith Wenning,Ball State,18.0,194.0,6.0,False,,Baltimore Ravens,218.0,75.0,42.0
+2014,34121,Tajh Boyd,Clemson,37.0,213.0,6.0,False,Compensatory,New York Jets,222.0,73.0,39.0
+2014,34780,Garrett Gilbert,SMU,38.0,214.0,6.0,False,Compensatory,St. Louis Rams,220.0,76.0,31.0
+2014,34702,Stephen Morris,Miami,,,,,,,213.0,73.875,47.0
+2014,33170,Connor Shaw,South Carolina,,,,,,,206.0,72.375,45.0
+2015,46810,Jameis Winston,Florida State,1.0,1.0,1.0,False,,Tampa Bay Buccaneers,231.0,76.0,97.0
+2015,46814,Marcus Mariota,Oregon,2.0,2.0,1.0,False,,Tennessee Titans,222.0,76.0,93.0
+2015,46930,Garrett Grayson,Colorado State,11.0,75.0,3.0,False,,New Orleans Saints,213.0,75.0,65.0
+2015,46917,Sean Mannion,Oregon State,25.0,89.0,3.0,True,from CAR,St. Louis Rams,229.0,78.0,68.0
+2015,46890,Bryce Petty,Baylor,4.0,103.0,4.0,True,from JAC,New York Jets,230.0,75.0,73.0
+2015,46951,Brett Hundley,UCLA,11.0,147.0,5.0,True,from CLE through NE,Green Bay Packers,226.0,75.0,59.0
+2015,47228,Trevor Siemian,Northwestern,33.0,250.0,7.0,False,Compensatory,Denver Broncos,220.0,75.0,30.0
+2015,47038,Shane Carden,East Carolina,,,,,,,218.0,73.875,42.0
+2015,47088,Bryan Bennett,Southeastern Louisiana,,,,,,,211.0,74.25,36.0
+2015,47097,Connor Halliday,Washington State,,,,,,,196.0,75.0,35.0
+2015,47123,Anthony Boone,Duke,,,,,,,231.0,72.25,32.0
+2015,47136,Brandon Bridge,South Alabama,,,,,,,229.0,76.375,31.0
+2016,49986,Jared Goff,California,1.0,1.0,1.0,False,From TEN,Los Angeles Rams,215.0,76.0,91.0
+2016,49988,Carson Wentz,North Dakota State,2.0,2.0,1.0,False,From CLE,Philadelphia Eagles,237.0,77.0,91.0
+2016,49985,Paxton Lynch,Memphis,26.0,26.0,1.0,True,From SEA,Denver Broncos,244.0,79.0,85.0
+2016,49989,Christian Hackenberg,Penn State,20.0,51.0,2.0,False,,New York Jets,223.0,76.0,81.0
+2016,49990,Jacoby Brissett,NC State,28.0,91.0,3.0,False,,New England Patriots,231.0,76.0,68.0
+2016,49991,Cody Kessler,USC,30.0,93.0,3.0,True,From CAR,Cleveland Browns,220.0,73.0,50.0
+2016,49987,Connor Cook,Michigan State,2.0,100.0,4.0,True,From CLE through PHI and TEN,Oakland Raiders,217.0,76.0,84.0
+2016,49992,Dak Prescott,Mississippi State,37.0,135.0,4.0,False,Compensatory,Dallas Cowboys,226.0,74.0,48.0
+2016,49993,Cardale Jones,Ohio State,41.0,139.0,4.0,False,Compensatory,Buffalo Bills,253.0,77.0,47.0
+2016,49998,Kevin Hogan,Stanford,23.0,162.0,5.0,False,From SEA,Kansas City Chiefs,218.0,75.0,52.0
+2016,50000,Nate Sudfeld,Indiana,12.0,187.0,6.0,False,From NO,Washington Redskins,234.0,78.0,59.0
+2016,50003,Jake Rudock,Michigan,16.0,191.0,6.0,False,,Detroit Lions,207.0,75.0,32.0
+2016,50001,Brandon Allen,Arkansas,26.0,201.0,6.0,False,From PIT,Jacksonville Jaguars,217.0,73.0,69.0
+2016,49999,Jeff Driskel,Louisiana Tech,32.0,207.0,6.0,False,From DEN,San Francisco 49ers,234.0,76.0,49.0
+2016,50002,Brandon Doughty,Western Kentucky,2.0,223.0,7.0,True,From CLE,Miami Dolphins,213.0,75.0,39.0
+2016,50004,Josh Woodrum,Liberty,,,,,,,231.0,74.875,34.0
+2016,50517,Vernon Adams Jr.,Oregon,,,,,,,200.0,70.875,33.0
+2016,49996,Mike Bercovici,Arizona State,,,,,,,206.0,72.5,31.0
+2017,51705,Mitchell Trubisky,North Carolina,2.0,2.0,1.0,True,From SF,Chicago Bears,222.0,74.0,89.0
+2017,52092,Patrick Mahomes,Texas Tech,10.0,10.0,1.0,True,From BUF,Kansas City Chiefs,225.0,74.0,85.0
+2017,51563,Deshaun Watson,Clemson,12.0,12.0,1.0,True,From PHI through CLE,Houston Texans,221.0,75.0,88.0
+2017,51681,DeShone Kizer,Notre Dame,20.0,52.0,2.0,True,From TEN,Cleveland Browns,233.0,76.0,82.0
+2017,51680,Davis Webb,California,23.0,87.0,3.0,False,,New York Giants,229.0,77.0,73.0
+2017,51564,C.J. Beathard,Iowa,40.0,104.0,3.0,True,Compensatory from KC through MIN,San Francisco 49ers,219.0,75.0,59.0
+2017,51565,Joshua Dobbs,Tennessee,29.0,135.0,4.0,False,,Pittsburgh Steelers,216.0,75.0,79.0
+2017,51779,Nathan Peterman,Pittsburgh,28.0,171.0,5.0,True,From DAL,Buffalo Bills,226.0,75.0,77.0
+2017,51567,Brad Kaaya,Miami,32.0,215.0,6.0,True,From NE,Detroit Lions,214.0,76.0,69.0
+2017,51568,Chad Kelly,Ole Miss,35.0,253.0,7.0,False,Compensatory,Denver Broncos,228.0,74.0,32.0
+2017,52048,Alek Torgersen,Penn,,,,,,,218.0,74.375,35.0
+2017,51569,Mitch Leidner,Minnesota,,,,,,,226.0,75.5,31.0
+2018,101525,Baker Mayfield,Oklahoma,1.0,1.0,1.0,False,,Cleveland Browns,215.0,73.0,91.0
+2018,101504,Sam Darnold,USC,3.0,3.0,1.0,True,From IND,New York Jets,221.0,75.0,94.0
+2018,101505,Josh Allen,Wyoming,7.0,7.0,1.0,True,From TB,Buffalo Bills,237.0,77.0,92.0
+2018,101506,Josh Rosen,UCLA,10.0,10.0,1.0,True,From OAK,Arizona Cardinals,226.0,76.0,92.0
+2018,101568,Lamar Jackson,Louisville,32.0,32.0,1.0,True,From PHI,Baltimore Ravens,216.0,74.0,87.0
+2018,101545,Mason Rudolph,Oklahoma State,12.0,76.0,3.0,True,From SEA thru GB,Pittsburgh Steelers,235.0,77.0,79.0
+2018,101735,Kyle Lauletta,Richmond,8.0,108.0,4.0,True,From TB,New York Giants,222.0,75.0,78.0
+2018,101717,Mike White,Western Kentucky,34.0,171.0,5.0,False,Compensatory,Dallas Cowboys,224.0,77.0,68.0
+2018,101541,Luke Falk,Washington State,25.0,199.0,6.0,False,,Tennessee Titans,215.0,76.0,71.0
+2018,101764,Tanner Lee,Nebraska,29.0,203.0,6.0,False,,Jacksonville Jaguars,218.0,76.0,45.0
+2018,102020,Danny Etling,LSU,1.0,219.0,7.0,True,From CLE,New England Patriots,222.0,75.0,30.0
+2018,102585,Alex Mcgough,Florida Intl,2.0,220.0,7.0,True,From PIT thru NYG,Seattle Seahawks,212.0,75.0,30.0
+2018,101859,Logan Woodside,Toledo,31.0,249.0,7.0,True,From NE,Cincinnati Bengals,213.0,73.0,51.0
+2018,101828,Kyle Allen,Houston,,,,,,,211.0,75.0,50.0
+2018,101829,Chase Litton,Marshall,,,,,,,232.0,77.0,44.0
+2018,101616,Kurt Benkert,Virginia,,,,,,,218.0,74.625,43.0
+2018,101591,Riley Ferguson,Memphis,,,,,,,212.0,74.75,34.0
+2018,101864,Austin Allen,Arkansas,,,,,,,209.0,72.0,31.0
+2019,103832,Kyler Murray,Oklahoma,1.0,1.0,1.0,False,,Arizona Cardinals,207.0,70.0,90.0
+2019,103572,Daniel Jones,Duke,6.0,6.0,1.0,False,,New York Giants,221.0,77.0,80.0
+2019,103560,Dwayne Haskins,Ohio State,15.0,15.0,1.0,False,,Washington,231.0,75.0,90.0
+2019,103589,Drew Lock,Missouri,10.0,42.0,2.0,True,From CIN,Denver Broncos,228.0,76.0,89.0
+2019,103539,Will Grier,West Virginia,36.0,100.0,3.0,False,Compensatory Selection,Carolina Panthers,217.0,75.0,68.0
+2019,103552,Ryan Finley,NC State,2.0,104.0,4.0,True,From SF,Cincinnati Bengals,213.0,76.0,88.0
+2019,103564,Jarrett Stidham,Auburn,31.0,133.0,4.0,True,From LAR,New England Patriots,218.0,74.0,81.0
+2019,103813,Easton Stick,North Dakota State,28.0,166.0,5.0,False,,Los Angeles Chargers,224.0,73.0,35.0
+2019,103610,Clayton Thorson,Northwestern,29.0,167.0,5.0,True,From NE via LAR and KC,Philadelphia Eagles,222.0,76.0,65.0
+2019,103586,Gardner Minshew,Washington State,5.0,178.0,6.0,False,,Jacksonville Jaguars,225.0,73.0,49.0
+2019,103637,Trace McSorley,Penn State,24.0,197.0,6.0,True,From PHI,Baltimore Ravens,202.0,72.0,46.0
+2019,103883,Tyree Jackson,Buffalo,,,,,,,249.0,79.0,66.0
+2019,103701,Brett Rypien,Boise State,,,,,,,210.0,73.625,38.0
+2020,104204,Joe Burrow,LSU,1.0,1.0,1.0,False,,Cincinnati Bengals,221.0,76.0,94.0
+2020,104093,Tua Tagovailoa,Alabama,5.0,5.0,1.0,False,,Miami Dolphins,217.0,72.0,93.0
+2020,104099,Justin Herbert,Oregon,6.0,6.0,1.0,False,,Los Angeles Chargers,236.0,78.0,89.0
+2020,104199,Jordan Love,Utah State,26.0,26.0,1.0,True,From HOU through MIA,Green Bay Packers,224.0,76.0,90.0
+2020,104214,Jalen Hurts,Oklahoma,21.0,53.0,2.0,False,,Philadelphia Eagles,222.0,73.0,70.0
+2020,104196,Jacob Eason,Washington,16.0,122.0,4.0,False,,Indianapolis Colts,231.0,78.0,81.0
+2020,104646,James Morgan,Florida International,19.0,125.0,4.0,True,From CHI through NE,New York Jets,229.0,76.0,54.0
+2020,104128,Jake Fromm,Georgia,22.0,167.0,5.0,False,,Buffalo Bills,219.0,74.0,82.0
+2020,104628,Jake Luton,Oregon State,10.0,189.0,6.0,False,,Jacksonville Jaguars,224.0,78.0,47.0
+2020,104459,Cole McDonald,Hawai'i,10.0,224.0,7.0,True,From CLE,Tennessee Titans,215.0,75.0,45.0
+2020,104154,Nate Stanley,Iowa,30.0,244.0,7.0,True,From GB through CLE and NO,Minnesota Vikings,235.0,76.0,56.0
+2020,104233,Anthony Gordon,Washington State,,,,,,,205.0,74.375,57.0
+2020,104229,Steven Montez,Colorado,,,,,,,231.0,76.0,41.0
+2020,104143,Brian Lewerke,Michigan State,,,,,,,213.0,74.5,36.0
+2020,104629,Tyler Huntley,Utah,,,,,,,205.0,73.0,36.0
+2020,104549,Shea Patterson,Michigan,,,,,,,212.0,72.875,31.0
+2021,104734,Trevor Lawrence,Clemson,1.0,1.0,1.0,False,,Jacksonville Jaguars,213.0,78.0,97.0
+2021,104933,Zach Wilson,BYU,2.0,2.0,1.0,False,,New York Jets,214.0,74.0,93.0
+2021,104742,Trey Lance,North Dakota State,3.0,3.0,1.0,True,From HOU through MIA,San Francisco 49ers,224.0,76.0,92.0
+2021,104739,Justin Fields,Ohio State,11.0,11.0,1.0,True,From NYG,Chicago Bears,227.0,75.0,91.0
+2021,104935,Mac Jones,Alabama,15.0,15.0,1.0,False,,New England Patriots,217.0,75.0,90.0
+2021,105144,Kyle Trask,Florida,32.0,64.0,2.0,False,,Tampa Bay Buccaneers,236.0,77.0,78.0
+2021,104791,Kellen Mond,Texas A&M,2.0,66.0,3.0,True,From NYJ,Minnesota Vikings,211.0,75.0,77.0
+2021,105275,Davis Mills,Stanford,3.0,67.0,3.0,False,,Houston Texans,217.0,76.0,79.0
+2021,105150,Ian Book,Notre Dame,28.0,133.0,4.0,False,,New Orleans Saints,211.0,72.0,43.0
+2021,104851,Sam Ehlinger,Texas,34.0,218.0,6.0,True,Compensatory Selection from NO,Indianapolis Colts,220.0,73.0,38.0
+2021,104814,Jamie Newman,Georgia,,,,,,,234.0,74.875,55.0
+2021,105211,Feleipe Franks,Arkansas,,,,,,,234.0,78.625,39.0
+2021,105151,Shane Buechele,SMU,,,,,,,210.0,72.25,36.0
+2021,105349,Zach Smith,Tulsa,,,,,,,222.0,75.375,31.0
+2021,105467,K.J. Costello,Mississippi State,,,,,,,227.0,76.625,30.0
