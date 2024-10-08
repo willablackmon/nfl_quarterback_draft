@@ -1,0 +1,602 @@
+player_id,player_name,weight,height,school,grade
+23592,Steve Spurrier,,,Florida,
+23593,Bob Griese,,,Purdue,
+23614,Don Horn,,,San Diego State,
+23616,Bo Burris,,,Houston,
+23619,Bob Davis,,,Virginia,
+23654,Vidal Carlin,,,North Texas,
+12375,Terry Southall,,,Baylor,
+23681,Tim Jones,,,Weber State,
+12379,Virgil Carter,,,BYU,
+12389,Rick Egloff,,,Wyoming,
+12395,Corey Colehour,,,North Dakota,
+12401,Bruce Matte,,,Miami (OH),
+12637,Greg Landry,,,UMass,
+12656,Gary Beban,,,UCLA,
+12674,Mike Livingston,,,SMU,
+12678,Ken Stabler,,,Alabama,
+12682,Gary Davis,,,Vanderbilt,
+12693,Billy Stevens,,,UTEP,
+12740,Ronnie South,,,Arkansas,
+12768,Kim Hammond,,,Florida State,
+12781,Dewey Warren,,,Tennessee,
+12796,John Schneider,,,Toledo,
+13093,Greg Cook,,,Cincinnati,
+13097,Marty Domres,,,Columbia,
+13118,Terry Hanratty,,,Notre Dame,
+13129,Bobby Douglass,,,Kansas,
+13140,Al Woodall,,,Duke,
+13198,Onree Jackson,,,Alabama A&M,
+13531,Terry Bradshaw,,,Louisiana Tech,
+13533,Mike Phipps,,,Purdue,
+13560,Dennis Shaw,,,San Diego State,
+13581,Bill Cappleman,,,Florida State,
+13656,Steve Ramsey,,,North Texas,
+13660,Bob Cutburth,,,Oklahoma State,
+13668,Rusty Clark,,,Houston,
+13680,Mike Cilek,,,Iowa,
+13703,Gordon Slade,,,Davidson,
+13971,Jim Plunkett,,,Stanford,
+13972,Archie Manning,,,Ole Miss,
+13973,Dan Pastorini,,,Santa Clara,
+14026,Lynn Dickey,,,Kansas State,
+14029,Leo Hart,,,Duke,
+14037,Ken Anderson,,,Augustana College (IL),
+14048,Karl Douglas,,,Texas A&M-Kingsville,
+14069,Joe Theismann,,,Notre Dame,
+14110,Scott Hunter,,,Alabama,
+14120,Frank Harris,,,Boston College,
+14137,Buddy Lee,,,LSU,
+14423,Jerry Tagge,,,Nebraska,
+14426,John Reaves,,,Florida,
+14452,Pat Sullivan,,,Auburn,
+14579,Jim Fassel,,,Long Beach State,
+14591,Dean Carlson,,,Iowa State,
+14856,Bert Jones,,,LSU,
+14887,Gary Huff,,,Florida State,
+14891,Ron Jaworski,,,Youngstown State,
+14899,Gary Keithley,,,UTEP,
+14911,Joe Ferguson,,,Arkansas,
+14918,Dan Fouts,,,Oregon,
+14934,Mike Wells,,,Illinois,
+14954,Randy Mattingly,,,Evansville,
+14965,Don Strock,,,Virginia Tech,
+15349,Danny White,,,Arizona State,
+15362,David Jaynes,,,Kansas,
+15365,Kim McQuilken,,,Lehigh,
+15366,Gary Marangi,,,Boston College,
+15376,Carl Summerell,,,East Carolina,
+15383,Mike Boryla,,,Stanford,
+15395,Norris Weese,,,Ole Miss,
+15429,Jesse Freitas,,,San Diego State,
+15739,Steve Bartkowski,,,California,
+15792,Mike Franckowiak,,,Central Michigan,
+15802,Gary Sheide,,,BYU,
+15854,Steve Grogan,,,Kansas State,
+15866,Dave Humm,,,Nebraska,
+15873,Bob Avellini,,,Maryland,
+15880,Tom Shuman,,,Penn State,
+15898,Steve Joachim,,,Temple,
+15914,Pat Haden,,,USC,
+16187,Richard Todd,,,Alabama,
+16228,Mike Kruczek,,,Boston College,
+16231,Jeb Blount,,,Tulsa,
+16274,Steve Myer,,,New Mexico,
+16278,Gene Swick,,,Toledo,
+16288,Craig Penrose,,,San Diego State,
+16324,Mike Kirkland,,,Arkansas,
+16358,Scott Bull,,,Arkansas,
+16364,Parnell Dickinson,,,Mississippi Valley State,
+16368,Bob Bateman,,,Brown,
+16686,Steve Pisarkiewicz,,,Missouri,
+16694,Tommy Kramer,,,Rice,
+16721,Glenn Carano,,,UNLV,
+16758,Vince Ferragamo,,,Nebraska,
+16782,Fred Besana,,,California,
+16784,Randy Dean,,,Northwestern,
+16788,Cliff Stoudt,,,Youngstown State,
+16795,Cliff Olander,,,New Mexico State,
+16807,Vince Evans,,,USC,
+16827,Tommy Duniven,,,Texas Tech,
+17019,Doug Williams,,,Grambling,
+17052,Matt Cavanaugh,,,Pittsburgh,
+17053,Guy Benjamin,,,Stanford,
+17070,Mark Miller,,,Bowling Green,
+17075,Gifford Nielsen,,,BYU,
+17106,Pete Woods,,,Missouri,
+17107,Mark Manges,,,Maryland,
+17133,Rob Hertel,,,USC,
+17144,Mike Rieker,,,Lehigh,
+17339,Jack Thompson,,,Washington State,
+17343,Phil Simms,,,Morehead State,
+17359,Steve Fuller,,,Clemson,
+17418,Joe Montana,,,Notre Dame,
+17433,Steve Dils,,,Stanford,
+17452,Dan Manucci,,,Kansas State,
+17468,Rick Leach,,,Michigan,
+17469,Chuck Fusina,,,Penn State,
+17490,Mike Moroski,,,UC Davis,
+17681,Marc Wilson,,,BYU,
+17694,Mark Malone,,,Arizona State,
+17703,Gene Bradley,,,Arkansas State,
+17751,Eric Hipple,,,Utah State,
+17755,Rusty Lisch,,,Notre Dame,
+17767,Ed Luther,,,San José State,
+17775,Paul McDonald,,,USC,
+17776,Bill Hurley,,,Syracuse,
+17799,Gary Hogeboom,,,Central Michigan,
+17811,Scott Brunner,,,Delaware,
+17848,Craig Bradshaw,,,Utah State,
+18005,Rich Campbell,,,California,
+18032,Neil Lomax,,,Portland State,
+18089,Tom Flick,,,Washington,
+18095,Brad Wright,,,New Mexico,
+18097,Mark Herrmann,,,Purdue,
+18335,Art Schlichter,,,Ohio State,
+18336,Jim McMahon,,,BYU,
+18375,Oliver Luck,,,West Virginia,
+18379,Matt Kofler,,,San Diego State,
+18415,Mike Pagel,,,Arizona State,
+18480,Mike Kelley,,,Georgia Tech,
+18485,Mike Machurek,,,Idaho State,
+18666,John Elway,,,Stanford,
+18672,Todd Blackledge,,,Penn State,
+18679,Jim Kelly,,,Miami,
+18680,Tony Eason,,,Illinois,
+18689,Ken O'Brien,,,UC Davis,
+18692,Dan Marino,,,Pittsburgh,
+18802,Jeff Christensen,,,Eastern Illinois,
+18827,Reggie Collier,,,Southern Mississippi,
+18833,Babe Laufenberg,,,Indiana,
+19038,Boomer Esiason,,,Maryland,
+19059,Jeff Hostetler,,,West Virginia,
+19080,Rick McIvor,,,Texas,
+19083,Jay Schroeder,,,UCLA,
+19113,Steve Pelluer,,,Washington,
+19138,Dean May,,,Louisville,
+19148,Ben Bennett,,,Duke,
+19153,Randy Wright,,,Wisconsin,
+19158,Terry Nugent,,,Colorado State,
+19160,John Witkowski,,,Columbia,
+19191,Scott Campbell,,,Purdue,
+19373,Randall Cunningham,,,UNLV,
+19393,Frank Reich,,,Maryland,
+19478,Steve Bono,,,UCLA,
+19479,Rusty Hilger,,,Oklahoma State,
+19504,Scott Barry,,,UC Davis,
+19675,Jim Everett,,,Purdue,
+19684,Chuck Long,,,Iowa,
+19719,Jack Trudeau,,,Illinois,
+19739,Bubby Brister,,,UL Monroe,
+19743,Hugh Millen,,,Washington,
+19744,Robbie Bosco,,,BYU,
+19771,Doug Gaynor,,,Long Beach State,
+19818,Mark Rypien,,,Washington State,
+19822,Stan Gelbaugh,,,Maryland,
+19846,Mike Norseth,,,Kansas,
+20006,Vinny Testaverde,,,Miami,
+20011,Kelly Stouffer,,,Colorado State,
+20018,Chris Miller,,,Oregon,
+20031,Jim Harbaugh,,,Michigan,
+20069,Cody Carlson,,,Baylor,
+20093,Mark Vlasic,,,Iowa,
+20103,Rich Gannon,,,Delaware,
+20104,Troy Stradford,,,Boston College,
+20115,Steve Beuerlein,,,Notre Dame,
+20185,Kevin Sweeney,,,Fresno State,
+20191,Doug Hudson,,,Nicholls,
+20674,Troy Aikman,,,UCLA,
+20705,Mike Elkins,,,Wake Forest,
+20724,Billy Joe Tolliver,,,Texas Tech,
+20747,Anthony Dilweg,,,Duke,
+20756,Erik Wilhelm,,,Oregon State,
+20760,Jeff Graham,,,Long Beach State,
+20775,Jeff Carlson,,,Weber State,
+20813,Jeff Francis,,,Tennessee,
+20814,Rodney Peete,,,USC,
+20865,Brent Snyder,,,Utah State,
+20868,Terrence Jones,,,Tulane,
+770,Jeff George,,,Illinois,
+4660,Andre Ware,,,Houston,
+21042,Tommy Hodson,,,LSU,
+21046,Peter Tom Willis,,,Florida State,
+21053,Neil O'Donnell,,,Maryland,
+21067,Troy Taylor,,,California,
+21069,Cary Conklin,,,Washington,
+21076,Scott Mitchell,,,Utah,
+21118,Craig Kupp,,,Pacific Lutheran,
+21121,John Friesz,,,Idaho,
+21139,Mike Buck,,,Maine,
+782,Dan McGwire,,,San Diego State,
+4652,Todd Marinovich,,,USC,
+21317,Brett Favre,,,Southern Mississippi,
+21318,Browning Nagle,,,Louisville,
+21368,Scott Zolak,,,Maryland,
+21383,Donald Hollas,,,Rice,
+21390,Bill Musgrave,,,Oregon,
+21415,Craig Erickson,,,Miami,
+21474,Paul Justin,,,Arizona State,
+4608,David Klingler,,,Houston,
+4626,Tommy Maddox,,,UCLA,
+21631,Matt Blundin,,,Virginia,
+21637,Tony Sacca,,,Penn State,
+21677,Craig Erickson,,,Miami,
+21693,Casey Weldon,,,Florida State,
+21698,Will Furrer,,,Virginia Tech,
+21703,Chris Hakel,,,William & Mary,
+21756,Jeff Blake,,,East Carolina,
+766,Drew Bledsoe,,,Washington State,
+780,Rick Mirer,,,Notre Dame,
+21954,Billy Joe Hobert,,,Washington,
+22014,Mark Brunell,,,Washington,
+22088,Gino Torretta,,,Miami,
+4550,Heath Shuler,,,Tennessee,
+4553,Trent Dilfer,,,Fresno State,
+22201,Perry Klein,,,LIU-C.W. Post,
+22206,Doug Nussmeier,,,Idaho,
+22268,Jim Miller,,,Michigan State,
+22287,Gus Frerotte,,,Tulsa,
+22288,Jay Walker,,,Howard,
+22289,Steve Matthews,,,Memphis,
+4518,Steve McNair,,,Alcorn State,
+4520,Kerry Collins,,,Penn State,
+22326,Todd Collins,,,Michigan,
+22341,Kordell Stewart,,,Colorado,
+22361,Stoney Case,,,New Mexico,
+22365,Eric Zeier,,,Georgia,
+22380,Rob Johnson,,,USC,
+22392,Chad May,,,Kansas State,
+22400,Dave Barr,,,California,
+22415,Steve Stenstrom,,,Stanford,
+22440,Jay Barker,,,Alabama,
+22471,Jerry Colquitt,,,Tennessee,
+22477,Craig Whelihan,,,Pacific,
+22493,John Walsh,,,BYU,
+4484,Jim Druckenmiller,,,Virginia Tech,
+22765,Jake Plummer,,,Arizona State,
+22822,Danny Wuerffel,,,Florida,
+22833,Pat Barnes,,,California,
+22894,Mike Cherry,,,Murray State,
+22914,Chuck Clements,,,Houston,
+22927,Tony Graziani,,,Oregon,
+22930,Koy Detmer,,,Colorado,
+761,Peyton Manning,,,Tennessee,
+4434,Ryan Leaf,,,Washington State,
+22993,Charlie Batch,,,Eastern Michigan,
+23019,Jonathan Quinn,,,Middle Tennessee,
+23024,Brian Griese,,,Michigan,
+23105,John Dutton,,,Nevada,
+23120,Matt Hasselbeck,,,Boston College,
+4404,Tim Couch,,,Kentucky,
+4405,Donovan McNabb,,,Syracuse,
+4406,Akili Smith,,,Oregon,
+4414,Daunte Culpepper,,,UCF,
+4415,Cade McNown,,,UCLA,
+23193,Shaun King,,,Tulane,
+23220,Brock Huard,,,Washington,
+23244,Joe Germaine,,,Ohio State,
+23274,Aaron Brooks,,,Virginia,
+23294,Kevin Daft,,,UC Davis,
+23370,Michael Bishop,,,Kansas State,
+800,Chad Pennington,,,Marshall,
+23399,Giovanni Carmazzi,,,Hofstra,
+23497,Tee Martin,,,Tennessee,
+23502,Marc Bulger,,,West Virginia,
+23517,Spergon Wynn,,,Texas State,
+23533,Tom Brady,,,Michigan,
+23536,Todd Husak,,,Stanford,
+23539,JaJuan Seider,,,Florida A&M,
+23546,Tim Rattay,,,Louisiana Tech,
+23548,Jarious Jackson,,,Notre Dame,
+23568,Joe Hamilton,,,Georgia Tech,
+25,Michael Vick,215.0,,Virginia Tech,
+2,Drew Brees,215.0,,Purdue,
+3,Quincy Carter,220.0,,Georgia,
+24,Marques Tuiasosopo,220.0,,Washington,
+26,Chris Weinke,226.0,,Florida State,
+22,Sage Rosenfels,229.0,,Iowa State,
+20,Jesse Palmer,227.0,,Florida,
+17,Mike McMahon,206.0,,Rutgers,
+7,A.J. Feeley,220.0,,Oregon,
+1,Josh Booty,221.0,,LSU,
+12,Josh Heupel,215.0,,Oklahoma,
+4184,David Carr,223.0,,Fresno State,
+4193,Joey Harrington,220.0,,Oregon,
+4205,Patrick Ramsey,224.0,,Tulane,
+4198,Josh McCown,217.0,,Sam Houston State,
+4191,David Garrard,235.0,,East Carolina,
+4188,Rohan Davey,245.0,,LSU,
+4190,Randy Fasani,235.0,,Stanford,
+4195,Kurt Kittner,219.0,,Illinois,
+4189,Brandon Doman,210.0,,BYU,
+4200,Craig Nall,220.0,,Northwestern State,
+4202,J.T. O'Sullivan,220.0,,UC Davis,
+4182,Seth Burford,240.0,,Cal Poly,
+4709,Jeff Kelly,207.0,,Southern Mississippi,
+4187,Ronald Curry,220.0,,North Carolina,
+4203,Wes Pate,225.0,,Stephen F. Austin,
+7035,Carson Palmer,232.0,,USC,
+7033,Byron Leftwich,241.0,,Marshall,
+7021,Kyle Boller,234.0,,California,
+7028,Rex Grossman,217.0,,Florida,
+7037,Dave Ragone,249.0,,Louisville,
+7039,Chris Simms,220.0,,Texas,
+7043,Seneca Wallace,196.0,,Iowa State,
+7040,Brian St. Pierre,218.0,,Boston College,
+7250,Drew Henson,,,Michigan,
+7022,Brooks Bollinger,203.0,,Wisconsin,
+7032,Kliff Kingsbury,208.0,,Texas Tech,
+7029,Gibran Hamdan,219.0,,Indiana,
+7025,Ken Dorsey,205.0,,Miami,
+7841,Eli Manning,221.0,76.75,Ole Miss,98.0
+7842,Philip Rivers,224.0,76.75,NC State,95.0
+7840,Ben Roethlisberger,241.0,76.875,Miami (OH),99.0
+7843,J.P. Losman,224.0,74.25,Tulane,89.0
+7844,Matt Schaub,233.0,77.5,Virginia,80.0
+7853,Luke McCown,208.0,75.875,Louisiana Tech,60.0
+7859,Craig Krenzel,228.0,75.5,Ohio State,43.0
+7867,Andrew Hall,220.0,74.0,Delaware,20.0
+7846,Josh Harris,234.0,73.0,Bowling Green,68.0
+7869,Jim Sorgi,207.0,75.375,Wisconsin,30.0
+7850,Jeff Smoker,225.0,75.25,Michigan State,54.0
+7845,John Navarre,246.0,78.0,Michigan,59.0
+7847,Cody Pickett,230.0,75.875,Washington,66.0
+7858,Casey Bramlet,225.0,75.75,Wyoming,30.0
+7848,Matt Mauck,228.0,73.625,LSU,52.0
+7852,JARED LORENZEN,288.0,75.375,Kentucky,57.0
+7855,ROD RUTHERFORD,240.0,73.625,Pittsburgh,48.0
+7849,RYAN DINWIDDIE,192.0,72.5,Boise State,45.0
+7854,CASEY CLAUSEN,223.0,75.5,Tennessee,39.0
+7856,SCOTT RISLOV,224.0,73.0,San José State,36.0
+7862,JASON FIFE,226.0,75.875,Oregon,34.0
+7861,ROBERT KENT,230.0,76.5,Jackson State,32.0
+7870,ADAM HALL,215.0,74.125,San Diego State,31.0
+9077,Alex Smith,217.0,76.125,Utah,98.0
+8743,Aaron Rodgers,223.0,74.0,California,99.0
+8754,Jason Campbell,230.0,76.75,Auburn,86.0
+8747,Charlie Frye,225.0,75.875,Akron,85.0
+8746,Andrew Walter,233.0,78.125,Arizona State,84.0
+8749,David Greene,226.0,75.5,Georgia,70.0
+8748,Kyle Orton,233.0,76.0,Purdue,79.0
+8769,Stefan LeFors,208.0,72.125,Louisville,59.0
+8768,Dan Orlovsky,225.0,77.0,UConn,67.0
+9112,Adrian McPherson,218.0,75.5,Florida State,68.0
+8751,Derek Anderson,242.0,78.125,Oregon State,73.0
+8760,James Kilian,215.0,74.75,Tulsa,30.0
+9171,Matt Cassel,,,USC,
+8750,Jason White,223.0,74.5,Oklahoma,63.0
+8756,Timmy Chang,211.0,73.0,Hawai'i,61.0
+8758,Bryan Randall,225.0,72.25,Virginia Tech,53.0
+8753,Chris Rix,214.0,74.0,Florida State,49.0
+8764,Gino Guidugli,229.0,75.75,Cincinnati,46.0
+9078,Walter Washington,237.0,73.875,Temple,42.0
+8775,Dustin Long,208.0,74.5,Sam Houston State,37.0
+8791,Craig Ochs,218.0,73.75,Montana,36.0
+8763,Jared Allen,218.0,74.25,Florida Atlantic,33.0
+8761,Darian Durant,215.0,71.0,North Carolina,31.0
+10300,Vince Young,229.0,76.625,Texas,97.0
+9237,Matt Leinart,223.0,76.875,USC,98.0
+9296,Jay Cutler,226.0,75.25,Vanderbilt,96.0
+9824,Kellen Clemens,224.0,73.625,Oregon,85.0
+10418,Tarvaris Jackson,226.0,74.0,Alabama State,65.0
+9268,Charlie Whitehurst,223.0,76.75,Clemson,77.0
+9322,Brodie Croyle,205.0,74.5,Alabama,81.0
+9917,Ingle Martin,220.0,74.25,Furman,35.0
+10303,Omar Jacobs,232.0,76.0,Bowling Green,72.0
+9190,Bruce Gradkowski,217.0,73.375,Toledo,63.0
+9259,D.J. Shockley,214.0,73.125,Georgia,59.0
+11405,JaMarcus Russell,256.0,77.5,LSU,98.0
+10302,Brady Quinn,232.0,75.75,Notre Dame,97.0
+10870,Kevin Kolb,218.0,75.125,Houston,71.0
+10491,John Beck,215.0,74.125,BYU,86.0
+10301,Drew Stanton,226.0,75.25,Michigan State,87.0
+10660,Trent Edwards,231.0,76.125,Stanford,85.0
+11165,Isaiah Stanback,216.0,74.375,Washington,59.0
+11098,Jeff Rowe,226.0,77.25,Nevada,39.0
+11150,Troy Smith,225.0,72.0,Ohio State,70.0
+11016,Jordan Palmer,231.0,77.625,UTEP,44.0
+11200,Tyler Thigpen,216.0,73.5,Coastal Carolina,20.0
+10886,Chris Leak,209.0,71.875,Florida,56.0
+11014,Tyler Palko,215.0,73.375,Pittsburgh,50.0
+11305,Jared Zabransky,204.0,73.75,Boise State,49.0
+10971,Matt Moore,191.0,75.375,Oregon State,36.0
+11193,Zac Taylor,216.0,74.375,Nebraska,32.0
+11038,James Pickney,208.0,74.5,East Carolina,31.0
+11586,Matt Ryan,228.0,76.75,Boston College,98.0
+11486,Joe Flacco,236.0,78.375,Delaware,89.0
+12009,Brian Brohm,230.0,74.875,Louisville,93.0
+12045,Chad Henne,230.0,74.875,Michigan,90.0
+11708,Kevin O'Connell,225.0,77.0,San Diego State,59.0
+11740,John David Booty,218.0,74.375,USC,78.0
+11955,Dennis Dixon,195.0,75.25,Oregon,45.0
+11706,Josh Johnson,213.0,74.75,San Diego,54.0
+11766,Erik Ainge,225.0,77.5,Tennessee,66.0
+11634,Colt Brennan,207.0,74.375,Hawai'i,41.0
+11985,Andre' Woodson,229.0,76.0,Kentucky,71.0
+12001,Matt Flynn,231.0,74.25,LSU,48.0
+12203,Alex Brink,211.0,74.25,Washington State,30.0
+24681,Matthew Stafford,225.0,74.25,Georgia,96.0
+24676,Mark Sanchez,227.0,74.125,USC,95.0
+24693,Josh Freeman,248.0,77.75,Kansas State,85.0
+24649,Pat White,197.0,72.25,West Virginia,79.0
+24059,Stephen McGee,225.0,74.875,Texas A&M,54.0
+24352,Rhett Bomar,225.0,74.25,Sam Houston State,56.0
+24710,Nate Davis,226.0,73.375,Ball State,51.0
+24659,Tom Brandstater,220.0,77.0,Fresno State,47.0
+23947,Mike Teel,230.0,75.0,Rutgers,30.0
+24365,Keith Null,222.0,75.125,West Texas A&M,30.0
+24344,Curtis Painter,225.0,74.875,Purdue,39.0
+23857,Brian Hoyer,215.0,74.0,Michigan State,60.0
+24604,Hunter Cantwell,235.0,76.375,Louisville,46.0
+24410,Graham Harrell,223.0,74.125,Texas Tech,43.0
+24152,John Parker Wilson,219.0,73.5,Alabama,40.0
+25545,Sam Bradford,236.0,76.25,Oklahoma,97.0
+24889,Tim Tebow,236.0,74.75,Florida,78.0
+25716,Jimmy Clausen,222.0,74.625,Notre Dame,89.0
+25548,Colt McCoy,216.0,73.125,Texas,86.0
+25179,Michael Kafka,225.0,75.125,Northwestern,59.0
+25321,John Skelton,243.0,77.375,Fordham,50.0
+25811,Jonathan Crompton,222.0,75.0,Tennessee,33.0
+25398,Rusty Smith,231.0,76.75,Florida Atlantic,30.0
+25394,Dan LeFevour,230.0,75.25,Central Michigan,54.0
+25810,Joe Webb,223.0,75.0,UAB,30.0
+25575,Tony Pike,223.0,77.75,Cincinnati,73.0
+25709,Levi Brown,229.0,75.5,Troy,58.0
+25736,Sean Canfield,223.0,75.75,Oregon State,38.0
+27308,Cam Newton,248.0,77.0,Auburn,93.0
+26069,Jake Locker,231.0,74.5,Washington,90.0
+27028,Blaine Gabbert,234.0,76.375,Missouri,96.0
+27210,Christian Ponder,229.0,74.0,Florida State,85.0
+26122,Andy Dalton,215.0,74.0,TCU,86.0
+26167,Colin Kaepernick,233.0,76.625,Nevada,81.0
+26080,Ryan Mallett,253.0,78.75,Arkansas,82.0
+26154,Ricky Stanzi,223.0,76.375,Iowa,75.0
+27302,T.J. Yates,221.0,75.625,North Carolina,46.0
+27272,Nathan Enderle,240.0,76.125,Idaho,43.0
+27229,Tyrod Taylor,216.0,72.75,Virginia Tech,60.0
+26219,Greg McElroy,220.0,73.875,Alabama,49.0
+26105,Pat Devlin,225.0,75.375,Delaware,38.0
+27111,Scott Tolzien,209.0,74.0,Wisconsin,32.0
+27116,Taylor Potts,220.0,76.0,Texas Tech,31.0
+28325,Andrew Luck,234.0,76.0,Stanford,99.0
+28956,Robert Griffin III,231.0,74.375,Baylor,97.0
+28393,Ryan Tannehill,221.0,75.875,Texas A&M,94.0
+28779,Brandon Weeden,221.0,75.5,Oklahoma State,86.0
+29000,Brock Osweiler,242.0,78.875,Arizona State,87.0
+28525,Russell Wilson,204.0,70.625,Wisconsin,69.0
+27468,Nick Foles,243.0,77.0,Arizona,84.0
+28010,Kirk Cousins,214.0,74.625,Michigan State,83.0
+28260,Ryan Lindley,229.0,76.125,San Diego State,37.0
+28606,Kellen Moore,197.0,72.0,Boise State,42.0
+30224,EJ Manuel,237.0,76.625,Florida State,76.0
+29965,Geno Smith,218.0,74.375,West Virginia,89.0
+29224,Mike Glennon,225.0,79.125,NC State,77.0
+29232,Matt Barkley,227.0,74.5,USC,87.0
+29300,Ryan Nassib,227.0,74.125,Syracuse,88.0
+29967,Tyler Wilson,215.0,74.125,Arkansas,78.0
+29956,Landry Jones,225.0,76.125,Oklahoma,74.0
+29288,Brad Sorensen,229.0,76.5,Southern Utah,30.0
+29975,Zac Dysert,231.0,74.875,Miami (OH),75.0
+29634,B.J. Daniels,216.0,,South Florida,
+30056,Matt Scott,213.0,74.125,Arizona,71.0
+29972,Tyler Bray,232.0,78.125,Tennessee,65.0
+29691,Ryan Griffin,216.0,75.875,Tulane,48.0
+34717,Blake Bortles,232.0,77.0,UCF,91.0
+33057,Johnny Manziel,207.0,71.75,Texas A&M,90.0
+33598,Teddy Bridgewater,214.0,74.125,Louisville,89.0
+32176,Derek Carr,214.0,74.375,Fresno State,68.0
+33695,Jimmy Garoppolo,226.0,74.25,Eastern Illinois,82.0
+33064,Logan Thomas,248.0,78.125,Virginia Tech,61.0
+33173,Tom Savage,228.0,75.875,Pittsburgh,75.0
+34147,Aaron Murray,207.0,72.5,Georgia,62.0
+34118,AJ McCarron,220.0,75.25,Alabama,78.0
+33654,Zach Mettenberger,224.0,76.875,LSU,60.0
+34154,David Fales,212.0,73.625,San José State,63.0
+33171,Keith Wenning,218.0,74.625,Ball State,42.0
+34121,Tajh Boyd,222.0,72.625,Clemson,39.0
+34780,Garrett Gilbert,220.0,76.0,SMU,31.0
+34702,Stephen Morris,213.0,73.875,Miami,47.0
+33170,Connor Shaw,206.0,72.375,South Carolina,45.0
+46810,Jameis Winston,231.0,75.75,Florida State,97.0
+46814,Marcus Mariota,222.0,75.75,Oregon,93.0
+46930,Garrett Grayson,213.0,74.5,Colorado State,65.0
+46917,Sean Mannion,229.0,77.625,Oregon State,68.0
+46890,Bryce Petty,230.0,74.875,Baylor,73.0
+46951,Brett Hundley,226.0,75.25,UCLA,59.0
+47038,Shane Carden,218.0,73.875,East Carolina,42.0
+47088,Bryan Bennett,211.0,74.25,SE Louisiana,36.0
+47097,Connor Halliday,196.0,75.0,Washington State,35.0
+47123,Anthony Boone,231.0,72.25,Duke,32.0
+47136,Brandon Bridge,229.0,76.375,South Alabama,31.0
+49986,Jared Goff,215.0,76.0,California,91.0
+49988,Carson Wentz,237.0,77.25,North Dakota State,91.0
+49985,Paxton Lynch,244.0,78.625,Memphis,85.0
+49989,Christian Hackenberg,223.0,76.375,Penn State,81.0
+49990,Jacoby Brissett,231.0,75.75,NC State,68.0
+49991,Cody Kessler,220.0,73.25,USC,50.0
+49987,Connor Cook,217.0,76.0,Michigan State,84.0
+49992,Dak Prescott,226.0,74.25,Mississippi State,48.0
+49998,Kevin Hogan,218.0,75.25,Stanford,52.0
+50000,Nate Sudfeld,234.0,78.125,Indiana,59.0
+50003,Jake Rudock,207.0,75.0,Michigan,32.0
+50001,Brandon Allen,217.0,73.375,Arkansas,69.0
+49999,Jeff Driskel,234.0,76.0,Louisiana Tech,49.0
+50002,Brandon Doughty,213.0,74.75,Western Kentucky,39.0
+50004,Josh Woodrum,231.0,74.875,Liberty,34.0
+50517,Vernon Adams Jr.,200.0,70.875,Oregon,33.0
+49996,Mike Bercovici,206.0,72.5,Arizona State,31.0
+51705,Mitchell Trubisky,222.0,74.125,North Carolina,89.0
+52092,Patrick Mahomes,225.0,74.0,Texas Tech,85.0
+51563,Deshaun Watson,221.0,74.5,Clemson,88.0
+51681,DeShone Kizer,233.0,76.25,Notre Dame,82.0
+51680,Davis Webb,229.0,76.625,California,73.0
+51564,C.J. Beathard,219.0,74.5,Iowa,59.0
+51565,Joshua Dobbs,216.0,75.375,Tennessee,79.0
+51779,Nathan Peterman,226.0,74.5,Pittsburgh,77.0
+51567,Brad Kaaya,214.0,75.875,Miami,69.0
+52048,Alek Torgersen,218.0,74.375,Pennsylvania,35.0
+51569,Mitch Leidner,226.0,75.5,Minnesota,31.0
+101525,Baker Mayfield,215.0,72.625,Oklahoma,91.0
+101504,Sam Darnold,221.0,75.375,USC,94.0
+101505,Josh Allen,237.0,76.875,Wyoming,92.0
+101506,Josh Rosen,226.0,76.0,UCLA,92.0
+101568,Lamar Jackson,216.0,74.25,Louisville,87.0
+101545,Mason Rudolph,235.0,76.625,Oklahoma State,79.0
+101735,Kyle Lauletta,222.0,74.625,Richmond,78.0
+101717,Mike White,224.0,76.625,Western Kentucky,68.0
+101541,Luke Falk,215.0,75.625,Washington State,71.0
+101764,Tanner Lee,218.0,76.25,Nebraska,45.0
+102020,Danny Etling,222.0,74.5,LSU,30.0
+102585,Alex Mcgough,212.0,74.625,Florida International,30.0
+101859,Logan Woodside,213.0,73.25,Toledo,51.0
+101828,Kyle Allen,211.0,75.0,Houston,50.0
+101829,Chase Litton,232.0,77.0,Marshall,44.0
+101616,Kurt Benkert,218.0,74.625,Virginia,43.0
+101591,Riley Ferguson,212.0,74.75,Memphis,34.0
+101864,Austin Allen,209.0,72.0,Arkansas,31.0
+103832,Kyler Murray,207.0,70.125,Oklahoma,90.0
+103572,Daniel Jones,221.0,77.125,Duke,80.0
+103560,Dwayne Haskins,231.0,75.375,Ohio State,90.0
+103589,Drew Lock,228.0,75.75,Missouri,89.0
+103539,Will Grier,217.0,74.5,West Virginia,68.0
+103552,Ryan Finley,213.0,76.0,NC State,88.0
+103564,Jarrett Stidham,218.0,74.375,Auburn,81.0
+103813,Easton Stick,224.0,73.25,North Dakota State,35.0
+103610,Clayton Thorson,222.0,76.0,Northwestern,65.0
+103586,Gardner Minshew,225.0,72.875,Washington State,49.0
+103637,Trace McSorley,202.0,72.125,Penn State,46.0
+103883,Tyree Jackson,249.0,79.0,Buffalo,66.0
+103701,Brett Rypien,210.0,73.625,Boise State,38.0
+104204,Joe Burrow,221.0,75.5,LSU,94.0
+104093,Tua Tagovailoa,217.0,72.0,Alabama,93.0
+104099,Justin Herbert,236.0,78.25,Oregon,89.0
+104199,Jordan Love,224.0,75.75,Utah State,90.0
+104214,Jalen Hurts,222.0,73.0,Oklahoma,70.0
+104196,Jacob Eason,231.0,77.875,Washington,81.0
+104646,James Morgan,229.0,76.0,Florida International,54.0
+104128,Jake Fromm,219.0,73.875,Georgia,82.0
+104628,Jake Luton,224.0,78.125,Oregon State,47.0
+104459,Cole McDonald,215.0,75.125,Hawai'i,45.0
+104701,Ben DiNucci,210.0,75.0,James Madison,
+104707,Tommy Stevens,235.0,77.0,Mississippi State,
+104154,Nate Stanley,235.0,75.75,Iowa,56.0
+104233,Anthony Gordon,205.0,74.375,Washington State,57.0
+104229,Steven Montez,231.0,76.0,Colorado,41.0
+104143,Brian Lewerke,213.0,74.5,Michigan State,36.0
+104629,Tyler Huntley,205.0,73.0,Utah,36.0
+104549,Shea Patterson,212.0,72.875,Michigan,31.0
+104734,Trevor Lawrence,213.0,77.625,Clemson,97.0
+104933,Zach Wilson,214.0,74.125,BYU,93.0
+104742,Trey Lance,224.0,75.875,North Dakota State,92.0
+104739,Justin Fields,227.0,74.75,Ohio State,91.0
+104935,Mac Jones,217.0,74.625,Alabama,90.0
+105144,Kyle Trask,236.0,77.25,Florida,78.0
+104791,Kellen Mond,211.0,74.625,Texas A&M,77.0
+105275,Davis Mills,217.0,75.75,Stanford,79.0
+105150,Ian Book,211.0,72.0,Notre Dame,43.0
+104851,Sam Ehlinger,220.0,73.125,Texas,38.0
+104814,Jamie Newman,234.0,74.875,Georgia,55.0
+105211,Feleipe Franks,234.0,78.625,Arkansas,39.0
+105151,Shane Buechele,210.0,72.25,SMU,36.0
+105349,Zach Smith,222.0,75.375,Tulsa,31.0
+105467,K.J. Costello,227.0,76.625,Mississippi State,30.0
