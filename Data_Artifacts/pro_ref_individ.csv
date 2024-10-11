@@ -1,0 +1,498 @@
+player,hof,all_star,SBs,wAV,AV,record,games,win_%,pass_yards,TD,comp_%,YPA,int,drafted,team,rd,pick,ht,wt,hand,wins,loss
+Steve Bartkowski,,['2x Pro Bowl'],0,100.0,84,59-68-0,129,46.46,24124.0,156,55.9,7.0,144.0,1975,Atlanta Falcons,1,1,6-4,216.0,Right,59,68
+Steve Beuerlein,,['1x Pro Bowl'],1,100.0,85,47-55-0,147,46.08,24046.0,147,56.9,7.2,112.0,1987,Los Angeles Raiders,4,110,6-3,220.0,Right,47,55
+Archie Manning,,['2x Pro Bowl'],0,100.0,94,35-101-3,151,25.74,23911.0,125,55.2,6.6,173.0,1971,New Orleans Saints,1,2,6-3,212.0,Right,35,101
+Brian Sipe,,"['1x Pro Bowl', '1x All-Pro']",0,100.0,87,57-55-0,125,50.89,23713.0,154,56.5,6.9,149.0,1972,Cleveland Browns,13,330,6-1,195.0,Right,57,55
+Andrew Luck,,['4x Pro Bowl'],0,100.0,80,53-33-0,86,61.63,23671.0,171,60.8,7.2,83.0,2012,Indianapolis Colts,1,1,6-4,240.0,Right,53,33
+Josh Allen,,,,100.0,,,3,,,,,,,,Undrafted,,,6-3,315.0,,,
+Norm Van Brocklin,1960,"['9x Pro Bowl', '1x All-Pro']",0,100.0,17,61-36-4,140,62.89,23611.0,173,53.6,8.2,178.0,1949,Los Angeles Rams,4,37,6-1,190.0,Right,61,36
+Otto Graham,1950,"['5x Pro Bowl', '7x All-Pro']",0,,,57-13-1,126,81.43,23584.0,174,55.8,9.0,135.0,1944,Detroit Lions,1,4,6-1,196.0,Right,57,13
+Lynn Dickey,,,,100.0,80,45-63-3,152,41.67,23322.0,141,55.9,7.5,179.0,1971,Houston Oilers,3,56,6-3,214.0,Right,45,63
+Bernie Kosar,,['1x Pro Bowl'],1,100.0,79,53-54-1,126,49.53,23301.0,124,59.3,6.9,87.0,,Cleveland Browns,1,1,6-5,210.0,Right,53,54
+Marc Bulger,,['2x Pro Bowl'],0,100.0,64,41-54-0,96,43.16,22814.0,122,62.1,7.2,93.0,2000,New Orleans Saints,6,168,6-3,208.0,Right,41,54
+Neil Lomax,,['2x Pro Bowl'],0,100.0,82,47-51-2,108,47.96,22771.0,136,57.6,7.2,90.0,1981,St. Louis Cardinals,2,33,6-3,215.0,Right,47,51
+Roger Staubach,1970,['6x Pro Bowl'],2,100.0,127,85-29-0,131,74.56,22700.0,153,57.0,7.7,109.0,1964,Kansas City Chiefs,16,122,6-3,197.0,Right,85,29
+Babe Parilli,,"['3x Pro Bowl', '1x All-Pro']",1,100.0,71,49-45-7,189,52.13,22681.0,178,46.6,6.8,220.0,1952,Green Bay Packers,1,4,6-1,196.0,Right,49,45
+Michael Vick,,['4x Pro Bowl'],0,100.0,112,61-51-1,143,54.46,22464.0,133,56.2,7.0,88.0,2001,Atlanta Falcons,1,1,6-0,210.0,Left,61,51
+Carson Wentz,,['1x Pro Bowl'],1,100.0,68,47-45-1,95,51.09,22292.0,153,62.7,6.7,67.0,2016,Philadelphia Eagles,1,2,6-5,237.0,Right,47,45
+Jameis Winston,,['1x Pro Bowl'],0,100.0,-,-,3,,16.0,141,100.0,16.0,0.0,2015,Tampa Bay Buccaneers,1,1,6-4,230.0,Right,,
+Danny White,,,,100.0,,,27,,,,,,,1988,New York Giants,7,186,6-4,252.0,,,
+Sammy Baugh,1940,"['6x Pro Bowl', '4x All-Pro']",0,,,11-10-0,167,52.38,21886.0,187,56.5,7.3,203.0,1937,Washington Redskins,1,6,6-2,182.0,Right,11,10
+Jeff Blake,,['1x Pro Bowl'],0,100.0,81,39-61-0,119,39.0,21711.0,134,56.4,6.7,99.0,1992,New York Jets,6,166,6-1,223.0,Right,39,61
+Neil O'Donnell,,['1x Pro Bowl'],0,100.0,73,55-45-0,125,55.0,21690.0,120,57.8,6.7,68.0,1990,Pittsburgh Steelers,3,70,6-3,228.0,Right,55,45
+Bobby Hebert,,['1x Pro Bowl'],0,100.0,79,56-44-0,118,56.0,21683.0,135,58.9,6.9,124.0,,Undrafted,,,6-4,215.0,Right,56,44
+Baker Mayfield,,['1x Pro Bowl'],0,100.0,-,3-2-0,5,60.0,1164.0,11,71.9,7.6,2.0,2018,Cleveland Browns,1,1,6-1,215.0,Right,3,2
+Gus Frerotte,,['1x Pro Bowl'],0,100.0,66,45-47-1,147,48.91,21291.0,114,54.7,6.9,106.0,1994,Washington Redskins,7,197,6-3,237.0,Right,45,47
+Jack Kemp,,"['7x Pro Bowl', '2x All-Pro']",0,100.0,83,65-37-3,122,63.73,21218.0,114,46.7,6.9,183.0,1957,Detroit Lions,17,203,6-1,201.0,Right,65,37
+Jim Zorn,,,,100.0,88,44-62-0,140,41.51,21115.0,111,53.0,6.7,141.0,,Undrafted,,,6-2,200.0,Left,44,62
+Jake Delhomme,,['1x Pro Bowl'],0,100.0,66,56-40-0,103,58.33,20975.0,126,59.4,7.2,101.0,,Undrafted,,,6-2,215.0,Right,56,40
+Earl Morrall,,"['2x Pro Bowl', '2x All-Pro']",3,100.0,86,63-36-3,255,63.64,20809.0,161,51.3,7.7,148.0,1956,San Francisco 49ers,1,2,6-1,205.0,Right,63,36
+Richard Todd,,,,100.0,71,48-59-1,119,44.86,20610.0,124,54.3,6.9,161.0,1976,New York Jets,1,6,6-2,207.0,Right,48,59
+Trent Dilfer,,['1x Pro Bowl'],1,100.0,60,58-55-0,130,51.33,20518.0,113,55.5,6.5,129.0,1994,Tampa Bay Buccaneers,1,6,6-4,225.0,Right,58,55
+Billy Kilmer,,['1x Pro Bowl'],0,100.0,100,61-52-1,170,53.98,20495.0,152,53.1,6.9,146.0,1961,San Francisco 49ers,1,11,6-0,204.0,Right,61,52
+Aaron Brooks,,,,100.0,73,38-52-0,93,42.22,20261.0,123,56.5,6.8,92.0,1999,Green Bay Packers,4,131,6-4,205.0,Right,38,52
+Jay Schroeder,,['1x Pro Bowl'],1,100.0,71,61-38-0,118,61.62,20063.0,114,50.8,7.1,108.0,1984,Washington Redskins,3,83,6-4,215.0,Right,61,38
+Charlie Conerly,,['2x Pro Bowl'],0,100.0,6,57-31-1,161,64.77,19488.0,173,50.1,6.9,167.0,1945,Washington Redskins,13,127,6-1,185.0,Right,57,31
+Sam Bradford,,[],0,100.0,49,34-48-1,83,41.46,19449.0,103,62.5,6.6,61.0,2010,St. Louis Rams,1,1,6-4,224.0,Right,34,48
+Brian Griese,,['1x Pro Bowl'],1,100.0,62,45-38-0,93,54.22,19440.0,119,62.7,7.0,99.0,1998,Denver Broncos,3,91,6-3,214.0,Right,45,38
+Chris Miller,,['1x Pro Bowl'],0,100.0,60,34-58-0,98,36.96,19320.0,123,54.6,6.7,102.0,1987,Atlanta Falcons,1,13,6-2,212.0,Right,34,58
+Daryle Lamonica,,"['5x Pro Bowl', '2x All-Pro']",0,100.0,88,66-16-6,151,80.49,19154.0,164,49.5,7.4,138.0,1963,Green Bay Packers,12,168,6-3,215.0,Right,66,16
+Tobin Rote,,"['2x Pro Bowl', '1x All-Pro']",0,100.0,16,48-64-4,149,42.86,18850.0,148,45.7,6.5,191.0,1950,Green Bay Packers,2,17,6-3,211.0,Right,48,64
+Billy Wade,,['2x Pro Bowl'],0,100.0,53,40-43-2,128,48.19,18530.0,124,54.3,7.3,134.0,1952,Los Angeles Rams,1,1,6-2,202.0,Right,40,43
+Dan Pastorini,,['1x Pro Bowl'],1,100.0,72,56-61-0,140,47.86,18515.0,103,50.9,6.1,161.0,1971,Houston Oilers,1,3,6-2,208.0,Right,56,61
+Mark Rypien,,['2x Pro Bowl'],1,100.0,60,47-31-0,104,60.26,18473.0,115,56.1,7.1,88.0,1986,Washington Redskins,6,146,6-4,231.0,Right,47,31
+Bert Jones,,"['1x Pro Bowl', '1x All-Pro']",0,100.0,92,47-49-0,102,48.96,18190.0,124,56.1,7.1,101.0,1973,Baltimore Colts,1,2,6-3,210.0,Right,47,49
+Jim McMahon,,['1x Pro Bowl'],2,100.0,71,67-30-0,119,69.07,18148.0,100,58.0,7.1,90.0,1982,Chicago Bears,1,5,6-1,195.0,Right,67,30
+Kyle Orton,,,,100.0,44,42-40-0,87,51.22,18037.0,101,59.5,6.7,69.0,2005,Chicago Bears,4,106,6-4,228.0,Right,42,40
+Chad Pennington,,,,100.0,,,70,,,,,,,1994,Kansas City Chiefs,3,96,6-0,198.0,,,
+Justin Herbert,,['1x Pro Bowl'],0,100.0,-,2-2-0,4,50.0,578.0,5,64.8,6.4,1.0,2020,Los Angeles Chargers,1,6,6-6,236.0,Right,2,2
+Josh McCown,,,,100.0,1,5-10-0,51,33.33,2895.0,17,38.6,5.2,38.0,,Undrafted,,,6-1,208.0,Right,5,10
+Blake Bortles,,,,100.0,48,24-49-0,78,32.88,17649.0,103,59.3,6.7,75.0,2014,Jacksonville Jaguars,1,3,6-5,236.0,Right,24,49
+Deshaun Watson,,['3x Pro Bowl'],0,100.0,-,1-4-0,5,20.0,852.0,5,60.2,4.8,3.0,2017,Houston Texans,1,12,6-3,223.0,Right,1,4
+Milt Plum,,['2x Pro Bowl'],0,100.0,59,56-41-6,129,57.73,17536.0,122,54.0,7.2,127.0,1957,Cleveland Browns,2,17,6-1,205.0,Right,56,41
+Matt Cassel,,['1x Pro Bowl'],0,100.0,51,36-45-0,107,44.44,17508.0,104,58.8,6.5,82.0,2005,New England Patriots,7,230,6-4,225.0,Right,36,45
+Wade Wilson,,['1x Pro Bowl'],1,100.0,58,36-33-0,125,52.17,17283.0,99,57.3,7.1,102.0,1981,Minnesota Vikings,8,210,6-3,210.0,Right,36,33
+Bill Kenney,,['1x Pro Bowl'],0,100.0,58,34-43-0,106,44.16,17277.0,105,54.7,7.1,86.0,1978,Miami Dolphins,12,333,6-4,211.0,Right,34,43
+Don Meredith,,['3x Pro Bowl'],0,100.0,84,47-32-4,104,59.49,17199.0,135,50.7,7.5,111.0,1960,Dallas Texans,3,32,6-3,210.0,Right,47,32
+Stan Humphries,,,,100.0,56,50-31-0,88,61.73,17191.0,89,56.9,6.8,84.0,1988,Washington Redskins,6,159,6-2,223.0,Right,50,31
+Lamar Jackson,,"['3x Pro Bowl', '2x All-Pro']",0,100.0,-,3-2-0,5,60.0,1206.0,9,65.3,8.0,1.0,2018,Baltimore Ravens,1,32,6-2,205.0,Right,3,2
+Doug Williams,,[],1,100.0,,,74,,,,,,,1983,Los Angeles Raiders,5,138,5-11,180.0,,,
+Elvis Grbac,,['1x Pro Bowl'],1,100.0,53,40-30-0,105,57.14,16774.0,99,59.1,6.9,81.0,1993,San Francisco 49ers,8,219,6-5,232.0,Right,40,30
+Jason Campbell,,,,100.0,54,32-47-0,90,40.51,16771.0,87,60.3,6.7,60.0,2005,Washington Redskins,1,25,6-5,235.0,Right,32,47
+Kyler Murray,,['2x Pro Bowl'],0,100.0,-,2-3-0,5,40.0,972.0,7,68.1,7.0,2.0,2019,Arizona Cardinals,1,1,5-10,207.0,Right,2,3
+Jeff Hostetler,,['1x Pro Bowl'],2,100.0,65,51-32-0,152,61.45,16430.0,94,58.0,7.0,71.0,1984,New York Giants,3,59,6-3,215.0,Right,51,32
+Rodney Peete,,,,100.0,56,45-42-0,104,51.72,16338.0,76,57.3,7.0,92.0,1989,Detroit Lions,6,141,6-0,230.0,Right,45,42
+Geno Smith,,['2x Pro Bowl'],0,100.0,-,3-2-0,5,60.0,1466.0,5,71.9,7.4,4.0,2013,New York Jets,2,39,6-3,221.0,Right,3,2
+Mike Tomczak,,[],1,100.0,57,40-31-0,185,56.34,16079.0,88,53.4,6.9,106.0,,Undrafted,,,6-1,202.0,Right,40,31
+Greg Landry,,['1x Pro Bowl'],0,100.0,96,44-51-3,146,46.32,16052.0,98,55.5,7.0,103.0,1968,Detroit Lions,1,11,6-4,210.0,Right,44,51
+Frank Ryan,,['3x Pro Bowl'],0,100.0,90,57-27-3,126,67.86,16042.0,149,51.1,7.5,111.0,1958,Los Angeles Rams,5,55,6-3,199.0,Right,57,27
+David Garrard,,['1x Pro Bowl'],0,100.0,70,39-37-0,86,51.32,16003.0,89,61.6,7.0,54.0,2002,Jacksonville Jaguars,4,108,6-1,235.0,Right,39,37
+Marcus Mariota,,['1x Pro Bowl'],0,100.0,,,70,,,,,,,2010,Tennessee Titans,7,222,6-1,190.0,,,
+Scott Mitchell,,,,100.0,53,32-39-0,99,45.07,15692.0,95,55.5,6.7,81.0,1990,Miami Dolphins,4,93,6-6,240.0,Left,32,39
+Ed Brown,,['1x Pro Bowl'],0,100.0,,,102,,,,,,,1985,Cincinnati Bengals,1,13,6-0,185.0,,,
+Jimmy Garoppolo,,[],2,100.0,52,43-20-0,81,68.25,15494.0,94,67.4,8.2,51.0,2014,New England Patriots,2,62,6-2,225.0,Right,43,20
+Joe Burrow,,,,100.0,,,56,,,,,,,1962,San Francisco 49ers,7,92,6-3,185.0,,,
+Mark Sanchez,,,,100.0,35,37-36-0,79,50.68,15357.0,86,56.6,6.6,89.0,2009,New York Jets,1,5,6-2,232.0,Right,37,36
+Erik Kramer,,,,100.0,46,31-36-0,83,46.27,15337.0,92,57.3,6.7,79.0,2024,Undrafted,,,6-1,200.0,Right,31,36
+Tony Banks,,[],1,100.0,49,35-43-0,96,44.87,15315.0,77,54.2,6.5,73.0,1996,St. Louis Rams,2,42,6-4,230.0,Right,35,43
+Case Keenum,,,,100.0,40,30-36-0,80,45.45,15175.0,79,62.3,6.8,51.0,,Undrafted,,,6-1,215.0,Right,30,36
+Teddy Bridgewater,,['1x Pro Bowl'],0,100.0,53,33-32-0,79,50.77,15120.0,75,66.4,7.3,47.0,2014,Minnesota Vikings,1,32,6-2,212.0,Right,33,32
+Kordell Stewart,,['1x Pro Bowl'],0,100.0,69,50-34-0,125,59.52,14746.0,77,55.8,6.3,84.0,1995,Pittsburgh Steelers,2,60,6-1,218.0,Right,50,34
+Doug Flutie,,['1x Pro Bowl'],0,100.0,60,38-28-0,92,57.58,14715.0,86,54.7,6.8,68.0,1985,Los Angeles Rams,11,285,5-10,180.0,Right,38,28
+Joey Harrington,,,,100.0,34,26-50-0,81,34.21,14693.0,79,56.1,5.8,85.0,2002,Detroit Lions,1,3,6-4,220.0,Right,26,50
+Sid Luckman,1940,"['3x Pro Bowl', '5x All-Pro']",0,,,0-0-0,128,,14686.0,137,51.8,8.4,132.0,1939,Chicago Bears,1,2,6-0,197.0,Right,0,0
+David Carr,,,,100.0,49,23-56-0,94,29.11,14452.0,65,59.7,6.4,71.0,2002,Houston Texans,1,1,6-3,212.0,Right,23,56
+Bubby Brister,,[],2,100.0,42,37-38-0,99,49.33,14445.0,81,54.6,6.5,78.0,1986,Pittsburgh Steelers,3,67,6-3,205.0,Right,37,38
+Marc Wilson,,[],2,100.0,41,32-28-0,126,53.33,14391.0,86,52.1,6.9,102.0,1980,Oakland Raiders,1,15,6-6,205.0,Right,32,28
+Nick Foles,,['1x Pro Bowl'],1,100.0,37,29-29-0,71,50.0,14227.0,82,62.4,6.8,47.0,2012,Philadelphia Eagles,3,88,6-6,262.0,Right,29,29
+Bill Nelsen,,['1x Pro Bowl'],0,100.0,61,40-31-3,90,56.34,14165.0,98,50.6,7.4,101.0,1963,Pittsburgh Steelers,10,136,6-0,195.0,Right,40,31
+Josh Freeman,,,,100.0,40,25-36-0,62,40.98,13873.0,81,57.6,6.8,68.0,2009,Tampa Bay Buccaneers,1,17,6-6,240.0,Right,25,36
+Gary Danielson,,,,100.0,55,28-31-1,101,47.46,13764.0,81,57.2,7.1,78.0,,Undrafted,,,6-2,195.0,Right,28,31
+Daniel Jones,,,,100.0,,,50,,,,,,,1997,Jacksonville Jaguars,5,147,6-5,270.0,,,
+Eddie LeBaron,,['4x Pro Bowl'],0,100.0,20,28-54-3,134,34.15,13399.0,104,50.0,7.5,141.0,1950,Washington Redskins,10,123,5-9,168.0,Right,28,54
+Chad Henne,1960,"['5x Pro Bowl', '3x All-Pro']",0,100.0,,,95,,,,,,,,Undrafted,,,6-1,187.0,,,
+Sam Darnold,,,,100.0,-,5-0-0,5,100.0,1111.0,11,63.5,8.1,4.0,2018,New York Jets,1,3,6-3,225.0,Right,5,0
+Tua Tagovailoa,,['1x Pro Bowl'],0,100.0,-,1-1-0,2,50.0,483.0,2,64.5,7.8,3.0,2020,Miami Dolphins,1,5,6-1,225.0,Left,1,1
+Bill Munson,,,,100.0,58,27-34-5,107,44.26,12896.0,84,54.0,6.5,80.0,1964,Los Angeles Rams,1,7,6-2,203.0,Right,27,34
+Trevor Lawrence,,['1x Pro Bowl'],0,100.0,-,1-4-0,5,20.0,1100.0,6,59.6,7.1,2.0,2021,Jacksonville Jaguars,1,1,6-6,220.0,Right,1,4
+Don Majkowski,,['1x Pro Bowl'],0,100.0,43,26-30-1,90,46.43,12700.0,66,55.4,6.7,67.0,1987,Green Bay Packers,10,255,6-2,197.0,Right,26,30
+Jalen Hurts,,['2x Pro Bowl'],0,100.0,-,2-2-0,4,50.0,930.0,4,68.2,7.0,4.0,2020,Philadelphia Eagles,2,53,6-1,223.0,Right,2,2
+Mitchell Trubisky,,['1x Pro Bowl'],0,100.0,-,-,4,,5.0,72,66.7,1.7,0.0,2017,Chicago Bears,1,2,6-3,222.0,Right,,
+Colin Kaepernick,,,,100.0,49,28-30-0,69,48.28,12271.0,72,59.8,7.3,30.0,2011,San Francisco 49ers,2,36,6-4,225.0,Right,28,30
+Tyrod Taylor,,['1x Pro Bowl'],1,100.0,-,-,1,,36.0,1,75.0,4.5,0.0,2011,Baltimore Ravens,6,180,6-1,217.0,Right,,
+Rick Mirer,,[],0,100.0,36,24-44-0,80,35.29,11969.0,50,53.3,5.9,76.0,1993,Seattle Seahawks,1,2,6-3,210.0,Right,24,44
+Tom Flores,1982,['1x Pro Bowl'],1,100.0,44,31-33-4,106,48.44,11959.0,93,48.9,7.0,92.0,,Undrafted,,,6-1,202.0,Right,31,33
+Bob Waterfield,,,,100.0,5,0-2-0,30,0.0,707.0,3,47.6,5.7,8.0,1960,Los Angeles Chargers,7,83,6-2,184.0,Right,0,2
+Jay Fiedler,,,,100.0,43,37-23-0,76,61.67,11844.0,69,58.7,6.9,66.0,,Undrafted,,,6-2,225.0,Right,37,23
+Cotton Davidson,,['2x Pro Bowl'],0,100.0,45,19-33-1,111,36.54,11760.0,73,43.9,6.7,108.0,1954,Baltimore Colts,1,5,6-1,182.0,Right,19,33
+Vince Ferragamo,,,,100.0,35,27-26-0,75,50.94,11336.0,76,55.9,7.0,91.0,1977,Los Angeles Rams,4,91,6-3,212.0,Right,27,26
+Mike Livingston,,['1x Pro Bowl'],1,100.0,50,31-43-1,91,41.89,11295.0,56,52.1,6.5,83.0,1968,Kansas City Chiefs,2,48,6-4,212.0,Right,31,43
+Jacoby Brissett,,[],1,100.0,-,1-4-0,5,20.0,696.0,2,58.5,5.2,1.0,2016,New England Patriots,3,91,6-4,235.0,Right,1,4
+Tony Eason,,,,100.0,39,28-23-0,90,54.9,11142.0,61,58.2,7.1,51.0,1983,New England Patriots,1,15,6-4,212.0,Right,28,23
+Tim Couch,,,,100.0,33,22-37-0,62,37.29,11131.0,64,59.8,6.5,67.0,1999,Cleveland Browns,1,1,6-4,220.0,Right,22,37
+Charlie Batch,,[],1,100.0,38,25-30-0,81,45.45,11085.0,61,56.6,6.9,52.0,1998,Detroit Lions,2,60,6-2,216.0,Right,25,30
+Gardner Minshew II,,['1x Pro Bowl'],0,100.0,-,2-3-0,5,40.0,1014.0,4,70.7,7.2,5.0,2019,Jacksonville Jaguars,6,178,6-1,225.0,Right,2,3
+Brian Hoyer,,[],1,100.0,26,16-25-0,79,39.02,10899.0,53,59.3,7.0,37.0,,Undrafted,,,6-2,215.0,Right,16,25
+Derek Anderson,,['1x Pro Bowl'],0,100.0,22,20-29-0,78,40.82,10878.0,60,54.3,6.5,64.0,2005,Baltimore Ravens,6,213,6-6,235.0,Right,20,29
+Frankie Albert,,['1x Pro Bowl'],0,,,13-16-1,90,44.83,10795.0,115,53.1,6.9,98.0,1942,Chicago Bears,1,10,5-10,166.0,Left,13,16
+Eric Hipple,,,,100.0,41,28-29-0,102,49.12,10711.0,55,53.7,6.9,70.0,1980,Detroit Lions,4,85,6-2,196.0,Right,28,29
+Byron Leftwich,,[],1,100.0,36,24-26-0,60,48.0,10532.0,58,57.9,6.6,42.0,2003,Jacksonville Jaguars,1,7,6-5,250.0,Right,24,26
+Mike Phipps,,,,100.0,46,38-31-2,119,55.07,10506.0,55,49.2,5.8,108.0,1970,Cleveland Browns,1,3,6-3,208.0,Right,38,31
+George Ratterman,,[],0,,,9-8-1,92,52.94,10473.0,91,52.8,7.5,96.0,1948,Boston Yanks,16,139,6-0,192.0,Right,9,8
+Steve Bono,,['1x Pro Bowl'],1,100.0,36,28-14-0,88,66.67,10439.0,62,54.9,6.1,42.0,1985,Minnesota Vikings,6,142,6-4,215.0,Right,28,14
+Tommy Thompson,,,,100.0,,,12,,,,,,,,Undrafted,,,6-1,205.0,,,
+Zeke Bratkowski,,[],2,100.0,22,18-30-1,132,37.5,10345.0,65,51.3,7.0,122.0,1953,Chicago Bears,2,17,6-2,210.0,Right,18,30
+Frank Tripucka,,['1x Pro Bowl'],0,100.0,20,17-34-1,75,33.33,10282.0,69,50.4,5.9,124.0,1949,Philadelphia Eagles,1,9,6-2,192.0,Right,17,34
+Dave Brown,,,,100.0,29,26-34-0,73,43.33,10248.0,44,54.6,6.3,58.0,,New York Giants,1,1,6-5,230.0,Right,26,34
+Jack Trudeau,,,,100.0,25,19-30-0,67,38.78,10243.0,42,53.1,6.2,69.0,1986,Indianapolis Colts,2,47,6-3,227.0,Right,19,30
+Rex Grossman,,,,100.0,25,25-22-0,54,53.19,10232.0,56,55.2,6.6,60.0,2003,Chicago Bears,1,22,6-1,225.0,Right,25,22
+Mark Malone,,,,100.0,30,23-30-0,73,43.4,10175.0,60,50.9,6.2,81.0,1980,Pittsburgh Steelers,1,28,6-4,223.0,Right,23,30
+Blaine Gabbert,,[],2,100.0,19,14-35-0,69,28.57,9487.0,51,56.3,6.1,50.0,2011,Jacksonville Jaguars,1,10,6-4,233.0,Right,14,35
+Vince Evans,,,,100.0,34,14-25-0,100,35.9,9485.0,52,50.6,6.8,74.0,1977,Chicago Bears,6,140,6-2,215.0,Right,14,25
+Bobby Thomason,,,,100.0,,,28,,,,,,,,Undrafted,,,5-11,195.0,,,
+Lamar McHan,,,,100.0,9,24-44-2,113,35.29,9449.0,73,42.3,6.6,108.0,1954,Chicago Cardinals,1,2,6-1,201.0,Right,24,44
+Gary Hogeboom,,,,100.0,24,18-19-0,79,48.65,9436.0,49,56.1,7.1,60.0,1980,Dallas Cowboys,5,133,6-4,205.0,Right,18,19
+Mike Pagel,,,,100.0,32,17-36-1,132,32.08,9414.0,49,50.1,6.2,63.0,1982,Baltimore Colts,4,84,6-2,206.0,Right,17,36
+Pat Haden,,['1x Pro Bowl'],0,100.0,36,35-19-1,65,64.81,9296.0,52,53.6,6.8,60.0,1975,Los Angeles Rams,7,176,5-11,182.0,Right,35,19
+Robert Griffin III,,['1x Pro Bowl'],0,100.0,,,195,,,,,,,,Undrafted,,,5-11,197.0,,,
+Bob Berry,,['1x Pro Bowl'],0,100.0,42,20-29-3,78,40.82,9197.0,64,56.4,7.8,64.0,1964,Philadelphia Eagles,11,142,5-11,185.0,Right,20,29
+Vince Young,,['2x Pro Bowl'],0,100.0,36,31-19-0,60,62.0,8964.0,46,57.9,6.9,51.0,2006,Tennessee Titans,1,3,6-5,232.0,Right,31,19
+Mac Jones,,,,100.0,,,54,,,,,,,2005,Jacksonville Jaguars,1,21,6-6,222.0,Right,,
+Kyle Boller,,,,100.0,17,20-27-0,67,42.55,8931.0,48,56.7,5.9,54.0,2003,Baltimore Ravens,1,19,6-3,220.0,Right,20,27
+John Friesz,,,,100.0,28,13-25-0,69,34.21,8699.0,45,54.6,6.4,42.0,1990,San Diego Chargers,6,138,6-4,214.0,Right,13,25
+Jim Finks,1995,['1x Pro Bowl'],0,,,18-27-0,79,40.0,8622.0,55,47.8,6.2,88.0,1949,Pittsburgh Steelers,12,116,5-11,180.0,Right,18,27
+David Woodley,,,,100.0,37,34-18-1,58,65.38,8558.0,48,52.8,6.6,63.0,1980,Miami Dolphins,8,214,6-2,210.0,Right,34,18
+Rudy Bukich,,[],0,100.0,32,21-17-3,103,55.26,8433.0,61,52.6,7.1,74.0,1953,Los Angeles Rams,2,24,6-1,195.0,Right,21,17
+Randy Johnson,,,,100.0,28,10-38-1,75,20.83,8329.0,51,50.3,6.5,90.0,1966,Atlanta Falcons,1,16,6-3,205.0,Right,10,38
+Shaun Hill,,,,100.0,24,17-18-0,49,48.57,8295.0,49,61.8,6.8,30.0,,Undrafted,,,6-3,230.0,Right,17,18
+Pete Beathard,,[],0,100.0,31,18-16-1,110,52.94,8176.0,43,44.9,6.4,84.0,1964,Kansas City Chiefs,1,2,6-1,200.0,Right,18,16
+James Harris,,,,100.0,,,167,,,,,,,1990,Green Bay Packers,4,102,6-4,244.0,,,
+Tommy Maddox,,[],1,100.0,25,15-20-1,92,42.86,8087.0,48,57.2,6.7,54.0,1992,Denver Broncos,1,25,6-4,220.0,Right,15,20
+Colt McCoy,,,,100.0,19,11-25-0,56,30.56,7975.0,34,62.6,6.5,32.0,2010,Cleveland Browns,3,85,6-1,212.0,Right,11,25
+Steve Walsh,,,,100.0,22,20-18-0,80,52.63,7875.0,40,54.1,6.0,50.0,,Dallas Cowboys,1,1,6-3,207.0,Right,20,18
+Kent Graham,,,,100.0,23,17-21-0,81,44.74,7801.0,39,51.8,5.8,33.0,1992,New York Giants,8,211,6-5,231.0,Right,17,21
+Trevor Siemian,,[],1,100.0,16,15-18-0,40,45.45,7751.0,44,58.5,6.4,32.0,2015,Denver Broncos,7,250,6-3,220.0,Right,15,18
+Al Dorow,,['2x Pro Bowl'],0,100.0,27,19-26-0,69,42.22,7708.0,64,47.4,6.4,93.0,1952,Washington Redskins,3,31,6-0,193.0,Right,19,26
+Justin Fields,,,,100.0,-,3-2-0,5,60.0,961.0,5,67.6,7.1,1.0,2021,Chicago Bears,1,11,6-3,227.0,Right,3,2
+Craig Erickson,,,,100.0,22,14-21-0,52,40.0,7625.0,41,54.1,7.0,38.0,1992,Tampa Bay Buccaneers,4,86,6-2,209.0,Right,14,21
+Matt Moore,,[],1,100.0,,,51,,,,,,,1974,San Francisco 49ers,9,216,6-1,197.0,,,
+Brock Osweiler,,[],1,100.0,15,15-15-0,49,50.0,7418.0,37,59.8,6.4,31.0,2012,Denver Broncos,2,57,6-7,240.0,Right,15,15
+Gary Cuozzo,,[],0,100.0,29,21-19-0,82,52.5,7402.0,43,49.4,6.3,55.0,,Undrafted,,,6-0,195.0,Right,21,19
+Tarvaris Jackson,,[],1,100.0,24,17-17-0,59,50.0,7263.0,39,59.6,6.8,35.0,2006,Minnesota Vikings,2,64,6-2,225.0,Right,17,17
+Steve Fuller,,[],1,100.0,31,19-23-0,90,45.24,7156.0,28,56.8,6.7,41.0,1979,Kansas City Chiefs,1,23,6-4,198.0,Right,19,23
+Dick Wood,,,,100.0,18,13-18-2,60,41.94,7153.0,51,43.7,6.0,71.0,1959,Baltimore Colts,12,144,6-5,205.0,Right,13,18
+Mike Glennon,,,,100.0,8,6-25-0,40,19.35,7025.0,47,60.1,6.1,35.0,2013,Tampa Bay Buccaneers,3,73,6-7,225.0,Right,6,25
+Christian Ponder,,,,100.0,23,14-21-1,38,40.0,6658.0,38,59.8,6.3,36.0,2011,Minnesota Vikings,1,12,6-2,222.0,Right,14,21
+Jim Miller,,,,100.0,17,15-12-0,37,55.56,6387.0,36,58.3,6.1,31.0,1994,Pittsburgh Steelers,6,178,6-2,226.0,Right,15,12
+Taylor Heinicke,,,,100.0,-,-,1,,24.0,39,100.0,12.0,0.0,,Undrafted,,,6-1,210.0,Right,,
+Randy Wright,,,,100.0,15,7-25-0,46,21.88,7106.0,31,53.8,6.4,57.0,1984,Green Bay Packers,6,153,6-2,200.0,Right,7,25
+Steve Spurrier,,,,100.0,29,13-24-1,106,35.14,6878.0,40,51.9,6.0,60.0,1967,San Francisco 49ers,1,3,6-2,204.0,Right,13,24
+Bobby Douglass,,,,100.0,41,16-36-1,91,30.77,6493.0,36,43.0,5.5,64.0,1969,Chicago Bears,2,41,6-4,225.0,Left,16,36
+Bob Avellini,,,,100.0,30,23-27-0,73,46.0,7111.0,33,50.5,6.4,69.0,1975,Chicago Bears,6,135,6-2,208.0,Right,23,27
+Jack Concannon,,,,100.0,29,20-24-1,90,45.45,6270.0,36,50.5,5.6,63.0,1964,Boston Patriots,1,1,6-3,205.0,Right,20,24
+Adrian Burk,,['2x Pro Bowl'],0,,,15-25-2,82,37.5,7001.0,61,46.3,6.5,89.0,1951,Washington Redskins,14,160,6-2,190.0,Right,15,25
+Jim Hardy,,['1x Pro Bowl'],0,,,4-9-0,69,30.77,5690.0,54,46.4,6.2,73.0,1945,Washington Redskins,1,8,6-0,180.0,Right,4,9
+Brock Purdy,,['1x Pro Bowl'],0,100.0,-,2-3-0,5,40.0,1374.0,6,65.6,8.8,4.0,2022,San Francisco 49ers,7,262,6-1,220.0,Right,2,3
+Red Dunn,,,,,,,,,,,,,,,Undrafted,,,5-10,172.0,,,
+Don Strock,,,,100.0,21,16-6-0,167,72.73,5349.0,45,56.9,6.9,42.0,1973,Miami Dolphins,5,111,6-5,220.0,Right,16,6
+King Hill,,,,100.0,24,8-20-1,123,28.57,5553.0,37,48.7,6.3,71.0,1958,Chicago Cardinals,1,1,6-3,212.0,Right,8,20
+Dennis Shaw,,[],0,100.0,20,8-27-2,50,22.86,6347.0,35,52.9,6.9,68.0,1970,Buffalo Bills,2,30,6-3,217.0,Right,8,27
+Jim Ninowski,,[],0,100.0,30,15-15-1,89,50.0,7133.0,34,49.0,6.8,67.0,1958,Cleveland Browns,4,49,6-1,206.0,Right,15,15
+Joe Kapp,,['1x Pro Bowl'],0,100.0,24,24-21-3,51,53.33,5911.0,40,48.9,6.4,64.0,1959,Washington Redskins,18,209,6-2,215.0,Right,24,21
+George Shaw,,[],0,100.0,9,12-17-2,71,41.38,5829.0,41,50.5,7.3,63.0,1955,Baltimore Colts,1,1,6-1,183.0,Right,12,17
+Mike Taliaferro,,['1x Pro Bowl'],0,100.0,13,11-21-0,82,34.38,5241.0,36,43.4,5.4,63.0,1963,New York Giants,10,138,6-2,202.0,Right,11,21
+Steve Ramsey,,,,100.0,25,14-17-0,54,45.16,6437.0,35,49.5,7.0,58.0,1970,New Orleans Saints,5,126,6-2,210.0,Right,14,17
+Bob Hoernschemeyer,,['2x Pro Bowl'],0,,,,113,,,,,,,1947,New York Giants,11,94,5-11,194.0,Right,,
+Dave Wilson,,,,100.0,17,12-19-0,53,38.71,6987.0,36,53.0,6.7,55.0,,New Orleans Saints,1,1,6-3,206.0,Right,12,19
+Scott Brunner,,,,100.0,17,12-18-0,73,40.0,6457.0,29,48.9,6.2,54.0,1980,New York Giants,6,145,6-5,206.0,Right,12,18
+Johnny Lujack,,"['2x Pro Bowl', '1x All-Pro']",0,,,13-5-0,45,72.22,6295.0,41,50.0,7.8,54.0,1946,Chicago Bears,1,4,6-0,186.0,Right,13,5
+Ralph Guglielmi,,,,100.0,13,8-16-3,66,33.33,4119.0,24,46.6,6.6,52.0,1955,Washington Redskins,1,4,6-1,196.0,Right,8,16
+David Whitehurst,,,,100.0,,,27,,,,,,,1988,New York Giants,7,186,6-4,252.0,,,
+Marty Domres,,,,100.0,21,12-20-0,90,37.5,4904.0,27,49.3,6.1,50.0,1969,San Diego Chargers,1,9,6-4,220.0,Right,12,20
+Gary Huff,,,,100.0,11,7-21-0,57,25.0,4329.0,16,49.7,5.5,50.0,1973,Chicago Bears,2,33,6-1,195.0,Right,7,21
+Rob Johnson,,[],1,100.0,23,12-17-0,48,41.38,5795.0,30,61.3,7.2,23.0,1995,Jacksonville Jaguars,4,99,6-4,204.0,Right,12,17
+Hugh Millen,,,,100.0,16,7-18-0,40,28.0,6440.0,22,60.3,6.9,35.0,1986,Los Angeles Rams,3,71,6-5,216.0,Right,7,18
+Zach Wilson,,,,100.0,14,12-21-0,34,36.36,6293.0,23,57.0,6.3,25.0,2021,New York Jets,1,2,6-2,214.0,Right,12,21
+Joe Pisarcik,,,,100.0,18,9-21-0,61,30.0,5552.0,24,47.3,6.2,48.0,,Undrafted,,,6-4,220.0,Right,9,21
+J.P. Losman,,,,100.0,20,10-23-0,45,30.3,6271.0,33,59.2,6.6,34.0,2004,Buffalo Bills,1,22,6-2,217.0,Right,10,23
+Damon Huard,,[],1,100.0,20,15-12-0,64,55.56,6303.0,33,60.7,6.7,26.0,,Undrafted,,,6-3,215.0,Right,15,12
+Dick Shiner,,,,100.0,18,7-21-1,99,25.0,4801.0,36,48.1,6.5,43.0,1964,Washington Redskins,7,87,6-0,201.0,Right,7,21
+David Archer,,,,100.0,14,9-13-1,55,40.91,4337.0,18,50.8,6.6,30.0,,Undrafted,,,6-2,207.0,Right,9,13
+David Klingler,,,,100.0,11,4-20-0,33,16.67,3994.0,16,54.2,5.6,22.0,1992,Cincinnati Bengals,1,6,6-3,210.0,Right,4,20
+Jack Thompson,,,,100.0,14,4-17-0,51,19.05,5315.0,33,53.1,6.3,45.0,1979,Cincinnati Bengals,1,3,6-3,217.0,Right,4,17
+Steve Tensi,,,,100.0,21,10-23-1,56,30.3,5558.0,43,42.8,6.4,46.0,1965,San Diego Chargers,4,30,6-5,215.0,Right,10,23
+Don Trull,,,,100.0,18,4-12-2,77,25.0,3980.0,30,43.3,6.2,28.0,1963,Houston Oilers,14,111,6-1,195.0,Right,4,12
+Ty Detmer,,,,100.0,16,11-14-0,54,44.0,6351.0,34,57.7,6.7,35.0,1992,Green Bay Packers,9,230,6-0,189.0,Right,11,14
+Trent Edwards,,,,100.0,,,92,,,,,,,1999,Pittsburgh Steelers,1,13,5-10,195.0,,,
+A.J. Feeley,,,,100.0,8,8-10-0,28,44.44,4618.0,28,55.8,6.1,31.0,2001,Philadelphia Eagles,5,155,6-3,220.0,Right,8,10
+Ryan Leaf,,,,100.0,1,4-17-0,25,19.05,3666.0,14,48.4,5.6,36.0,1998,San Diego Chargers,1,2,6-5,245.0,Right,4,17
+Kellen Clemens,,,,100.0,10,8-13-0,64,38.1,4053.0,16,54.9,6.4,21.0,2006,New York Jets,2,49,6-2,220.0,Right,8,13
+Scott Hunter,,,,100.0,22,21-18-3,64,53.85,4756.0,23,44.8,6.4,38.0,1971,Green Bay Packers,6,140,6-2,205.0,Right,21,18
+Danny Kanell,,,,100.0,15,10-13-1,43,43.48,5129.0,31,51.4,5.4,34.0,1996,New York Giants,4,130,6-3,218.0,Right,10,13
+Mike McMahon,,,,100.0,6,3-11-0,29,21.43,2867.0,15,44.5,5.6,21.0,2001,Detroit Lions,5,149,6-2,208.0,Right,3,11
+Chris Redman,,[],1,100.0,10,4-8-0,30,33.33,3179.0,21,57.2,6.4,14.0,2000,Baltimore Ravens,3,75,6-3,223.0,Right,4,8
+Josh Rosen,,,,100.0,,,83,,,,,,,1980,Miami Dolphins,7,185,6-3,228.0,,,
+Chris Weinke,,,,100.0,9,2-18-0,29,10.0,3904.0,15,54.4,5.5,26.0,2001,Carolina Panthers,4,106,6-4,232.0,Right,2,18
+Tony Adams,,,,100.0,10,1-9-0,53,10.0,2733.0,12,52.0,6.7,27.0,1973,San Diego Chargers,14,343,6-0,198.0,Right,1,9
+Todd Blackledge,,,,100.0,13,15-14-0,46,51.72,5286.0,29,48.1,6.0,38.0,1983,Kansas City Chiefs,1,7,6-3,225.0,Right,15,14
+Todd Bouman,,,,100.0,6,1-6-0,43,14.29,1905.0,13,55.7,7.2,13.0,,Undrafted,,,6-2,229.0,Right,1,6
+Stoney Case,,,,100.0,4,3-3-0,20,50.0,1826.0,4,51.3,5.7,15.0,1995,Arizona Cardinals,3,80,6-3,204.0,Right,3,3
+Austin Davis,,,,100.0,6,3-7-0,16,30.0,2548.0,13,62.4,6.7,12.0,,Undrafted,,,6-2,221.0,Right,3,7
+Ken Dorsey,,,,100.0,2,2-11-0,16,15.38,2082.0,8,52.5,5.1,18.0,2003,San Francisco 49ers,7,241,6-4,220.0,Right,2,11
+Matt Flynn,,[],1,100.0,8,3-4-0,51,42.86,2541.0,17,61.3,7.1,11.0,2008,Green Bay Packers,7,209,6-2,228.0,Right,3,4
+Bob Gagliano,,,,100.0,13,7-6-0,32,53.85,3431.0,17,51.2,7.1,27.0,1981,Kansas City Chiefs,12,319,6-3,200.0,Right,7,6
+George Herring,,,,100.0,0,0-3-0,28,0.0,1297.0,5,43.8,5.6,23.0,1956,San Francisco 49ers,16,184,6-2,200.0,Right,0,3
+Kelly Holcomb,,,,100.0,16,8-16-0,37,33.33,5916.0,39,63.3,6.6,38.0,,Undrafted,,,6-2,212.0,Right,8,16
+Sam Howell,,,,100.0,12,5-13-0,18,27.78,4115.0,22,63.2,6.5,22.0,2022,Washington Commanders,5,144,6-1,220.0,Right,5,13
+Kevin Kolb,,,,100.0,13,9-12-0,34,42.86,5206.0,28,59.5,6.9,25.0,2007,Philadelphia Eagles,2,36,6-3,218.0,Right,9,12
+Pete Liske,,,,100.0,19,13-15-1,48,46.43,5170.0,30,50.9,6.6,46.0,1963,New York Jets,15,115,6-3,200.0,Right,13,15
+Shane Matthews,,,,100.0,8,11-11-0,31,50.0,4756.0,31,58.6,5.7,24.0,,Undrafted,,,6-3,196.0,Right,11,11
+Nick Mullens,,,,100.0,-,-,2,,24.0,34,100.0,24.0,0.0,,Undrafted,,,6-0,210.0,Right,,
+Rick Norton,,,,100.0,6,1-10-0,32,9.09,1815.0,7,41.6,4.8,30.0,1966,Miami Dolphins,1,2,6-2,200.0,Right,1,10
+Patrick Ramsey,,,,100.0,15,10-14-0,37,41.67,5930.0,35,56.0,6.5,30.0,2002,Washington Redskins,1,32,6-2,225.0,Right,10,14
+Frank Reich,,,,100.0,17,5-15-0,118,25.0,6075.0,40,54.5,6.5,36.0,1985,Buffalo Bills,3,57,6-4,210.0,Right,5,15
+M.C. Reynolds,,,,100.0,1,3-6-0,40,33.33,2932.0,17,49.3,6.5,28.0,,Undrafted,,,6-0,193.0,Right,3,6
+Turk Schonert,,,,100.0,13,7-5-0,72,58.33,3788.0,11,61.7,7.5,20.0,1980,Chicago Bears,9,242,6-1,191.0,Right,7,5
+Billy Volek,,,,100.0,12,3-7-0,39,30.0,3754.0,27,60.1,6.7,15.0,,Undrafted,,,6-2,214.0,Right,3,7
+Tommy Wade,,,,100.0,1,0-2-0,5,0.0,470.0,2,49.3,6.8,13.0,,Undrafted,,,6-2,195.0,Right,0,2
+Danny Wuerffel,,,,100.0,6,4-6-0,25,40.0,2123.0,12,52.6,6.1,22.0,1997,New Orleans Saints,4,99,6-1,212.0,Right,4,6
+Quincy Carter,,,,100.0,17,18-16-0,38,52.94,6337.0,32,56.5,6.6,37.0,2001,Dallas Cowboys,2,53,6-2,213.0,Right,18,16
+Bruce Gradkowski,,,,100.0,8,6-14-0,37,30.0,4057.0,21,52.9,5.7,24.0,2006,Tampa Bay Buccaneers,6,194,6-1,217.0,Right,6,14
+Kenny Pickett,,,,100.0,13,14-10-0,25,58.33,4474.0,13,62.6,6.3,13.0,2022,Pittsburgh Steelers,1,20,6-3,220.0,Right,14,10
+John Skelton,,,,100.0,4,8-9-0,20,47.06,3707.0,15,53.2,6.2,25.0,2010,Arizona Cardinals,5,155,6-5,244.0,Right,8,9
+Tim Tebow,,,,100.0,12,8-6-0,35,57.14,2422.0,17,47.9,6.7,9.0,2010,Denver Broncos,1,25,6-2,236.0,Left,8,6
+Cody Carlson,,,,100.0,15,11-8-0,45,57.89,4469.0,21,56.1,6.8,28.0,1987,Houston Oilers,3,64,6-3,202.0,Right,11,8
+Todd Collins,,,,100.0,11,11-10-0,49,52.38,4547.0,22,55.8,6.5,24.0,1995,Buffalo Bills,2,45,6-4,223.0,Right,11,10
+Steve Dils,,,,100.0,17,10-17-0,106,37.04,5816.0,27,51.9,6.0,32.0,1979,Minnesota Vikings,4,97,6-1,190.0,Right,10,17
+Johnny Green,,,,100.0,11,8-11-0,30,42.11,3921.0,26,44.5,6.3,34.0,1959,Pittsburgh Steelers,21,247,6-3,198.0,Right,8,11
+Jeff Kemp,,,,100.0,23,16-12-1,96,57.14,6230.0,39,52.3,6.8,40.0,,Undrafted,,,6-0,201.0,Right,16,12
+Shaun King,,[],1,100.0,19,14-10-0,34,58.33,4566.0,27,56.2,6.2,24.0,1999,Tampa Bay Buccaneers,2,50,6-1,228.0,Right,14,10
+Paul McDonald,,,,100.0,16,8-13-0,85,38.1,5269.0,24,53.6,6.9,37.0,1980,Cleveland Browns,4,109,6-2,185.0,Left,8,13
+Desmond Ridder,,,,100.0,12,8-9-0,19,47.06,3544.0,14,64.0,7.0,12.0,2022,Atlanta Falcons,3,74,6-3,207.0,Right,8,9
+Jeff Rutledge,,[],2,100.0,8,2-7-1,117,22.22,3628.0,16,52.1,6.9,29.0,1979,Los Angeles Rams,9,246,6-1,195.0,Right,2,7
+Drew Stanton,,,,100.0,10,11-6-0,38,64.71,4059.0,20,52.4,6.2,24.0,2007,Detroit Lions,2,43,6-3,226.0,Right,11,6
+Cliff Stoudt,,,,100.0,17,9-11-0,66,45.0,4506.0,23,52.5,6.6,43.0,1977,Pittsburgh Steelers,5,121,6-4,215.0,Right,9,11
+Matt Stafford,,['2x Pro Bowl'],1,100.0,-,1-4-0,5,20.0,1238.0,3,67.4,7.1,3.0,2009,Detroit Lions,1,1,6-3,214.0,Right,1,4
+Jordan Love,,,,100.0,,,18,,,,,,,1967,Washington Redskins,7,172,5-11,185.0,,,
+Chase Daniel,,,,100.0,6,2-3-0,74,40.0,1746.0,9,68.1,6.4,7.0,,Undrafted,,,6-0,218.0,Right,2,3
+JaMarcus Russell,,,,100.0,6,7-18-0,31,28.0,4083.0,18,52.1,6.0,23.0,2007,Oakland Raiders,1,1,6-6,265.0,Right,7,18
+Trey Lance,,,,100.0,4,2-2-0,8,50.0,797.0,5,54.9,7.8,3.0,2021,San Francisco 49ers,1,3,6-4,226.0,Right,2,2
+Caleb Williams,,,,100.0,,,100,,,,,,,1990,Philadelphia Eagles,5,133,5-11,187.0,,,
+Bryce Young,1990,"['4x Pro Bowl', '1x All-Pro']",1,100.0,,,208,,,,,,,1994,San Francisco 49ers,1,7,6-3,291.0,,,
+Jayden Daniels,,,,,,,,,,,,,,,Undrafted,,,6-4,300.0,,,
+Drake Maye,,,,100.0,-,-,1,,22.0,,50.0,2.8,0.0,2024,New England Patriots,1,3,6-4,225.0,Right,,
+Matt Leinart,,,,100.0,12,8-10-0,33,44.44,4065.0,15,57.1,6.3,21.0,2006,Arizona Cardinals,1,10,6-5,225.0,Left,8,10
+Anthony Richardson,,,,,,,,,,,,,,,Undrafted,,,6-3,217.0,,,
+Charlie Whitehurst,,"['1x Pro Bowl', '1x All-Pro']",0,100.0,,,108,,,,,,,1980,Cleveland Browns,1,27,5-10,190.0,,,
+Luke McCown,,,,100.0,8,2-8-0,62,20.0,2370.0,9,60.7,6.7,15.0,2004,Cleveland Browns,4,106,6-4,217.0,Right,2,8
+Gardner Minshew,,['1x Pro Bowl'],0,100.0,-,2-3-0,5,40.0,1014.0,4,70.7,7.2,5.0,2019,Jacksonville Jaguars,6,178,6-1,225.0,Right,2,3
+A.J. McCarron,,,,100.0,4,2-2-0,19,50.0,1192.0,6,63.1,6.7,3.0,2014,Cincinnati Bengals,5,164,6-3,220.0,Right,2,2
+Dwayne Haskins,,,,100.0,4,3-10-0,16,23.08,2804.0,12,60.1,6.3,14.0,2019,Washington Redskins,1,15,6-4,230.0,Right,3,10
+Michael Penix Jr.,,,,,,,,,,,,,,2024,Atlanta Falcons,1,8,6-2,216.0,Left,,
+Drew Lock,,,,100.0,-,-,1,,5283.0,28,,,0.0,2019,Denver Broncos,2,42,6-4,228.0,Right,,
+Jake Locker,,,,100.0,16,9-14-0,30,39.13,4967.0,27,57.5,7.0,22.0,2011,Tennessee Titans,1,8,6-2,228.0,Right,9,14
+C.J. Beathard,,,,100.0,9,3-10-0,32,23.08,3886.0,19,60.4,6.9,14.0,2017,San Francisco 49ers,3,104,6-2,215.0,Right,3,10
+Mason Rudolph,,,,100.0,-,-,1,,85.0,19,52.9,5.0,0.0,2018,Pittsburgh Steelers,3,76,6-5,235.0,Right,,
+Nate Sudfeld,,[],1,100.0,1,,6,,188.0,1,67.6,5.1,1.0,2016,Washington Redskins,6,187,6-6,230.0,Right,,
+Brandon Weeden,,,,100.0,14,6-19-0,35,24.0,6462.0,31,57.9,6.7,30.0,2012,Cleveland Browns,1,22,6-3,227.0,Right,6,19
+Matt Barkley,,,,100.0,5,2-5-0,20,28.57,2699.0,11,58.4,7.4,22.0,2013,Philadelphia Eagles,4,98,6-2,234.0,Right,2,5
+Taysom Hill,,,,100.0,,,3,,,,,,,,Undrafted,,,6-2,221.0,Right,,
+Ryan Mallett,,,,100.0,4,3-5-0,21,37.5,1835.0,9,55.1,5.3,10.0,2011,New England Patriots,3,74,6-6,240.0,Right,3,5
+Josh Johnson,,['1x Pro Bowl'],0,100.0,,,72,,,,,,,1990,Phoenix Cardinals,7,169,6-3,220.0,,,
+Mike White,,,,,,,,,,,,,,,Undrafted,,,5-11,185.0,,,
+Paxton Lynch,,,,100.0,2,1-3-0,5,25.0,792.0,4,61.7,6.2,4.0,2016,Denver Broncos,1,26,6-7,244.0,Right,1,3
+Jeff Driskel,,,,100.0,-,-,1,,2394.0,16,,,0.0,2016,San Francisco 49ers,6,207,6-4,231.0,Right,,
+Joshua Dobbs,,,,100.0,8,3-11-0,21,21.43,2920.0,15,62.2,5.8,13.0,2017,Pittsburgh Steelers,4,135,6-3,220.0,Right,3,11
+Jarrett Stidham,,,,100.0,6,1-3-0,16,25.0,1422.0,8,59.4,7.2,8.0,2019,New England Patriots,4,133,6-3,215.0,Right,1,3
+Tim Boyle,,,,100.0,-,-,1,,79.0,4,53.8,6.1,0.0,,Undrafted,,,6-4,233.0,Right,,
+Sean Mannion,,,,100.0,2,0-3-0,14,0.0,573.0,1,60.9,5.2,3.0,2015,St. Louis Rams,3,89,6-6,230.0,Right,0,3
+Brandon Allen,,,,100.0,-,-,1,,1611.0,10,,,0.0,2016,Jacksonville Jaguars,6,201,6-2,209.0,Right,,
+Cooper Rush,,,,100.0,-,-,2,,6.0,8,33.3,2.0,0.0,,Undrafted,,,6-3,225.0,Right,,
+Brett Hundley,,,,100.0,5,3-6-0,18,33.33,1902.0,9,59.1,5.6,13.0,2015,Green Bay Packers,5,147,6-3,226.0,Right,3,6
+Ryan Griffin,,,,100.0,,,134,,,,,,,2013,Houston Texans,6,201,6-6,255.0,,,
+Kyle Allen,,,,100.0,-,-,1,,19.0,26,100.0,19.0,0.0,,Undrafted,,,6-3,210.0,Right,,
+Davis Mills,,,,100.0,,,6,,,,,,,,Undrafted,,,6-5,307.0,,,
+Nathan Peterman,,,,100.0,3,1-4-0,15,20.0,712.0,4,53.1,4.5,13.0,2017,Buffalo Bills,5,171,6-2,225.0,Right,1,4
+Phillip Walker,,,,100.0,6,5-4-0,21,55.56,2135.0,6,54.6,6.3,16.0,,Undrafted,,,5-11,215.0,Right,5,4
+Johnny Manziel,,,,100.0,4,2-6-0,14,25.0,1675.0,7,57.0,6.5,7.0,2014,Cleveland Browns,1,22,6-0,207.0,Right,2,6
+Landry Jones,,,,100.0,,,61,,,,,,,1980,New York Jets,1,2,5-11,180.0,,,
+Easton Stick,,,,100.0,4,0-4-0,6,0.0,1133.0,3,64.0,6.5,1.0,2019,Los Angeles Chargers,5,166,6-1,224.0,Right,0,4
+Tyler Huntley,,,,,,,,,,,,,,,Undrafted,,,5-11,198.0,,,
+Will Levis,,,,100.0,-,1-3-0,4,25.0,604.0,4,68.4,6.2,6.0,2023,Tennessee Titans,2,33,6-4,229.0,Right,1,3
+Will Grier,,,,100.0,1,0-2-0,2,0.0,228.0,,53.8,4.4,4.0,2019,Carolina Panthers,3,100,6-1,220.0,Right,0,2
+Joe Webb,,,,100.0,4,1-1-0,104,50.0,888.0,3,56.6,5.6,6.0,2010,Minnesota Vikings,6,199,6-4,231.0,Right,1,1
+Tyler Bray,,,,100.0,0,,2,,18.0,,16.7,3.0,0.0,,Undrafted,,,6-6,223.0,Right,,
+Kyle Trask,,,,100.0,-,-,1,,23.0,,,,0.0,2021,Tampa Bay Buccaneers,2,64,6-5,236.0,Right,,
+DeShone Kizer,,,,100.0,6,0-15-0,18,0.0,3081.0,11,53.1,5.9,24.0,2017,Cleveland Browns,2,52,6-4,235.0,Right,0,15
+Brett Rypien,,,,100.0,3,2-2-0,10,50.0,950.0,4,58.3,5.7,9.0,,Undrafted,,,6-2,202.0,Right,2,2
+John Wolford,,[],1,100.0,2,2-2-0,7,50.0,626.0,1,58.7,6.0,5.0,,Undrafted,,,6-1,218.0,Right,2,2
+Scott Tolzien,,,,100.0,3,0-3-1,10,0.0,1065.0,2,60.3,7.3,9.0,,Undrafted,,,6-3,205.0,Right,0,3
+David Fales,,,,100.0,1,,5,,287.0,1,64.6,6.0,1.0,2014,Chicago Bears,6,183,6-2,210.0,Right,,
+T.J. Yates,,,,100.0,6,4-6-0,22,40.0,2057.0,10,55.2,6.3,11.0,2011,Houston Texans,5,152,6-4,215.0,Right,4,6
+Logan Woodside,,,,100.0,,,13,,,,,,,2018,Cincinnati Bengals,7,249,6-1,213.0,Right,,
+David Blough,,,,100.0,0,0-7-0,9,0.0,1435.0,6,57.0,5.9,9.0,,Undrafted,,,6-1,207.0,Right,0,7
+Kevin Hogan,,,,100.0,2,0-1-0,9,0.0,621.0,4,59.4,6.1,7.0,2016,Kansas City Chiefs,5,162,6-3,218.0,Right,0,1
+Tom Savage,,,,100.0,3,2-7-0,13,22.22,2000.0,5,57.5,6.3,7.0,2014,Houston Texans,4,135,6-4,230.0,Right,2,7
+Cody Kessler,,,,100.0,5,2-10-0,17,16.67,2215.0,8,64.2,6.3,5.0,2016,Cleveland Browns,3,93,6-1,215.0,Right,2,10
+Trace McSorley,,,,100.0,1,0-1-0,9,0.0,502.0,1,51.6,5.4,5.0,2019,Baltimore Ravens,6,197,6-0,202.0,Right,0,1
+Ryan Nassib,,,,100.0,0,,5,,128.0,1,90.0,12.8,0.0,2013,New York Giants,4,110,6-2,227.0,Right,,
+Kellen Mond,,,,100.0,0,,1,,5.0,,66.7,1.7,0.0,2021,Minnesota Vikings,3,66,6-3,212.0,Right,,
+Davis Webb,,,,100.0,1,0-1-0,2,0.0,168.0,1,57.5,4.2,0.0,2017,New York Giants,3,87,6-5,225.0,Right,0,1
+Christian Hackenberg,,,,,,,,,,,,,,,Undrafted,,,6-2,195.0,,,
+Malik Willis,,,,100.0,,,43,,,,,,,,Undrafted,,,5-11,185.0,,,
+Alex Tanney,,,,100.0,0,,2,,100.0,1,73.3,6.7,0.0,,Undrafted,,,6-4,220.0,Right,,
+Garrett Gilbert,,,,100.0,5,0-4-0,58,0.0,1544.0,9,56.4,6.0,12.0,,Undrafted,,,6-3,209.0,Right,0,4
+Jacob Eason,,,,100.0,0,,2,,84.0,,50.0,8.4,2.0,2020,Indianapolis Colts,4,122,6-6,231.0,Right,,
+Sam Ehlinger,,,,100.0,2,0-3-0,8,0.0,573.0,3,63.4,5.7,3.0,2021,Indianapolis Colts,6,218,6-2,225.0,Right,0,3
+Bryce Petty,,,,100.0,,,93,,,,,,,2009,Detroit Lions,1,20,6-5,257.0,,,
+Bailey Zappe,,,,100.0,2,4-4-0,14,50.0,2053.0,11,63.2,6.8,12.0,2022,New England Patriots,4,137,6-1,215.0,Right,4,4
+Dan Orlovsky,,,,100.0,7,2-10-0,26,16.67,3132.0,15,58.2,6.1,13.0,2005,Detroit Lions,5,145,6-5,215.0,Right,2,10
+Ian Book,,,,100.0,0,0-1-0,1,0.0,135.0,,60.0,6.8,2.0,2021,New Orleans Saints,4,133,6-0,212.0,Right,0,1
+Feleipe Franks,,,,100.0,,,5,,,,,,,,Undrafted,,,6-6,228.0,Right,,
+Jake Luton,,,,100.0,2,0-3-0,3,0.0,624.0,2,54.5,5.7,6.0,2020,Jacksonville Jaguars,6,189,6-6,224.0,Right,0,3
+Ryan Finley,,,,100.0,2,1-3-0,8,25.0,638.0,3,48.7,5.4,4.0,2019,Cincinnati Bengals,4,104,6-4,207.0,Right,1,3
+Kyle Lauletta,,,,100.0,0,,2,,,,0.0,0.0,1.0,2018,New York Giants,4,108,6-2,222.0,Right,,
+Ricky Stanzi,,,,,,,,,,,,,,2011,Kansas City Chiefs,5,135,6-4,223.0,Right,,
+Connor Cook,,,,100.0,0,,1,,150.0,1,66.7,7.1,1.0,2016,Oakland Raiders,4,100,6-4,215.0,Right,,
+Jake Rudock,,,,100.0,0,,3,,24.0,,60.0,4.8,1.0,2016,Detroit Lions,6,191,6-3,212.0,Right,,
+Jake Fromm,,,,100.0,1,0-2-0,3,0.0,210.0,1,45.0,3.5,3.0,2020,Buffalo Bills,5,167,6-2,215.0,Right,0,2
+Bryce Perkins,,,,100.0,,,30,,,,,,,,Undrafted,,,6-2,230.0,,,
+Hendon Hooker,,,,,,,,,,,,,,2023,Detroit Lions,3,68,6-3,220.0,,,
+Jake Browning,,,,100.0,,,47,,,,,,,2011,Kansas City Chiefs,4,118,6-0,202.0,,,
+Skylar Thompson,,,,100.0,-,0-1-0,2,0.0,187.0,1,63.6,5.7,0.0,2022,Miami Dolphins,7,247,6-2,210.0,Right,0,1
+Zach Mettenberger,,,,100.0,1,0-10-0,14,0.0,2347.0,12,60.3,6.8,14.0,2014,Tennessee Titans,6,178,6-5,224.0,Right,0,10
+Logan Thomas,,,,100.0,,,94,,,,,,,2014,Arizona Cardinals,4,120,6-6,250.0,Right,,
+James Morgan,,,,,,,,,,,,,,2020,New York Jets,4,125,6-4,229.0,Right,,
+Ryan Lindley,,,,100.0,-4,1-5-0,10,16.67,1372.0,3,51.1,5.0,11.0,2012,Arizona Cardinals,6,185,6-3,229.0,Right,1,5
+Zac Dysert,,,,,,,,,,,,,,2013,Denver Broncos,7,234,6-3,231.0,,,
+Cardale Jones,,[],1,100.0,,,16,,,,,,,1994,Los Angeles Raiders,3,80,5-11,205.0,,,
+Chris Streveler,,,,100.0,0,,9,,231.0,1,67.5,5.8,1.0,,Undrafted,,,6-1,216.0,Right,,
+Kellen Moore,,,,100.0,,,14,,,,,,,2008,Detroit Lions,5,136,5-11,199.0,,,
+Shane Buechele,,,,,,,,,,,,,,,Undrafted,,,6-0,210.0,,,
+Garrett Grayson,,,,,,,,,,,,,,2015,New Orleans Saints,3,75,6-2,220.0,Right,,
+Kyle Sloter,,,,,,,,,,,,,,,Undrafted,,,6-5,218.0,,,
+Matt Corral,,,,,,,,,,,,,,2022,Carolina Panthers,3,94,6-2,205.0,Right,,
+Sean Renfree,,,,100.0,0,,2,,11.0,,42.9,1.6,1.0,2013,Atlanta Falcons,7,249,6-3,219.0,Right,,
+Aidan O'Connell,,,,100.0,-,-,2,,176.0,1,59.4,5.5,1.0,2023,Las Vegas Raiders,4,135,6-3,210.0,Right,,
+Aaron Murray,,,,,,,,,,,,,,2014,Kansas City Chiefs,5,163,6-1,207.0,,,
+Jake Haener,,,,100.0,-,-,3,,17.0,,25.0,2.1,0.0,2023,New Orleans Saints,4,127,6-1,200.0,Right,,
+Ben DiNucci,,,,100.0,1,0-1-0,3,0.0,219.0,,53.5,5.1,0.0,2020,Dallas Cowboys,7,231,6-2,215.0,Right,0,1
+Alex McGough,,,,,,,,,,,,,,2018,Seattle Seahawks,7,220,6-3,214.0,,,
+Chad Kelly,,,,100.0,,,1,,,,,,,2017,Denver Broncos,7,253,6-2,216.0,Right,,
+Stetson Bennett,,,,,,,,,,,,,,2023,Los Angeles Rams,4,128,5-11,190.0,,,
+Jimmy Clausen,,,,100.0,3,1-13-0,21,7.14,2520.0,7,54.0,5.3,14.0,2010,Carolina Panthers,2,48,6-3,217.0,Right,1,13
+Clayton Tune,,,,100.0,-,-,1,,62.0,,,,0.0,2023,Arizona Cardinals,5,139,6-3,220.0,Right,,
+Sean Clifford,,,,100.0,,,2,,,,,,,2023,Green Bay Packers,5,149,6-2,218.0,Right,,
+Reid Sinnett,,,,,,,,,,,,,,,Undrafted,,,6-4,225.0,,,
+Dorian Thompson-Robinson,,,,100.0,,,39,,,,,,,1991,Seattle Seahawks,2,51,5-10,178.0,,,
+Jaren Hall,,,,100.0,1,1-1-0,3,50.0,168.0,,65.0,8.4,1.0,2023,Minnesota Vikings,5,164,6-0,207.0,Right,1,1
+Kurt Benkert,,,,,,,,,,,,,,,Draft Finder,,,,,,,
+Brad Kaaya,,,,,,,,,,,,,,2017,Detroit Lions,6,215,6-4,215.0,Right,,
+B.J. Daniels,,,,100.0,,,8,,,,,,,2013,San Francisco 49ers,7,237,5-11,217.0,Right,,
+Tanner McKee,,,,,,,,,,,,,,,Draft Finder,,,6-6,228.0,,,
+Danny Etling,,,,,,,,,,,,,,2018,New England Patriots,7,219,6-3,220.0,Right,,
+Seneca Wallace,,,,100.0,16,6-16-0,64,27.27,4947.0,31,59.4,6.3,19.0,2003,Seattle Seahawks,4,110,5-11,205.0,Right,6,16
+Joe Callahan,,,,100.0,0,,1,,11.0,,71.4,1.6,0.0,,Undrafted,,,6-1,216.0,Right,,
+Greg McElroy,,,,100.0,1,0-1-0,2,0.0,214.0,1,61.3,6.9,1.0,2011,New York Jets,7,208,6-2,222.0,Right,0,1
+Tyson Bagent,,,,100.0,-,-,1,,859.0,3,,,0.0,,Undrafted,,,6-3,213.0,Right,,
+Clayton Thorson,,,,,,,,,,,,,,2019,Philadelphia Eagles,5,167,6-4,222.0,,,
+Luke Falk,,,,100.0,1,0-2-0,3,0.0,416.0,,64.4,5.7,3.0,2018,Tennessee Titans,6,199,6-4,215.0,Right,0,2
+Nate Stanley,,,,,,,,,,,,,,2020,Minnesota Vikings,7,244,6-4,235.0,,,
+Curtis Painter,,,,100.0,2,0-8-0,14,0.0,1681.0,6,51.6,5.9,13.0,2009,Indianapolis Colts,6,201,6-4,230.0,Right,0,8
+Chris Oladokun,,,,,,,,,,,,,,2022,Pittsburgh Steelers,7,241,6-1,213.0,Right,,
+Jacob Dolegala,,,,,,,,,,,,,,,Undrafted,,,6-7,242.0,,,
+Tyler Wilson,,,,,,,,,,,,,,2013,Oakland Raiders,4,112,6-2,215.0,,,
+Malik Cunningham,,,,100.0,,,2,,,,,,,,Undrafted,,,6-1,186.0,,,
+Brad Sorensen,,,,,,,,,,,,,,2013,San Diego Chargers,7,221,6-5,229.0,,,
+Josh Woodrum,,,,100.0,,,6,,,,,,,2016,Jacksonville Jaguars,7,226,6-5,271.0,,,
+Stephen Morris,,,,,,,,,,,,,,,Undrafted,,,6-2,220.0,,,
+Tommy DeVito,,,,100.0,4,3-3-0,9,50.0,1101.0,8,64.0,6.2,3.0,,Undrafted,,,6-2,210.0,Right,3,3
+Nathan Rourke,,,,,,,,,,,,,,,Undrafted,,,6-1,210.0,,,
+Devlin Hodges,,,,100.0,0,3-3-0,8,50.0,1063.0,5,62.5,6.6,8.0,,Undrafted,,,6-1,210.0,Right,3,3
+Trevone Boykin,,,,100.0,0,,5,,145.0,1,72.2,8.1,1.0,,Undrafted,,,6-0,213.0,Right,,
+Nathan Enderle,,,,,,,,,,,,,,2011,Chicago Bears,5,160,6-4,240.0,Right,,
+Brady Quinn,,,,100.0,2,4-16-0,24,20.0,3043.0,12,53.8,5.5,17.0,2007,Cleveland Browns,1,22,6-4,232.0,Right,4,16
+Matt Simms,,,,100.0,1,,4,,195.0,1,48.7,5.0,1.0,,Undrafted,,,6-3,210.0,Right,,
+Thaddeus Lewis,,,,100.0,,,34,,,,,,,1994,New York Giants,1,24,6-1,191.0,,,
+Chandler Harnish,,,,,,,,,,,,,,2012,Indianapolis Colts,7,253,6-2,219.0,Right,,
+Tyree Jackson,,,,,,,,,,,,,,,Draft Finder,,,,,,,
+Steven Montez,,,,,,,,,,,,,,,Draft Finder,,,,,,,
+Zac Robinson,,,,,,,,,,,,,,2010,New England Patriots,7,250,6-3,218.0,Right,,
+Kyle Shurmur,,,,,,,,,,,,,,,Draft Finder,,,,,,,
+Keith Wenning,,,,,,,,,,,,,,2014,Baltimore Ravens,6,194,6-3,218.0,,,
+Anthony Brown,,,,100.0,,,22,,,,,,,,Undrafted,,,6-3,210.0,,,
+Max Duggan,,,,,,,,,,,,,,2023,Los Angeles Chargers,7,239,6-1,207.0,,,
+Max McCaffrey,,,,100.0,,,30,,,,,,,2012,New York Giants,6,201,6-5,309.0,,,
+Brandon Doughty,,,,,,,,,,,,,,2016,Miami Dolphins,7,223,6-3,212.0,Right,,
+Spencer Rattler,,,,,,,,,,,,,,2024,New Orleans Saints,5,150,6-0,211.0,,,
+Carson Strong,,,,,,,,,,,,,,,Undrafted,,,6-3,226.0,,,
+Matt Blanchard,,,,,,,,,,,,,,,Undrafted,,,6-3,225.0,Right,,
+Chase Garbers,,,,,,,,,,,,,,,Undrafted,,,6-2,215.0,,,
+Connor Shaw,,,,100.0,0,0-1-0,1,0.0,177.0,,50.0,6.3,1.0,,Undrafted,,,6-0,206.0,Right,0,1
+EJ Perry,,,,,,,,,,,,,,,Undrafted,,,6-2,210.0,,,
+Jordan Travis,,,,,,,,,,,,,,2024,New York Jets,5,171,6-1,200.0,,,
+Sam Hartman,,,,,,,,,,,,,,,Undrafted,,,6-1,209.0,,,
+Tommy Stevens,,,,,,,,,,,,,,,Undrafted,,,6-4,212.0,,,
+Jarrett Guarantano,,,,,,,,,,,,,,,Undrafted,,,6-3,219.0,,,
+Mike Kafka,,,,100.0,0,,4,,107.0,,68.8,6.7,2.0,2010,Philadelphia Eagles,4,122,6-3,216.0,Right,,
+Chase Litton,,,,,,,,,,,,,,,Draft Finder,,,,,,,
+Adam Weber,,,,,,,,,,,,,,,Undrafted,,,6-3,221.0,Right,,
+Chad Kanoff,,,,,,,,,,,,,,,Undrafted,,,6-4,227.0,,,
+Joe Milton III,,,,,,,,,,,,,,2024,New England Patriots,6,193,6-5,246.0,,,
+Brian Lewerke,,,,,,,,,,,,,,,Undrafted,,,6-2,213.0,,,
+Jordan Ta'amu,,,,,,,,,,,,,,,Draft Finder,,,,,,,
+J.T. Barrett,,,,,,,,,,,,,,,Undrafted,,,6-2,225.0,,,
+Manny Wilkins,,[],1,100.0,,,7,,,,,,,,Undrafted,,,6-0,191.0,,,
+B.J. Coleman,,,,,,,,,,,,,,2012,Green Bay Packers,7,243,6-3,233.0,Right,,
+Devin Leary,,,,,,,,,,,,,,2024,Baltimore Ravens,6,218,6-1,216.0,,,
+Trevor Knight,,,,,,,,,,,,,,,Undrafted,,,6-1,219.0,,,
+Tanner Mordecai,,,,,,,,,,,,,,,Undrafted,,,6-2,218.0,,,
+Carter Bradley,,,,100.0,,,41,,,,,,,,Undrafted,,,6-4,301.0,,,
+Case Cookus,,,,,,,,,,,,,,,Undrafted,,,6-4,205.0,,,
+Cole McDonald,,,,,,,,,,,,,,2020,Tennessee Titans,7,224,6-3,215.0,,,
+Michael Pratt,,,,,,,,,,,,,,2024,Green Bay Packers,7,245,6-2,217.0,,,
+Dylan Thompson,,,,,,,,,,,,,,,Undrafted,,,6-3,218.0,,,
+Eric Dungey,,,,,,,,,,,,,,,Undrafted,,,6-4,226.0,,,
+Drew Plitt,,,,,,,,,,,,,,,Undrafted,,,6-2,217.0,,,
+Dresser Winn,,,,,,,,,,,,,,,Undrafted,,,6-2,212.0,,,
+Tajh Boyd,,,,,,,,,,,,,,2014,New York Jets,6,213,6-1,222.0,,,
+Jordan Rodgers,,,,100.0,,,17,,,,,,,1973,San Diego Chargers,1,25,5-10,180.0,,,
+Sefo Liufau,,,,,,,,,,,,,,,Undrafted,,,6-3,232.0,,,
+Nick Fitzgerald,,,,,,,,,,,,,,,Draft Finder,,,,,,,
+Davis Cheek,,,,,,,,,,,,,,,Undrafted,,,6-3,217.0,,,
+Jerod Evans,,,,100.0,,,43,,,,,,,1991,Phoenix Cardinals,8,204,6-4,250.0,,,
+Ryan Willis,,,,100.0,,,5,,,,,,,2011,Arizona Cardinals,2,38,5-10,205.0,,,
+Drew Anderson,,,,,,,,,,,,,,,Undrafted,,,6-2,190.0,,,
+Jack Coan,,,,,,,,,,,,,,,Undrafted,,,6-3,220.0,,,
+Adrian Martinez,,,,,,,,,,,,,,,Undrafted,,,6-2,220.0,,,
+Jeff Tuel,,,,100.0,1,0-1-0,2,0.0,309.0,1,44.1,5.2,3.0,,Undrafted,,,6-3,218.0,Right,0,1
+Tyler Ferguson,,,,,,,,,,,,,,,Undrafted,,,6-2,224.0,,,
+Seth Lobato,,,,,,,,,,,,,,,Undrafted,,,6-6,223.0,,,
+Austin Allen,,,,,,,,,,,,,,,Undrafted,,,6-9,255.0,,,
+Tanner Morgan,,,,,,,,,,,,,,,Undrafted,,,6-2,215.0,,,
+Kenji Bahar,,,,,,,,,,,,,,,Undrafted,,,6-3,200.0,,,
+Alek Torgersen,,,,,,,,,,,,,,,Undrafted,,,6-2,229.0,,,
+Anthony Gordon,,,,,,,,,,,,,,,Draft Finder,,,,,,,
+McLeod Bethel-Thompson,,,,,,,,,,,,,,,Undrafted,,,6-4,230.0,Right,,
+Dominique Davis,,,,100.0,,,25,,,,,,,1962,Dallas Cowboys,6,74,6-3,225.0,,,
+Holton Ahlers,,,,,,,,,,,,,,,Undrafted,,,6-3,227.0,,,
+Lance Ball,,,,100.0,,,42,,,,,,,,Undrafted,,,5-9,223.0,,,
+Pat Devlin,,,,,,,,,,,,,,,Undrafted,,,6-3,225.0,Right,,
+Caleb Hanie,,,,100.0,2,0-4-0,10,0.0,679.0,3,50.9,5.9,10.0,,Undrafted,,,6-2,236.0,Right,0,4
+Dennis Dixon,,[],1,100.0,2,2-1-0,4,66.67,402.0,1,59.3,6.8,2.0,2008,Pittsburgh Steelers,5,156,6-3,195.0,Right,2,1
+Kedon Slovis,,,,,,,,,,,,,,,Undrafted,,,6-2,223.0,,,
+Dustin Vaughan,,,,,,,,,,,,,,,Undrafted,,,6-5,220.0,,,
+Rusty Smith,,,,100.0,,,52,,,,,,,,San Diego Chargers,5,40,6-0,212.0,,,
+Jason Bean,,,,,,,,,,,,,,,Undrafted,,,6-2,196.0,,,
+Josh Love,,,,100.0,,,18,,,,,,,1967,Washington Redskins,7,172,5-11,185.0,,,
+Jeff Mathews,,"['1x Pro Bowl', '1x All-Pro']",0,100.0,,,17,,,,,,,2005,Houston Texans,4,114,6-0,195.0,,,
+Taryn Christion,,,,,,,,,,,,,,,Undrafted,,,6-2,225.0,,,
+Kevin Davidson,,,,100.0,,,131,,,,,,,1986,Green Bay Packers,2,41,5-10,208.0,,,
+Levi Lewis,,,,100.0,,,143,,,,,,,,Undrafted,,,5-8,170.0,,,
+G.J. Kinne,,,,,,,,,,,,,,,Undrafted,,,6-2,218.0,,,
+Cody Fajardo,,,,,,,,,,,,,,,Undrafted,,,6-2,222.0,,,
+Jerrod Johnson,,,,100.0,,,96,,,,,,,2003,Cincinnati Bengals,4,118,5-11,275.0,,,
+Jack Plummer,,['1x Pro Bowl'],0,100.0,92,69-67-0,143,50.74,29253.0,161,57.1,6.7,161.0,1997,Arizona Cardinals,2,42,6-2,212.0,Right,69,67
+Bryan Bennett,,,,100.0,,,82,,,,,,,,Undrafted,,,5-11,220.0,,,
+Connor Halliday,,,,,,,,,,,,,,,Undrafted,,,6-4,198.0,,,
+Keith Price,,,,,,,,,,,,,,,Undrafted,,,6-1,196.0,,,
+Jalen Morton,,,,,,,,,,,,,,,Undrafted,,,6-4,226.0,,,
+Brandon Peters,,,,100.0,,,51,,,,,,,,Undrafted,,,6-4,237.0,,,
+Gavin Hardison,,,,,,,,,,,,,,,Undrafted,,,6-3,215.0,,,
+Austin Reed,,,,,,,,,,,,,,,Undrafted,,,6-1,220.0,,,
+Matt Johnson,,,,100.0,,,11,,,,,,,1999,Pittsburgh Steelers,5,166,6-5,215.0,,,
+Jake Coker,,,,,,,,,,,,,,,Undrafted,,,6-6,236.0,,,
+Cole Kelley,,,,,,,,,,,,,,,Undrafted,,,6-5,298.0,,,
+Eli Jenkins,,['2x Pro Bowl'],0,100.0,,,5,,,,,,,2019,Green Bay Packers,2,44,6-5,311.0,,,
+Wes Lunt,,,,,,,,,,,,,,,Undrafted,,,6-4,222.0,,,
+Chase Rettig,,,,,,,,,,,,,,,Undrafted,,,6-2,215.0,,,
+Zach Terrell,,,,,,,,,,,,,,,Undrafted,,,6-1,212.0,,,
+Anthony Boone,,,,,,,,,,,,,,,Undrafted,,,6-1,238.0,,,
+Brett Smith,1980,"['11x Pro Bowl', '8x All-Pro']",0,100.0,,,279,,,,,,,1985,Buffalo Bills,1,1,6-4,262.0,,,
+Jake Waters,,,,,,,,,,,,,,,Undrafted,,,6-1,204.0,,,
+Skyler Howard,,,,,,,,,,,,,,,Undrafted,,,5-11,207.0,,,
+James Franklin,,,,100.0,,,10,,,,,,,,Undrafted,,,6-1,210.0,,,
+Cole Stoudt,,,,,,,,,,,,,,,Undrafted,,,6-4,218.0,,,
+Austin Appleby,,,,,,,,,,,,,,,Undrafted,,,6-4,230.0,,,
+Brogan Roback,,,,,,,,,,,,,,,Undrafted,,,6-3,215.0,,,
+Nick Stevens,,,,,,,,,,,,,,,Undrafted,,,6-3,200.0,,,
