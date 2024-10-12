@@ -4,6 +4,15 @@ Predicting the success of NFL Quarterbacks, with emphasis on college performance
 
 ### Data
 
+nfl_merged.ipynb / nfl_merged.csv includes data from ..\Data_Artifacts\pro_ref_individ.csv and \Data_Artifacts\nfl_career_statistics.csv; 
+
+
+
+created \Data_Artifacts_csv_inspector.ipynb for use in comparing and combining similar columns'
+
+
+
+
 To gather X features, we will gather the following data for college Quarterback prospects entering the NFL:
 
 **Source**: [https://github.com/jacklich10/nfl-draft-data](https://github.com/jacklich10/nfl-draft-data) (1)
@@ -35,24 +44,8 @@ The metric used to measure a player's success (our target, y) will be total care
 
 ### Data of interest:
 
-*from: https://github.com/jacklich10/nfl-draft-data README.md*
-
-***keys/ids for merging data
-
-`nfl_draft_prospects.csv`
-
-Information on previous NFL draft prospects dating back to 1967 (first year of the common draft). If the player has `NA` values for `pick`, `overall`, and `round`, it means he went undrafted or the draft has not occurred yet (for current year prospects).
-
-| variable       | class     | description           |
+|                |           |                       |
 | :------------- | :-------- | :-------------------- |
-| year           | integer   | year of draft         |
-| ***player_id   | character | unique player ID      |
-| guid           | character | guid                  |
-| player_name    | character | name of player        |
-| position       | character | position              |
-| pos_abbr       | character | position abbreviation |
-| school         | character | school                |
-| school_name    | character | school name           |
 | school_abbr    | character | school abbreviation   |
 | weight         | double    | weight (lbs)          |
 | height         | double    | height (inches)       |
@@ -111,31 +104,10 @@ ESPN college QB QBR metrics for every quarterback in college football since 2004
 | points_added | double    | Number of points contributed by a QB, accounting for QBR and how much he plays, above the level of an average quarterback.             |
 | qb_plays     | double    | Plays on which the QB has a non-zero expected points contribution. Includes most plays that are not handoffs.                          |
 | total_epa    | double    | Total expected points added with low leverage plays, according to ESPN Win Probability model, down-weighted.                           |
-| pass         | double    | Expected points added on pass attempts with low leverage plays down-weighted.                                                          |
-| run          | double    | Clutch-weighted expected points added through rushes                                                                                   |
-| exp_sack     | double    | Clutch-weighted expected points added (lost) from sacks (not fumbles that may occur because of sacks)                                  |
-| penalty      | double    | Expected points added on penalties with low leverage plays down-weighted.                                                              |
-| raw_qbr      | double    | Raw Total QB Rating, which values QB on all play types on a 0-100 scale (not adjusted for opposing defenses faced)                     |
-| sack         | double    | Expected points added on sacks with low leverage plays down-weighted.                                                                  |
+| pass         |           |                                                                                                                                        |
 
-`ids.csv`
-
-Information for joining a player's ESPN ID (commonly referred to as `player_id` in many datasets) with their ID in the `nflfastR` package. At this time, it only has data for QB's. Might add in receivers and running backs later.
-
-| variable    | class     | description                  |
-| :---------- | :-------- | :--------------------------- |
-| espn_id     | character | unique player ID from ESPN   |
-| player_name | character | player name                  |
-| nflfastR_id | character | unique player ID in nflfastR |
-
-`college_stats.csv`
-
-NFL draft prospect counting statistics in college. Includes counting statistics like interceptions, tackles, receiving touchdowns, passing touchdowns, etc. by a player's college season.
-
-| variable             | class     | description            |
+|                      |           |                        |
 | :------------------- | :-------- | :--------------------- |
-| player_id            | character | unique player ID       |
-| alt_player_id        | character | alternate player ID    |
 | player_name          | character | player name            |
 | pos_abbr             | character | position abbreviation  |
 | school               | character | school                 |
