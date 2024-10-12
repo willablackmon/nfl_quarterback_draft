@@ -4,6 +4,15 @@ Predicting the success of NFL Quarterbacks, with emphasis on college performance
 
 ### Data
 
+nfl_merged.ipynb / nfl_merged.csv includes data from ..\Data_Artifacts\pro_ref_individ.csv and \Data_Artifacts\nfl_career_statistics.csv; 
+
+
+
+created \Data_Artifacts_csv_inspector.ipynb for use in comparing and combining similar columns'
+
+
+
+
 To gather X features, we will gather the following data for college Quarterback prospects entering the NFL:
 
 **Source**: [https://github.com/jacklich10/nfl-draft-data](https://github.com/jacklich10/nfl-draft-data) (1)
