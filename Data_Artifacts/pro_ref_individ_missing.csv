@@ -1,0 +1,86 @@
+player,hof,all_star,SBs,wAV,AV,record,games,win_%,pass_yards,TD,comp_%,YPA,int,drafted,team,rd,pick,ht,wt,hand,wins,loss
+Tom Brady,2000,"['15x Pro Bowl', '3x All-Pro']",7,100,326,251-82-0,335,75.38,89214.0,649,64.3,7.4,212.0,2000,New England Patriots,6,199,6-4,225,Right,251,82
+Drew Brees,,"['13x Pro Bowl', '1x All-Pro']",1,100,277,172-114-0,287,60.14,80358.0,571,67.7,7.6,243.0,2001,San Diego Chargers,2,32,6-0,209,Right,172,114
+Peyton Manning,2000,"['14x Pro Bowl', '7x All-Pro']",2,100,271,186-79-0,266,70.19,71940.0,539,65.3,7.7,251.0,1998,Indianapolis Colts,1,1,6-5,230,Right,186,79
+Brett Favre,1990,"['11x Pro Bowl', '3x All-Pro']",1,100,259,186-112-0,302,62.42,71838.0,508,62.0,7.1,336.0,1991,Atlanta Falcons,2,33,6-2,222,Right,186,112
+Ben Roethlisberger,,['6x Pro Bowl'],2,100,208,165-81-1,249,67.07,64088.0,418,64.4,7.6,211.0,2004,Pittsburgh Steelers,1,11,6-5,240,Right,165,81
+Philip Rivers,,['8x Pro Bowl'],0,100,218,134-106-0,244,55.83,63440.0,421,64.9,7.8,209.0,2004,New York Giants,1,4,6-5,228,Right,134,106
+Matt Ryan,,"['4x Pro Bowl', '1x All-Pro']",0,100,210,124-109-1,234,53.22,62792.0,381,65.6,7.4,183.0,2008,Atlanta Falcons,1,3,6-4,217,Right,124,109
+Dan Marino,1984,"['9x Pro Bowl', '3x All-Pro']",0,100,216,147-93-0,242,61.25,61361.0,420,59.4,7.3,252.0,1983,Miami Dolphins,1,27,6-4,224,Right,147,93
+Aaron Rodgers,2010,"['10x Pro Bowl', '4x All-Pro']",1,100,-,2-3-0,5,40.0,1093.0,7,61.0,6.0,4.0,2005,Green Bay Packers,1,24,6-2,223,Right,2,3
+Matthew Stafford,5564,['2x Pro Bowl'],1,100,-,1-4-0,5,20.0,1238.0,3,67.4,7.1,3.0,2009,Detroit Lions,1,1,6-3,214,Right,1,4
+Eli Manning,2025,['4x Pro Bowl'],2,100,169,117-117-0,236,50.0,57023.0,366,60.3,7.0,244.0,2004,San Diego Chargers,1,1,6-5,220,Right,117,117
+John Elway,1987,['9x Pro Bowl'],2,100,206,148-82-1,234,64.35,51475.0,300,56.9,7.1,226.0,1983,Baltimore Colts,1,1,6-3,215,Right,148,82
+Warren Moon,1990,['9x Pro Bowl'],0,100,163,102-101-0,208,50.25,49325.0,291,58.4,7.2,233.0,,Undrafted,,,6-3,218,Right,102,101
+Fran Tarkenton,1975,"['9x Pro Bowl', '1x All-Pro']",0,100,233,124-109-6,246,53.22,47003.0,342,57.0,7.3,266.0,1961,Minnesota Vikings,3,29,6-0,190,Right,124,109
+Carson Palmer,,['3x Pro Bowl'],0,100,141,92-88-1,182,51.11,46247.0,294,62.5,7.3,187.0,2003,Cincinnati Bengals,1,1,6-5,235,Right,92,88
+Vinny Testaverde,,['2x Pro Bowl'],0,100,141,90-123-1,233,42.25,46233.0,275,56.5,6.9,267.0,1987,Tampa Bay Buccaneers,1,1,6-5,235,Right,90,123
+Drew Bledsoe,,['4x Pro Bowl'],1,100,139,98-95-0,194,50.78,44611.0,251,57.2,6.6,206.0,1993,New England Patriots,1,1,6-5,238,Right,98,95
+Joe Flacco,5564,[],1,100,-,1-1-0,3,50.0,716.0,7,65.7,6.6,1.0,2008,Baltimore Ravens,1,18,6-6,230,Right,1,1
+Russell Wilson,,['9x Pro Bowl'],1,100,179,115-72-1,188,61.5,43653.0,334,64.7,7.7,106.0,2012,Seattle Seahawks,3,75,5-11,206,Right,115,72
+Dan Fouts,1982,"['6x Pro Bowl', '2x All-Pro']",0,100,163,86-84-1,181,50.59,43040.0,254,58.8,7.7,242.0,1973,San Diego Chargers,3,64,6-3,204,Right,86,84
+Kerry Collins,,['2x Pro Bowl'],0,100,112,81-99-0,198,45.0,40922.0,208,55.7,6.5,196.0,1995,Carolina Panthers,1,5,6-5,247,Right,81,99
+Kirk Cousins,5564,['4x Pro Bowl'],0,100,-,4-2-0,6,66.67,1598.0,9,66.7,7.7,5.0,2012,Washington Redskins,4,102,6-3,205,Right,4,2
+Joe Montana,,,,100,,,13,,,,,,,1999,New York Giants,2,49,5-10,230,,,
+Johnny Unitas,1960,"['10x Pro Bowl', '5x All-Pro']",1,100,145,118-63-4,211,65.19,40239.0,290,54.6,7.8,253.0,1955,Pittsburgh Steelers,9,102,6-1,194,Right,118,63
+Derek Carr,,,,100,,,103,,,,,,,,Undrafted,,,6-3,240,,,
+Andy Dalton,5564,['3x Pro Bowl'],0,100,-,1-3-0,5,25.0,896.0,7,66.0,6.2,4.0,2011,Cincinnati Bengals,2,35,6-2,220,Right,1,3
+Dave Krieg,,['3x Pro Bowl'],0,100,138,98-77-0,213,56.0,38147.0,261,58.5,7.2,199.0,,Undrafted,,,6-1,193,Right,98,77
+Boomer Esiason,,"['4x Pro Bowl', '1x All-Pro']",0,100,137,80-93-0,187,46.24,37920.0,247,57.0,7.3,184.0,1984,Cincinnati Bengals,2,38,6-5,224,Left,80,93
+Donovan McNabb,,['6x Pro Bowl'],0,100,138,98-62-1,167,61.25,37276.0,234,59.0,6.9,117.0,1999,Philadelphia Eagles,1,2,6-2,240,Right,98,62
+Matt Hasselbeck,,['3x Pro Bowl'],0,100,110,85-75-0,209,53.12,36638.0,212,60.5,6.9,153.0,1998,Green Bay Packers,6,187,6-4,235,Right,85,75
+Alex Smith,,,,100,,,19,,,,,,,,Buffalo Bills,15,136,5-11,202,,,
+Jim Kelly,,"['5x Pro Bowl', '1x All-Pro']",0,100,132,101-59-0,160,63.12,35467.0,237,60.1,7.4,175.0,1983,Buffalo Bills,1,14,6-3,217,Right,101,59
+Jay Cutler,,['1x Pro Bowl'],0,100,109,74-79-0,153,48.37,35133.0,227,62.0,7.1,160.0,2006,Denver Broncos,1,11,6-3,231,Right,74,79
+Ryan Fitzpatrick,,,,100,101,59-87-1,166,40.41,34990.0,223,60.7,6.9,169.0,2005,St. Louis Rams,7,250,6-2,221,Right,59,87
+Ryan Tannehill,,['1x Pro Bowl'],0,100,114,81-70-0,155,53.64,34881.0,216,64.3,7.3,115.0,2012,Miami Dolphins,1,8,6-4,217,Right,81,70
+Jim Everett,,['1x Pro Bowl'],0,100,108,64-89-0,158,41.83,34837.0,203,57.7,7.1,175.0,1986,Houston Oilers,1,3,6-5,212,Right,64,89
+Jim Hart,,['4x Pro Bowl'],0,100,131,87-88-5,201,49.71,34665.0,209,51.1,6.8,247.0,,Undrafted,,,6-1,215,Right,87,88
+Steve Deberg,,,,100,109,53-86-1,206,38.13,34241.0,196,57.2,6.8,204.0,1977,Dallas Cowboys,10,275,6-3,210,Right,53,86
+Tony Romo,,['4x Pro Bowl'],0,100,115,78-49-0,156,61.42,34183.0,248,65.3,7.9,117.0,,Undrafted,,,6-2,230,Right,78,49
+John Hadl,,"['6x Pro Bowl', '1x All-Pro']",0,100,146,82-75-9,224,52.23,33503.0,244,50.4,7.1,268.0,1962,Detroit Lions,1,10,6-1,214,Right,82,75
+Phil Simms,,['2x Pro Bowl'],2,100,118,95-64-0,164,59.75,33462.0,199,55.4,7.2,157.0,1979,New York Giants,1,7,6-3,216,Right,95,64
+Steve Young,1994,"['7x Pro Bowl', '3x All-Pro']",3,100,168,94-49-0,169,65.73,33124.0,232,64.3,8.0,107.0,,Tampa Bay Buccaneers,1,1,6-2,215,Left,94,49
+Y.A. Tittle,1963,"['7x Pro Bowl', '3x All-Pro']",0,100,47,78-50-5,204,60.94,33070.0,242,55.2,7.5,248.0,1951,San Francisco 49ers,1,3,6-0,192,Right,78,50
+Troy Aikman,1997,['6x Pro Bowl'],3,100,120,94-71-0,165,56.97,32942.0,165,61.5,7.0,141.0,1989,Dallas Cowboys,1,1,6-4,219,Right,94,71
+Ken Anderson,,"['4x Pro Bowl', '1x All-Pro']",0,100,160,91-81-0,192,52.91,32838.0,197,59.3,7.3,160.0,1971,Cincinnati Bengals,3,67,6-2,212,Right,91,81
+Cam Newton,,"['3x Pro Bowl', '1x All-Pro']",0,100,140,75-68-1,148,52.45,32382.0,194,59.9,7.2,123.0,2011,Carolina Panthers,1,1,6-5,245,Right,75,68
+Kurt Warner,1999,"['4x Pro Bowl', '2x All-Pro']",1,100,113,67-49-0,124,57.76,32344.0,208,65.5,7.9,128.0,,Undrafted,,,6-2,214,Right,67,49
+Sonny Jurgensen,1960,"['5x Pro Bowl', '1x All-Pro']",0,100,136,69-71-7,218,49.29,32224.0,255,57.1,7.6,189.0,1957,Philadelphia Eagles,4,43,5-11,202,Right,69,71
+Mark Brunell,,['3x Pro Bowl'],1,100,120,78-73-0,193,51.66,32072.0,184,59.5,6.9,108.0,1993,Green Bay Packers,5,118,6-1,215,Left,78,73
+John Brodie,,"['2x Pro Bowl', '1x All-Pro']",0,100,129,74-76-8,201,49.33,31548.0,214,55.0,7.0,224.0,1957,San Francisco 49ers,1,3,6-1,198,Right,74,76
+Jared Goff,5564,['3x Pro Bowl'],0,100,-,4-1-0,5,80.0,1330.0,8,71.1,8.9,4.0,2016,Los Angeles Rams,1,1,6-4,217,Right,4,1
+Steve McNair,,['3x Pro Bowl'],0,100,125,91-62-0,161,59.48,31304.0,174,60.1,6.9,119.0,1995,Houston Oilers,1,3,6-2,230,Right,91,62
+Dak Prescott,,,,100,,,76,,,,,,,1977,New England Patriots,12,333,5-10,195,,,
+Norm Snead,,['4x Pro Bowl'],0,100,114,52-100-7,178,34.21,30797.0,196,52.3,7.1,257.0,1961,Washington Redskins,1,2,6-4,215,Right,52,100
+Randall Cunningham,,"['4x Pro Bowl', '1x All-Pro']",0,100,137,82-52-1,161,61.19,29979.0,207,56.6,7.0,134.0,1985,Philadelphia Eagles,2,37,6-4,212,Right,82,52
+Joe Ferguson,,,,100,106,79-92-0,186,46.2,29817.0,196,52.4,6.6,209.0,1973,Buffalo Bills,3,57,6-1,195,Right,79,92
+Jon Kitna,,[],0,100,90,50-74-0,141,40.32,29745.0,169,60.3,6.7,165.0,,Undrafted,,,6-2,219,Right,50,74
+Patrick Mahomes,5564,"['6x Pro Bowl', '2x All-Pro']",3,100,-,5-0-0,5,100.0,1235.0,6,69.4,7.7,6.0,2017,Kansas City Chiefs,1,10,6-2,225,Right,5,0
+Roman Gabriel,,"['4x Pro Bowl', '1x All-Pro']",0,100,130,86-64-7,183,57.33,29444.0,201,52.6,6.5,149.0,1962,Oakland Raiders,1,1,6-5,220,Right,86,64
+Jake Plummer,,['1x Pro Bowl'],0,100,92,69-67-0,143,50.74,29253.0,161,57.1,6.7,161.0,1997,Arizona Cardinals,2,42,6-2,212,Right,69,67
+Brad Johnson,,['2x Pro Bowl'],1,100,93,72-53-0,177,57.6,29054.0,166,61.7,6.7,122.0,1992,Minnesota Vikings,9,227,6-5,235,Right,72,53
+Rich Gannon,,"['4x Pro Bowl', '2x All-Pro']",0,100,118,76-56-0,157,57.58,28743.0,180,60.2,6.8,104.0,1987,New England Patriots,4,98,6-3,210,Right,76,56
+Len Dawson,1962,"['7x Pro Bowl', '2x All-Pro']",1,100,143,94-57-8,211,62.25,28711.0,239,57.1,7.7,183.0,1957,Pittsburgh Steelers,1,5,6-0,190,Right,94,57
+Chris Chandler,,['2x Pro Bowl'],0,100,103,67-85-0,180,44.08,28484.0,170,58.1,7.1,146.0,1988,Indianapolis Colts,3,76,6-4,224,Right,67,85
+Trent Green,,['2x Pro Bowl'],0,100,110,56-57-0,120,49.56,28475.0,162,60.6,7.6,114.0,1993,San Diego Chargers,8,222,6-3,217,Right,56,57
+Ron Jaworski,,['1x Pro Bowl'],0,100,107,73-69-1,188,51.41,28190.0,179,53.1,6.8,164.0,1973,Los Angeles Rams,2,37,6-2,196,Right,73,69
+Terry Bradshaw,1978,"['3x Pro Bowl', '1x All-Pro']",4,100,140,107-51-0,168,67.72,27989.0,212,51.9,7.2,210.0,1970,Pittsburgh Steelers,1,1,6-3,215,Right,107,51
+Ken Stabler,1974,"['4x Pro Bowl', '1x All-Pro']",1,100,118,96-49-1,184,66.21,27938.0,194,59.8,7.4,222.0,1968,Oakland Raiders,2,52,6-3,215,Left,96,49
+Craig Morton,,[],1,100,118,81-62-1,207,56.64,27908.0,183,54.2,7.4,187.0,1965,Dallas Cowboys,1,5,6-4,214,Right,81,62
+Joe Namath,1965,"['5x Pro Bowl', '1x All-Pro']",1,100,115,62-63-4,140,49.6,27663.0,173,50.1,7.4,220.0,1965,New York Jets,1,2,6-2,200,Right,62,63
+Jeff George,,,,100,79,46-78-0,131,37.1,27602.0,154,57.9,7.0,113.0,1990,Indianapolis Colts,1,1,6-4,218,Right,46,78
+George Blanda,1970,"['4x Pro Bowl', '1x All-Pro']",0,100,128,53-50-1,340,51.46,26920.0,236,47.7,6.7,277.0,1949,Chicago Bears,12,119,6-2,215,Right,53,50
+Steve Grogan,,,,100,117,75-60-0,149,55.56,26886.0,182,52.3,7.5,208.0,1975,New England Patriots,5,116,6-4,210,Right,75,60
+Bobby Layne,1950,"['6x Pro Bowl', '2x All-Pro']",0,100,21,80-48-4,175,62.5,26768.0,196,49.0,7.2,243.0,1948,Chicago Bears,1,3,6-1,201,Right,80,48
+Jim Harbaugh,,['1x Pro Bowl'],0,100,102,66-74-0,177,47.14,26288.0,129,58.8,6.7,117.0,1987,Chicago Bears,1,26,6-3,215,Right,66,74
+Jim Plunkett,,[],2,100,108,72-72-0,157,50.0,25882.0,164,52.5,7.0,198.0,1971,New England Patriots,1,1,6-3,220,Right,72,72
+Jeff Garcia,,['4x Pro Bowl'],0,100,104,58-58-0,125,50.0,25537.0,161,61.6,6.9,83.0,,Undrafted,,,6-1,200,Right,58,58
+Matt Schaub,,['2x Pro Bowl'],0,100,79,47-46-0,155,50.54,25467.0,136,64.2,7.6,91.0,2004,Atlanta Falcons,3,90,6-6,245,Right,47,46
+Joe Theismann,,"['2x Pro Bowl', '1x All-Pro']",1,100,107,77-47-0,167,62.1,25206.0,160,56.7,7.0,138.0,1971,Miami Dolphins,4,99,6-0,192,Right,77,47
+Ken O'Brien,,['2x Pro Bowl'],0,100,87,50-59-1,129,45.87,25094.0,128,58.6,7.0,98.0,1983,New York Jets,1,24,6-4,210,Right,50,59
+Bob Griese,1971,"['8x Pro Bowl', '2x All-Pro']",2,100,138,92-56-3,161,62.16,25092.0,192,56.2,7.3,172.0,1967,Miami Dolphins,1,4,6-1,190,Right,92,56
+Tommy Kramer,,['1x Pro Bowl'],0,100,84,54-56-0,129,49.09,24777.0,159,55.1,6.8,158.0,1977,Minnesota Vikings,1,27,6-2,200,Right,54,56
+Bart Starr,1966,"['4x Pro Bowl', '1x All-Pro']",2,100,115,94-57-6,196,62.25,24718.0,152,57.4,7.8,138.0,1956,Green Bay Packers,17,200,6-1,197,Right,94,57
+Charley Johnson,,[],1,100,,,133,,,,,,,1994,Pittsburgh Steelers,1,17,6-0,200,,,
+Daunte Culpepper,,['3x Pro Bowl'],0,100,98,41-59-0,105,41.0,24153.0,149,63.0,7.6,106.0,1999,Minnesota Vikings,1,11,6-4,260,Right,41,59

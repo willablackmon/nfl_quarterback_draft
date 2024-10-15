@@ -1,0 +1,638 @@
+player,team,draft,nfl_success,hof_succ,wins_succ,awards_succ,stats_succ,earn_succ,long_succ,metrics_succ
+Aaron Brooks,Green Bay Packers,1999,1,0,0,0,1,0,1,1
+Aaron Rodgers,Green Bay Packers,2005,1,1,0,1,1,1,0,1
+Al Dorow,Washington Redskins,1952,1,0,0,1,0,0,1,1
+Alex Smith,Buffalo Bills,2005,1,0,0,0,1,1,0,1
+Alex Tanney,Undrafted,2015,1,0,0,0,1,1,0,1
+Andrew Luck,Indianapolis Colts,2012,1,0,1,1,1,1,1,1
+Andy Dalton,Cincinnati Bengals,2011,1,0,0,1,1,1,0,1
+Archie Manning,New Orleans Saints,1971,1,0,0,1,1,0,1,1
+Babe Parilli,Green Bay Packers,1952,1,0,1,1,1,0,1,1
+Baker Mayfield,Cleveland Browns,2018,1,0,0,0,1,1,0,1
+Bart Starr,Green Bay Packers,1956,1,1,1,1,1,0,1,1
+Ben Roethlisberger,Pittsburgh Steelers,2004,1,0,1,1,1,1,1,1
+Bernie Kosar,Cleveland Browns,0,1,0,0,0,1,0,1,1
+Bert Jones,Baltimore Colts,1973,1,0,0,1,1,0,1,1
+Bill Kenney,Miami Dolphins,1978,1,0,0,0,1,0,1,1
+Bill Munson,Los Angeles Rams,1964,1,0,0,0,1,0,1,1
+Bill Nelsen,Pittsburgh Steelers,1963,1,0,1,0,1,0,1,1
+Billy Kilmer,San Francisco 49ers,1961,1,0,1,0,1,0,1,1
+Billy Wade,Los Angeles Rams,1952,1,0,0,1,1,0,1,1
+Blaine Gabbert,Jacksonville Jaguars,2011,1,0,0,0,0,1,1,1
+Blake Bortles,Jacksonville Jaguars,2014,1,0,0,0,1,1,1,1
+Bob Berry,Philadelphia Eagles,1964,1,0,0,0,1,0,1,1
+Bob Griese,Miami Dolphins,1967,1,1,1,1,1,0,1,1
+Bobby Hebert,Undrafted,0,1,0,1,0,1,0,1,1
+Bobby Layne,Chicago Bears,1948,1,1,1,1,1,0,1,1
+Boomer Esiason,Cincinnati Bengals,1984,1,0,0,1,1,0,1,1
+Brad Johnson,Minnesota Vikings,1992,1,0,1,1,1,0,1,1
+Brett Favre,Atlanta Falcons,1991,1,1,1,1,1,1,1,1
+Brett Smith,Buffalo Bills,1985,1,1,0,1,0,0,0,1
+Brian Griese,Denver Broncos,1998,1,0,1,0,1,0,1,1
+Brian Hoyer,Undrafted,2009,1,0,0,0,1,1,1,1
+Brian Sipe,Cleveland Browns,1972,1,0,1,1,1,0,1,1
+Brock Osweiler,Denver Broncos,2012,1,0,0,0,0,1,1,1
+Brock Purdy,San Francisco 49ers,2022,1,0,0,0,1,1,0,1
+Bryce Young,San Francisco 49ers,1994,1,1,0,1,0,1,0,1
+Bubby Brister,Pittsburgh Steelers,1986,1,0,0,0,1,0,1,1
+Cam Newton,Carolina Panthers,2011,1,0,1,1,1,1,1,1
+Carson Palmer,Cincinnati Bengals,2003,1,0,1,1,1,1,1,1
+Carson Wentz,Philadelphia Eagles,2016,1,0,1,0,1,1,1,1
+Case Keenum,Undrafted,2012,1,0,0,0,1,1,1,1
+Chad Henne,Undrafted,2008,1,1,0,1,1,1,1,1
+Chad Pennington,Kansas City Chiefs,1994,1,0,0,0,1,1,1,1
+Charley Johnson,Pittsburgh Steelers,1994,1,0,0,0,1,0,1,1
+Charlie Conerly,Washington Redskins,1945,1,0,1,1,1,0,1,1
+Charlie Whitehurst,Cleveland Browns,1980,1,0,0,1,0,1,0,1
+Chris Chandler,Indianapolis Colts,1988,1,0,0,1,1,0,1,1
+Chris Miller,Atlanta Falcons,1987,1,0,0,0,1,0,1,1
+Colin Kaepernick,San Francisco 49ers,2011,1,0,0,0,1,1,1,1
+Colt McCoy,Cleveland Browns,2010,1,0,0,0,0,1,1,1
+Connor Cook,Oakland Raiders,2016,1,0,0,0,1,1,0,1
+Cotton Davidson,Baltimore Colts,1954,1,0,0,1,0,0,1,1
+Craig Erickson,Tampa Bay Buccaneers,1992,1,0,0,0,1,0,1,1
+Craig Morton,Dallas Cowboys,1965,1,0,1,0,1,0,1,1
+Dak Prescott,New England Patriots,1977,1,0,0,0,1,1,1,1
+Dan Fouts,San Diego Chargers,1973,1,1,1,1,1,0,1,1
+Dan Marino,Miami Dolphins,1983,1,1,1,1,1,1,1,1
+Dan Pastorini,Houston Oilers,1971,1,0,0,0,1,0,1,1
+Daniel Jones,Jacksonville Jaguars,1997,1,0,0,0,1,1,1,1
+Daryle Lamonica,Green Bay Packers,1963,1,0,1,1,1,0,1,1
+Daunte Culpepper,Minnesota Vikings,1999,1,0,0,1,1,0,1,1
+Dave Krieg,Undrafted,0,1,0,1,1,1,0,1,1
+David Carr,Houston Texans,2002,1,0,0,0,1,1,1,1
+David Garrard,Jacksonville Jaguars,2002,1,0,1,0,1,0,1,1
+David Woodley,Miami Dolphins,1980,1,0,1,0,0,0,1,1
+Derek Anderson,Baltimore Ravens,2005,1,0,0,0,0,1,1,1
+Derek Carr,Undrafted,2014,1,0,0,0,1,1,1,1
+Deshaun Watson,Houston Texans,2017,1,0,0,1,1,1,0,1
+Desmond Ridder,Atlanta Falcons,2022,1,0,0,0,1,1,0,1
+Don Meredith,Dallas Texans,1960,1,0,1,1,1,0,1,1
+Donovan McNabb,Philadelphia Eagles,1999,1,0,1,1,1,1,1,1
+Doug Flutie,Los Angeles Rams,1985,1,0,1,0,1,0,1,1
+Doug Williams,Los Angeles Raiders,1983,1,0,0,0,1,0,1,1
+Drew Bledsoe,New England Patriots,1993,1,0,1,1,1,1,1,1
+Drew Brees,San Diego Chargers,2001,1,0,1,1,1,1,1,1
+Earl Morrall,San Francisco 49ers,1956,1,0,1,1,1,0,1,1
+Ed Brown,Cincinnati Bengals,1985,1,0,0,0,1,0,1,1
+Eddie LeBaron,Washington Redskins,1950,1,0,0,1,1,0,1,1
+Eli Manning,San Diego Chargers,2004,1,1,0,1,1,1,1,1
+Elvis Grbac,San Francisco 49ers,1993,1,0,1,0,1,0,1,1
+Erik Kramer,Undrafted,2024,1,0,0,0,1,0,1,1
+Fran Tarkenton,Minnesota Vikings,1961,1,1,1,1,1,0,1,1
+Frank Ryan,Los Angeles Rams,1958,1,0,1,1,1,0,1,1
+Gardner Minshew,Jacksonville Jaguars,2019,1,0,0,0,1,1,0,1
+Gary Danielson,Undrafted,0,1,0,0,0,1,0,1,1
+Gary Hogeboom,Dallas Cowboys,1980,1,0,0,0,1,0,1,1
+Geno Smith,New York Jets,2013,1,0,0,1,1,1,0,1
+George Blanda,Chicago Bears,1949,1,1,1,1,1,0,1,1
+Greg Landry,Detroit Lions,1968,1,0,0,0,1,0,1,1
+Gus Frerotte,Washington Redskins,1994,1,0,0,0,1,0,1,1
+Jack Kemp,Detroit Lions,1957,1,0,1,1,1,0,1,1
+Jack Plummer,Arizona Cardinals,1997,1,0,1,0,1,0,0,1
+Jacob Eason,Indianapolis Colts,2020,1,0,0,0,1,1,0,1
+Jake Delhomme,Undrafted,0,1,0,1,0,1,0,1,1
+Jake Locker,Tennessee Titans,2011,1,0,0,0,1,1,0,1
+Jake Plummer,Arizona Cardinals,1997,1,0,1,0,1,1,1,1
+Jalen Hurts,Philadelphia Eagles,2020,1,0,0,1,1,1,0,1
+Jameis Winston,Tampa Bay Buccaneers,2015,1,0,0,0,1,1,0,1
+Jared Goff,Los Angeles Rams,2016,1,0,0,1,1,1,0,1
+Jaren Hall,Minnesota Vikings,2023,1,0,0,0,1,1,0,1
+Jarrett Stidham,New England Patriots,2019,1,0,0,0,1,1,0,1
+Jason Campbell,Washington Redskins,2005,1,0,0,0,1,1,1,1
+Jay Cutler,Denver Broncos,2006,1,0,0,0,1,1,1,1
+Jay Fiedler,Undrafted,0,1,0,1,0,0,0,1,1
+Jay Schroeder,Washington Redskins,1984,1,0,1,0,1,0,1,1
+Jeff Blake,New York Jets,1992,1,0,0,0,1,0,1,1
+Jeff Garcia,Undrafted,2011,1,0,0,1,1,0,1,1
+Jeff George,Indianapolis Colts,1990,1,0,0,0,1,0,1,1
+Jeff Hostetler,New York Giants,1984,1,0,1,0,1,0,1,1
+Jim Everett,Houston Oilers,1986,1,0,0,0,1,0,1,1
+Jim Harbaugh,Chicago Bears,1987,1,0,0,0,1,0,1,1
+Jim Hart,Undrafted,0,1,0,0,1,1,0,1,1
+Jim Kelly,Buffalo Bills,1983,1,1,1,1,1,0,1,1
+Jim McMahon,Chicago Bears,1982,1,0,1,0,1,0,1,1
+Jim Plunkett,New England Patriots,1971,1,0,0,0,1,0,1,1
+Jim Zorn,Undrafted,0,1,0,0,0,1,0,1,1
+Jimmy Garoppolo,New England Patriots,2014,1,0,1,0,1,1,1,1
+Joe Burrow,San Francisco 49ers,1962,1,0,0,0,1,1,1,1
+Joe Ferguson,Buffalo Bills,1973,1,0,0,0,1,0,1,1
+Joe Flacco,Baltimore Ravens,2008,1,0,0,0,1,1,0,1
+Joe Montana,New York Giants,1999,1,1,0,0,1,0,0,1
+Joe Namath,New York Jets,1965,1,1,0,1,1,0,1,1
+Joe Theismann,Miami Dolphins,1971,1,0,1,1,1,0,1,1
+Joey Harrington,Detroit Lions,2002,1,0,0,0,1,0,1,1
+John Brodie,San Francisco 49ers,1957,1,0,0,1,1,0,1,1
+John Elway,Baltimore Colts,1983,1,1,1,1,1,1,1,1
+John Hadl,Detroit Lions,1962,1,0,1,1,1,0,1,1
+Johnny Unitas,Pittsburgh Steelers,1955,1,1,1,1,1,0,1,1
+Jon Kitna,Undrafted,2013,1,0,0,0,1,0,1,1
+Josh Allen,Undrafted,2018,1,0,0,0,1,1,0,1
+Josh Freeman,Tampa Bay Buccaneers,2009,1,0,0,0,1,1,1,1
+Josh McCown,Undrafted,2002,1,0,0,0,1,1,1,1
+Justin Fields,Chicago Bears,2021,1,0,0,0,1,1,0,1
+Justin Herbert,Los Angeles Chargers,2020,1,0,0,0,1,1,0,1
+Ken Anderson,Cincinnati Bengals,1971,1,0,1,1,1,0,1,1
+Ken O'Brien,New York Jets,1983,1,0,0,1,1,0,1,1
+Ken Stabler,Oakland Raiders,1968,1,1,1,1,1,0,1,1
+Kerry Collins,Carolina Panthers,1995,1,0,0,1,1,0,1,1
+Kirk Cousins,Washington Redskins,2012,1,0,0,1,1,1,0,1
+Kordell Stewart,Pittsburgh Steelers,1995,1,0,1,0,1,0,1,1
+Kurt Warner,Undrafted,1997,1,1,1,1,1,1,1,1
+Kyle Allen,Undrafted,2018,1,0,0,0,1,1,0,1
+Kyle Orton,Chicago Bears,2005,1,0,1,0,1,1,1,1
+Kyler Murray,Arizona Cardinals,2019,1,0,0,1,1,1,0,1
+Lamar Jackson,Baltimore Ravens,2018,1,0,0,1,1,1,0,1
+Len Dawson,Pittsburgh Steelers,1957,1,1,1,1,1,0,1,1
+Lynn Dickey,Houston Oilers,1971,1,0,0,0,1,0,1,1
+Mac Jones,Jacksonville Jaguars,2005,1,0,0,0,0,1,1,1
+Marc Bulger,New Orleans Saints,2000,1,0,0,1,1,0,1,1
+Marc Wilson,Oakland Raiders,1980,1,0,1,0,1,0,1,1
+Marcus Mariota,Tennessee Titans,2010,1,0,0,0,1,1,1,1
+Mark Brunell,Green Bay Packers,1993,1,0,1,1,1,1,1,1
+Mark Rypien,Washington Redskins,1986,1,0,1,1,1,0,1,1
+Mark Sanchez,New York Jets,2009,1,0,1,0,1,1,1,1
+Matt Barkley,Philadelphia Eagles,2013,1,0,0,0,1,1,0,1
+Matt Cassel,New England Patriots,2005,1,0,0,0,1,1,1,1
+Matt Flynn,Green Bay Packers,2008,1,0,0,0,1,1,0,1
+Matt Hasselbeck,Green Bay Packers,1998,1,0,1,1,1,1,1,1
+Matt Moore,San Francisco 49ers,1974,1,0,0,0,0,1,1,1
+Matt Ryan,Atlanta Falcons,2008,1,0,1,1,1,1,1,1
+Matt Schaub,Atlanta Falcons,2004,1,0,1,1,1,1,1,1
+Matt Stafford,Detroit Lions,2009,1,0,0,1,1,1,0,1
+Matthew Stafford,Detroit Lions,2009,1,0,0,1,1,0,0,1
+Michael Vick,Atlanta Falcons,2001,1,0,1,1,1,1,1,1
+Mike Phipps,Cleveland Browns,1970,1,0,1,0,0,0,1,1
+Mike Tomczak,Undrafted,0,1,0,1,0,1,0,1,1
+Milt Plum,Cleveland Browns,1957,1,0,1,1,1,0,1,1
+Mitchell Trubisky,Chicago Bears,2017,1,0,0,0,1,1,0,1
+Neil Lomax,St. Louis Cardinals,1981,1,0,0,1,1,0,1,1
+Neil O'Donnell,Pittsburgh Steelers,1990,1,0,1,0,1,0,1,1
+Nick Foles,Philadelphia Eagles,2012,1,0,0,0,1,1,1,1
+Nick Mullens,Undrafted,2017,1,0,0,0,1,1,0,1
+Norm Snead,Washington Redskins,1961,1,0,0,1,1,0,1,1
+Norm Van Brocklin,Los Angeles Rams,1949,1,1,1,1,1,0,1,1
+Otto Graham,Detroit Lions,1944,1,1,1,1,1,0,1,0
+Pat Haden,Los Angeles Rams,1975,1,0,1,0,0,0,1,1
+Patrick Mahomes,Kansas City Chiefs,2017,1,0,0,1,1,1,0,1
+Peyton Manning,Indianapolis Colts,1998,1,1,1,1,1,1,1,1
+Phil Simms,New York Giants,1979,1,0,1,1,1,0,1,1
+Philip Rivers,New York Giants,2004,1,0,1,1,1,1,1,1
+Randall Cunningham,Philadelphia Eagles,1985,1,0,1,1,1,0,1,1
+Rich Gannon,New England Patriots,1987,1,0,1,1,1,0,1,1
+Richard Todd,New York Jets,1976,1,0,0,0,1,0,1,1
+Rob Johnson,Jacksonville Jaguars,1995,1,0,0,0,1,1,0,1
+Robert Griffin III,Undrafted,2012,1,0,0,0,0,1,1,1
+Rodney Peete,Detroit Lions,1989,1,0,1,0,1,0,1,1
+Roger Staubach,Kansas City Chiefs,1964,1,1,1,1,1,0,1,1
+Roman Gabriel,Oakland Raiders,1962,1,0,1,1,1,0,1,1
+Ron Jaworski,Los Angeles Rams,1973,1,0,1,0,1,0,1,1
+Rudy Bukich,Los Angeles Rams,1953,1,0,0,0,1,0,1,1
+Russell Wilson,Seattle Seahawks,2012,1,0,1,1,1,1,1,1
+Ryan Fitzpatrick,St. Louis Rams,2005,1,0,0,0,1,1,1,1
+Ryan Nassib,New York Giants,2013,1,0,0,0,1,1,0,1
+Ryan Tannehill,Miami Dolphins,2012,1,0,1,0,1,1,1,1
+Sam Bradford,St. Louis Rams,2010,1,0,0,0,1,1,1,1
+Sam Darnold,New York Jets,2018,1,0,0,0,1,1,0,1
+Sammy Baugh,Washington Redskins,1937,1,0,0,1,1,0,1,0
+Scott Mitchell,Miami Dolphins,1990,1,0,0,0,1,0,1,1
+Scott Tolzien,Undrafted,2016,1,0,0,0,1,1,0,1
+Shaun Hill,Undrafted,2002,1,0,0,0,0,1,1,1
+Sid Luckman,Chicago Bears,1939,1,0,0,1,1,0,1,0
+Sonny Jurgensen,Philadelphia Eagles,1957,1,1,0,1,1,0,1,1
+Stan Humphries,Washington Redskins,1988,1,0,1,0,1,0,1,1
+Steve Bartkowski,Atlanta Falcons,1975,1,0,0,1,1,0,1,1
+Steve Beuerlein,Los Angeles Raiders,1987,1,0,0,0,1,0,1,1
+Steve DeBerg,Dallas Cowboys,1977,1,0,0,0,1,0,1,1
+Steve Grogan,New England Patriots,1975,1,0,1,0,1,0,1,1
+Steve McNair,Houston Oilers,1995,1,0,1,1,1,1,1,1
+Steve Young,Tampa Bay Buccaneers,1985,1,1,1,1,1,1,1,1
+Tarvaris Jackson,Minnesota Vikings,2006,1,0,0,0,0,1,1,1
+Taylor Heinicke,Undrafted,2015,1,0,0,0,1,1,0,1
+Teddy Bridgewater,Minnesota Vikings,2014,1,0,1,0,1,1,1,1
+Terry Bradshaw,Pittsburgh Steelers,1970,1,1,1,1,1,0,1,1
+Tim Couch,Cleveland Browns,1999,1,0,0,0,0,1,1,1
+Tobin Rote,Green Bay Packers,1950,1,0,0,1,1,0,1,1
+Tom Brady,New England Patriots,2000,1,1,1,1,1,1,1,1
+Tom Flores,Undrafted,0,1,1,0,0,1,0,1,1
+Tommy Kramer,Minnesota Vikings,1977,1,0,0,0,1,0,1,1
+Tony Banks,St. Louis Rams,1996,1,0,0,0,1,0,1,1
+Tony Eason,New England Patriots,1983,1,0,0,0,1,0,1,1
+Tony Romo,Undrafted,2003,1,0,1,1,1,1,1,1
+Trent Dilfer,Tampa Bay Buccaneers,1994,1,0,1,0,1,0,1,1
+Trent Green,San Diego Chargers,1993,1,0,0,1,1,0,1,1
+Trevor Lawrence,Jacksonville Jaguars,2021,1,0,0,0,1,1,0,1
+Trevor Siemian,Denver Broncos,2015,1,0,0,0,0,1,1,1
+Trey Lance,San Francisco 49ers,2021,1,0,0,0,1,1,0,1
+Troy Aikman,Dallas Cowboys,1989,1,1,1,1,1,1,1,1
+Tua Tagovailoa,Miami Dolphins,2020,1,0,0,0,1,1,0,1
+Tyrod Taylor,Baltimore Ravens,2011,1,0,0,0,1,1,0,1
+Vince Ferragamo,Los Angeles Rams,1977,1,0,0,0,1,0,1,1
+Vince Young,Tennessee Titans,2006,1,0,0,1,0,1,1,1
+Vinny Testaverde,Tampa Bay Buccaneers,1987,1,0,0,1,1,0,1,1
+Wade Wilson,Minnesota Vikings,1981,1,0,1,0,1,0,1,1
+Warren Moon,Undrafted,0,1,1,1,1,1,0,1,1
+Y.A. Tittle,San Francisco 49ers,1951,1,1,1,1,1,0,1,1
+Zeke Bratkowski,Chicago Bears,1953,1,0,0,0,1,0,1,1
+A.J. Feeley,Philadelphia Eagles,2001,0,0,0,0,0,0,0,1
+A.J. McCarron,Cincinnati Bengals,2014,0,0,0,0,0,1,0,1
+Aaron Murray,Kansas City Chiefs,2014,0,0,0,0,0,1,0,0
+Ace Parker,0,0,0,1,0,0,0,0,0,0
+Adam Weber,Undrafted,2011,0,0,0,0,0,0,0,0
+Adrian Burk,Washington Redskins,1951,0,0,0,1,0,0,0,0
+Adrian Martinez,Undrafted,2024,0,0,0,0,0,0,0,0
+Aidan O'Connell,Las Vegas Raiders,2023,0,0,0,0,0,1,0,1
+Alek Torgersen,Undrafted,2017,0,0,0,0,0,0,0,0
+Alex McGough,Seattle Seahawks,2018,0,0,0,0,0,1,0,0
+Anthony Boone,Undrafted,0,0,0,0,0,0,0,0,0
+Anthony Brown,Undrafted,2022,0,0,0,0,0,0,0,1
+Anthony Gordon,Draft Finder,2021,0,0,0,0,0,0,0,0
+Anthony Richardson,Undrafted,2023,0,0,0,0,0,1,0,0
+Arnie Herber,0,0,0,1,0,0,1,0,0,0
+Austin Allen,Undrafted,0,0,0,0,0,0,0,0,0
+Austin Appleby,Undrafted,0,0,0,0,0,0,0,0,0
+Austin Davis,Undrafted,2012,0,0,0,0,0,1,0,1
+Austin Reed,Undrafted,2024,0,0,0,0,0,0,0,0
+B.J. Coleman,Green Bay Packers,2012,0,0,0,0,0,0,0,0
+B.J. Daniels,San Francisco 49ers,2013,0,0,0,0,0,1,0,1
+Bailey Zappe,New England Patriots,2022,0,0,0,0,0,1,0,1
+Ben DiNucci,Dallas Cowboys,2020,0,0,0,0,0,1,0,1
+Benny Friedman,0,0,0,1,0,0,0,0,0,0
+Billy Joe Tolliver,0,0,0,0,0,0,0,0,0,0
+Billy Volek,Undrafted,0,0,0,0,0,0,0,0,1
+Bo Nix,0,2024,0,0,0,0,0,1,0,0
+Bob Avellini,Chicago Bears,1975,0,0,0,0,0,0,0,1
+Bob Gagliano,Kansas City Chiefs,1981,0,0,0,0,1,0,0,1
+Bob Hoernschemeyer,New York Giants,1947,0,0,0,1,0,0,0,0
+Bob Lee,0,0,0,0,0,0,0,0,0,0
+Bob Waterfield,Los Angeles Chargers,1960,0,1,0,0,0,0,0,1
+Bobby Douglass,Chicago Bears,1969,0,0,0,0,0,0,0,1
+Bobby Thomason,Undrafted,0,0,0,0,0,0,0,0,1
+Brad Kaaya,Detroit Lions,2017,0,0,0,0,0,1,0,0
+Brad Sorensen,San Diego Chargers,2013,0,0,0,0,0,0,0,0
+Brady Quinn,Cleveland Browns,2007,0,0,0,0,0,0,0,1
+Brandon Allen,Jacksonville Jaguars,2016,0,0,0,0,0,1,0,1
+Brandon Doughty,Miami Dolphins,2016,0,0,0,0,0,0,0,0
+Brandon Peters,Undrafted,0,0,0,0,0,0,0,0,1
+Brandon Weeden,Cleveland Browns,2012,0,0,0,0,0,1,0,1
+Brendon Kay,0,0,0,0,0,0,0,0,0,0
+Brett Hundley,Green Bay Packers,2015,0,0,0,0,0,1,0,1
+Brett Rypien,Undrafted,2019,0,0,0,0,0,1,0,1
+Brian Lewerke,Undrafted,2021,0,0,0,0,0,0,0,0
+Broc Rutter,0,0,0,0,0,0,0,0,0,0
+Brock Jensen,0,0,0,0,0,0,0,0,0,0
+Brogan Roback,Undrafted,0,0,0,0,0,0,0,0,0
+Bruce Gradkowski,Tampa Bay Buccaneers,2006,0,0,0,0,0,1,0,1
+Bryan Bennett,Undrafted,0,0,0,0,0,0,0,0,1
+Bryce Perkins,Undrafted,2020,0,0,0,0,0,1,0,1
+Bryce Petty,Detroit Lions,2009,0,0,0,0,0,1,0,1
+Bryn Renner,0,0,0,0,0,0,0,0,0,0
+Bud Schwenk,0,0,0,0,0,0,0,0,0,0
+Byron Leftwich,Jacksonville Jaguars,2003,0,0,0,0,0,0,1,1
+C.J. Beathard,San Francisco 49ers,2017,0,0,0,0,0,1,0,1
+C.J. Stroud,0,2023,0,0,0,0,0,1,0,0
+Caleb Hanie,Undrafted,0,0,0,0,0,0,0,0,1
+Caleb Williams,Philadelphia Eagles,1990,0,0,0,0,0,1,0,1
+Cardale Jones,Los Angeles Raiders,1994,0,0,0,0,0,1,0,1
+Carson Strong,Undrafted,0,0,0,0,0,0,0,0,0
+Carter Bradley,Undrafted,2024,0,0,0,0,0,0,0,1
+Case Cookus,Undrafted,2022,0,0,0,0,0,0,0,0
+Casey Bauman,0,0,0,0,0,0,0,0,0,0
+Cecil Isbell,0,0,0,0,0,0,0,0,0,0
+Chad Kanoff,Undrafted,2018,0,0,0,0,0,0,0,0
+Chad Kelly,Denver Broncos,2017,0,0,0,0,0,1,0,1
+Chandler Harnish,Indianapolis Colts,2012,0,0,0,0,0,0,0,0
+Charlie Batch,Detroit Lions,1998,0,0,0,0,0,0,1,1
+Charlie O'Rourke,0,0,0,0,0,0,0,0,0,0
+Chase Daniel,Undrafted,2009,0,0,0,0,0,1,0,1
+Chase Garbers,Undrafted,2022,0,0,0,0,0,0,0,0
+Chase Litton,Draft Finder,2018,0,0,0,0,0,0,0,0
+Chase Rettig,Undrafted,0,0,0,0,0,0,0,0,0
+Chevan Cordeiro,0,0,0,0,0,0,0,0,0,0
+Chris Oladokun,Pittsburgh Steelers,2022,0,0,0,0,0,0,0,0
+Chris Redman,Baltimore Ravens,2000,0,0,0,0,0,0,0,1
+Chris Streveler,Undrafted,2020,0,0,0,0,0,1,0,1
+Chris Weinke,Carolina Panthers,2001,0,0,0,0,0,0,0,1
+Christian Hackenberg,Undrafted,2016,0,0,0,0,0,1,0,0
+Christian Ponder,Minnesota Vikings,2011,0,0,0,0,0,1,0,1
+Clayton Thorson,Philadelphia Eagles,2019,0,0,0,0,0,0,0,0
+Clayton Tune,Arizona Cardinals,2023,0,0,0,0,0,1,0,1
+Cliff Stoudt,Pittsburgh Steelers,1977,0,0,0,0,0,0,0,1
+Cody Carlson,Houston Oilers,1987,0,0,0,0,0,0,0,1
+Cody Fajardo,Undrafted,0,0,0,0,0,0,0,0,0
+Cody Kessler,Cleveland Browns,2016,0,0,0,0,0,1,0,1
+Cole Kelley,Undrafted,0,0,0,0,0,0,0,0,0
+Cole McDonald,Tennessee Titans,2020,0,0,0,0,0,0,0,0
+Cole Stoudt,Undrafted,0,0,0,0,0,0,0,0,0
+Connor Halliday,Undrafted,0,0,0,0,0,0,0,0,0
+Connor Shaw,Undrafted,0,0,0,0,0,0,0,0,1
+Cooper Rush,Undrafted,2017,0,0,0,0,0,1,0,1
+Curtis Painter,Indianapolis Colts,2009,0,0,0,0,0,0,0,1
+Dalton Sturm,0,0,0,0,0,0,0,0,0,0
+Damon Huard,Undrafted,0,0,0,0,0,0,0,0,1
+Dan Orlovsky,Detroit Lions,2005,0,0,0,0,0,1,0,1
+Danny Etling,New England Patriots,2018,0,0,0,0,0,0,0,0
+Danny Kanell,New York Giants,1996,0,0,0,0,0,0,0,1
+Danny White,New York Giants,1988,0,0,0,0,1,0,0,1
+Danny Wuerffel,New Orleans Saints,1997,0,0,0,0,0,0,0,1
+Dave Brown,New York Giants,0,0,0,0,0,0,0,1,1
+Dave Wilson,New Orleans Saints,0,0,0,0,0,0,0,0,1
+David Archer,Undrafted,0,0,0,0,0,0,0,0,1
+David Blough,Undrafted,2019,0,0,0,0,0,1,0,1
+David Fales,Chicago Bears,2014,0,0,0,0,0,1,0,1
+David Klingler,Cincinnati Bengals,1992,0,0,0,0,0,0,0,1
+David Whitehurst,New York Giants,1988,0,0,0,0,0,0,0,1
+Davis Cheek,Undrafted,2022,0,0,0,0,0,0,0,0
+Davis Mills,Undrafted,2021,0,0,0,0,0,1,0,1
+Davis Webb,New York Giants,2017,0,0,0,0,0,1,0,1
+DeShone Kizer,Cleveland Browns,2017,0,0,0,0,0,1,0,1
+Dennis Dixon,Pittsburgh Steelers,2008,0,0,0,0,0,0,0,1
+Dennis Shaw,Buffalo Bills,1970,0,0,0,0,0,0,0,1
+Devin Leary,Baltimore Ravens,2024,0,0,0,0,0,0,0,0
+Devlin Hodges,Undrafted,2019,0,0,0,0,0,0,0,1
+Dick Shiner,Washington Redskins,1964,0,0,0,0,0,0,0,1
+Dick Wood,Baltimore Colts,1959,0,0,0,0,0,0,1,1
+Dominique Davis,Dallas Cowboys,1962,0,0,0,0,0,0,0,1
+Don Majkowski,Green Bay Packers,1987,0,0,0,0,0,0,1,1
+Don Strock,Miami Dolphins,1973,0,0,0,0,0,0,0,1
+Don Trull,Houston Oilers,1963,0,0,0,0,0,0,0,1
+Dorian Thompson-Robinson,Seattle Seahawks,1991,0,0,0,0,0,1,0,1
+Drake Maye,New England Patriots,2024,0,0,0,0,0,1,0,1
+Dresser Winn,Undrafted,2023,0,0,0,0,0,0,0,0
+Drew Anderson,Undrafted,2019,0,0,0,0,0,0,0,0
+Drew Lock,Denver Broncos,2019,0,0,0,0,0,1,0,1
+Drew Plitt,Undrafted,2023,0,0,0,0,0,0,0,0
+Drew Stanton,Detroit Lions,2007,0,0,0,0,0,1,0,1
+Dustin Vaughan,Undrafted,0,0,0,0,0,0,0,0,0
+Dwayne Haskins,Washington Redskins,2019,0,0,0,0,0,1,0,1
+Dylan Thompson,Undrafted,0,0,0,0,0,0,0,0,0
+E.J. Manuel,0,2013,0,0,0,0,0,1,0,0
+EJ Perry,Undrafted,2022,0,0,0,0,0,0,0,0
+Easton Stick,Los Angeles Chargers,2019,0,0,0,0,0,1,0,1
+Eli Jenkins,Green Bay Packers,2019,0,0,0,1,0,0,0,1
+Eric Dungey,Undrafted,0,0,0,0,0,0,0,0,0
+Eric Hipple,Detroit Lions,1980,0,0,0,0,0,0,1,1
+Feleipe Franks,Undrafted,2021,0,0,0,0,0,1,0,1
+Frank Filchock,0,0,0,0,0,0,0,0,0,0
+Frank Reich,Buffalo Bills,1985,0,0,0,0,0,0,0,1
+Frank Tripucka,Philadelphia Eagles,1949,0,0,0,0,0,0,1,1
+Frankie Albert,Chicago Bears,1942,0,0,0,0,1,0,1,0
+Fred Enke,0,0,0,0,0,0,0,0,0,0
+G.J. Kinne,Undrafted,0,0,0,0,0,0,0,0,0
+Gardner Minshew II,Jacksonville Jaguars,2019,0,0,0,0,1,0,0,1
+Garrett Gilbert,Undrafted,2014,0,0,0,0,0,1,0,1
+Garrett Grayson,New Orleans Saints,2015,0,0,0,0,0,1,0,0
+Gary Cuozzo,Undrafted,0,0,0,0,0,0,0,1,1
+Gary Huff,Chicago Bears,1973,0,0,0,0,0,0,0,1
+Gavin Hardison,Undrafted,0,0,0,0,0,0,0,0,0
+George Herring,San Francisco 49ers,1956,0,0,0,0,0,0,0,1
+George Izo,0,0,0,0,0,0,0,0,0,0
+George Ratterman,Boston Yanks,1948,0,0,0,0,1,0,1,0
+George Shaw,Baltimore Colts,1955,0,0,0,0,1,0,0,1
+Glenn Dobbs,0,0,0,0,0,0,0,0,0,0
+Greg McElroy,New York Jets,2011,0,0,0,0,0,0,0,1
+Hendon Hooker,Detroit Lions,2023,0,0,0,0,0,1,0,0
+Holton Ahlers,Undrafted,0,0,0,0,0,0,0,0,0
+Hugh Millen,Los Angeles Rams,1986,0,0,0,0,0,0,0,1
+Ian Book,New Orleans Saints,2021,0,0,0,0,0,1,0,1
+Irv Comp,0,0,0,0,0,0,0,0,0,0
+J'Mar Smith,0,0,0,0,0,0,0,0,0,0
+J.J. McCarthy,0,2024,0,0,0,0,0,1,0,0
+J.P. Losman,Buffalo Bills,2004,0,0,0,0,0,0,0,1
+J.T. Barrett,Undrafted,2018,0,0,0,0,0,0,0,0
+JaMarcus Russell,Oakland Raiders,2007,0,0,0,0,0,1,0,1
+Jack Coan,Undrafted,0,0,0,0,0,0,0,0,0
+Jack Concannon,Boston Patriots,1964,0,0,0,0,0,0,0,1
+Jack Thompson,Cincinnati Bengals,1979,0,0,0,0,0,0,0,1
+Jack Trudeau,Indianapolis Colts,1986,0,0,0,0,0,0,1,1
+Jacky Lee,0,0,0,0,0,0,0,0,0,0
+Jacob Dolegala,Undrafted,2019,0,0,0,0,0,0,0,0
+Jacoby Brissett,New England Patriots,2016,0,0,0,0,0,1,0,1
+Jake Browning,Kansas City Chiefs,2011,0,0,0,0,0,1,0,1
+Jake Coker,Undrafted,0,0,0,0,0,0,0,0,0
+Jake Fromm,Buffalo Bills,2020,0,0,0,0,0,1,0,1
+Jake Haener,New Orleans Saints,2023,0,0,0,0,0,1,0,1
+Jake Heaps,0,0,0,0,0,0,0,0,0,0
+Jake Luton,Jacksonville Jaguars,2020,0,0,0,0,0,1,0,1
+Jake Rudock,Detroit Lions,2016,0,0,0,0,0,1,0,1
+Jake Waters,Undrafted,0,0,0,0,0,0,0,0,0
+Jalen Morton,Undrafted,0,0,0,0,0,0,0,0,0
+Jameill Showers,0,2015,0,0,0,0,0,0,0,0
+James Blackman,0,0,0,0,0,0,0,0,0,0
+James Franklin,Undrafted,0,0,0,0,0,0,0,0,1
+James Harris,Green Bay Packers,1990,0,0,0,0,0,0,1,1
+James Morgan,New York Jets,2020,0,0,0,0,0,1,0,0
+Jarrett Guarantano,Undrafted,2022,0,0,0,0,0,0,0,0
+Jason Bean,Undrafted,2024,0,0,0,0,0,0,0,0
+Jayden Daniels,Undrafted,2024,0,0,0,0,0,1,0,0
+Jeff Driskel,San Francisco 49ers,2016,0,0,0,0,0,1,0,1
+Jeff Kemp,Undrafted,0,0,0,0,0,0,0,0,1
+Jeff Mathews,Houston Texans,2005,0,0,0,1,0,0,0,1
+Jeff Rutledge,Los Angeles Rams,1979,0,0,0,0,0,0,0,1
+Jeff Tuel,Undrafted,0,0,0,0,0,0,0,0,1
+Jerod Evans,Phoenix Cardinals,1991,0,0,0,0,0,0,0,1
+Jerrod Johnson,Cincinnati Bengals,2003,0,0,0,0,0,0,0,1
+Jerry Lovelocke,0,0,0,0,0,0,0,0,0,0
+Jim Finks,Pittsburgh Steelers,1949,0,1,0,0,0,0,1,0
+Jim Hardy,Washington Redskins,1945,0,0,0,0,0,0,0,0
+Jim Miller,Pittsburgh Steelers,1994,0,0,0,0,0,0,0,1
+Jim Ninowski,Cleveland Browns,1958,0,0,0,0,0,0,0,1
+Jimmy Clausen,Carolina Panthers,2010,0,0,0,0,0,1,0,1
+Joe Callahan,Undrafted,2016,0,0,0,0,1,0,0,1
+Joe Kapp,Washington Redskins,1959,0,0,0,0,0,0,0,1
+Joe Milton III,New England Patriots,2024,0,0,0,0,0,0,0,0
+Joe Pisarcik,Undrafted,0,0,0,0,0,0,0,0,1
+Joe Webb,Minnesota Vikings,2010,0,0,0,0,0,1,0,1
+Joel Stave,0,2017,0,0,0,0,0,0,0,0
+John Friesz,San Diego Chargers,1990,0,0,0,0,0,0,1,1
+John Paddock,0,0,0,0,0,0,0,0,0,0
+John Rhys Plumlee,0,2024,0,0,0,0,0,0,0,0
+John Skelton,Arizona Cardinals,2010,0,0,0,0,0,0,0,1
+John Wolford,Undrafted,2019,0,0,0,0,0,1,0,1
+Johnny Green,Pittsburgh Steelers,1959,0,0,0,0,0,0,0,1
+Johnny Lujack,Chicago Bears,1946,0,0,0,1,1,0,0,0
+Johnny Manziel,Cleveland Browns,2014,0,0,0,0,0,1,0,1
+Jordan Love,Washington Redskins,1967,0,0,0,0,0,1,0,1
+Jordan Rodgers,San Diego Chargers,1973,0,0,0,0,0,0,0,1
+Jordan Ta'amu,Draft Finder,2020,0,0,0,0,0,0,0,0
+Jordan Travis,New York Jets,2024,0,0,0,0,0,0,0,0
+Josh Johnson,Phoenix Cardinals,1990,0,0,0,0,0,1,0,1
+Josh Love,Washington Redskins,1967,0,0,0,0,0,0,0,1
+Josh Rosen,Miami Dolphins,1980,0,0,0,0,0,1,0,1
+Josh Woodrum,Jacksonville Jaguars,2016,0,0,0,0,0,0,0,1
+Joshua Dobbs,Pittsburgh Steelers,2017,0,0,0,0,0,1,0,1
+Kedon Slovis,Undrafted,2024,0,0,0,0,0,0,0,0
+Keith Price,Undrafted,0,0,0,0,0,0,0,0,0
+Keith Wenning,Baltimore Ravens,2014,0,0,0,0,0,0,0,0
+Kellen Clemens,New York Jets,2006,0,0,0,0,0,1,0,1
+Kellen Mond,Minnesota Vikings,2021,0,0,0,0,0,1,0,1
+Kellen Moore,Detroit Lions,2008,0,0,0,0,0,1,0,1
+Kelly Holcomb,Undrafted,0,0,0,0,0,0,0,0,1
+Ken Dorsey,San Francisco 49ers,2003,0,0,0,0,0,0,0,1
+Kenji Bahar,Undrafted,0,0,0,0,0,0,0,0,0
+Kenny Pickett,Pittsburgh Steelers,2022,0,0,0,0,0,1,0,1
+Kent Graham,New York Giants,1992,0,0,0,0,0,0,1,1
+Kevin Davidson,Green Bay Packers,1986,0,0,0,0,0,0,0,1
+Kevin Hogan,Kansas City Chiefs,2016,0,0,0,0,0,1,0,1
+Kevin Kolb,Philadelphia Eagles,2007,0,0,0,0,0,1,0,1
+King Hill,Chicago Cardinals,1958,0,0,0,0,0,0,0,1
+Kory Faulkner,0,0,0,0,0,0,0,0,0,0
+Kurt Benkert,Draft Finder,2018,0,0,0,0,0,1,0,0
+Kyle Boller,Baltimore Ravens,2003,0,0,0,0,0,0,1,1
+Kyle Lauletta,New York Giants,2018,0,0,0,0,0,1,0,1
+Kyle Shurmur,Draft Finder,2019,0,0,0,0,0,0,0,0
+Kyle Sloter,Undrafted,2017,0,0,0,0,0,1,0,0
+Kyle Trask,Tampa Bay Buccaneers,2021,0,0,0,0,0,1,0,1
+Lamar McHan,Chicago Cardinals,1954,0,0,0,0,0,0,1,1
+Lance Ball,Undrafted,0,0,0,0,0,0,0,0,1
+Landry Jones,New York Jets,1980,0,0,0,0,0,1,0,1
+Levi Lewis,Undrafted,0,0,0,0,0,0,0,0,1
+Logan Kilgore,0,0,0,0,0,0,0,0,0,0
+Logan Thomas,Arizona Cardinals,2014,0,0,0,0,0,1,0,1
+Logan Woodside,Cincinnati Bengals,2018,0,0,0,0,0,1,0,1
+Luis Perez,0,0,0,0,0,0,0,0,0,0
+Luke Falk,Tennessee Titans,2018,0,0,0,0,0,0,0,1
+Luke McCown,Cleveland Browns,2004,0,0,0,0,0,1,0,1
+M.C. Reynolds,Undrafted,0,0,0,0,0,0,0,0,1
+Malik Cunningham,Undrafted,2023,0,0,0,0,0,0,0,1
+Malik Willis,Undrafted,2022,0,0,0,0,0,1,0,1
+Manny Wilkins,Undrafted,2019,0,0,0,0,0,0,0,1
+Mark Malone,Pittsburgh Steelers,1980,0,0,0,0,0,0,1,1
+Marty Domres,San Diego Chargers,1969,0,0,0,0,0,0,0,1
+Mason Rudolph,Pittsburgh Steelers,2018,0,0,0,0,0,1,0,1
+Matt Blanchard,Undrafted,0,0,0,0,0,0,0,0,0
+Matt Corral,Carolina Panthers,2022,0,0,0,0,0,1,0,0
+Matt Johnson,Pittsburgh Steelers,1999,0,0,0,0,0,0,0,1
+Matt Leinart,Arizona Cardinals,2006,0,0,0,0,0,1,0,1
+Matt McGloin,0,2013,0,0,0,0,0,1,0,0
+Matt Simms,Undrafted,2019,0,0,0,0,0,0,0,1
+Max Duggan,Los Angeles Chargers,2023,0,0,0,0,0,0,0,0
+Max McCaffrey,New York Giants,2012,0,0,0,0,0,0,0,1
+Max Wittek,0,0,0,0,0,0,0,0,0,0
+McLeod Bethel-Thompson,Undrafted,0,0,0,0,0,0,0,0,0
+Michael Penix Jr.,Atlanta Falcons,2024,0,0,0,0,0,1,0,0
+Michael Pratt,Green Bay Packers,2024,0,0,0,0,0,0,0,0
+Mike Bercovici,0,0,0,0,0,0,0,0,0,0
+Mike Glennon,Tampa Bay Buccaneers,2013,0,0,0,0,0,1,0,1
+Mike Kafka,Philadelphia Eagles,2010,0,0,0,0,0,0,0,1
+Mike Livingston,Kansas City Chiefs,1968,0,0,0,0,0,0,1,1
+Mike McMahon,Detroit Lions,2001,0,0,0,0,0,0,0,1
+Mike Pagel,Baltimore Colts,1982,0,0,0,0,0,0,1,1
+Mike Taliaferro,New York Giants,1963,0,0,0,0,0,0,0,1
+Mike White,Undrafted,2018,0,0,0,0,0,1,0,0
+Nate Stanley,Minnesota Vikings,2020,0,0,0,0,0,0,0,0
+Nate Sudfeld,Washington Redskins,2016,0,0,0,0,0,1,0,1
+Nathan Enderle,Chicago Bears,2011,0,0,0,0,0,0,0,0
+Nathan Peterman,Buffalo Bills,2017,0,0,0,0,0,1,0,1
+Nathan Rourke,Undrafted,2023,0,0,0,0,0,0,0,0
+Nic Shimonek,0,0,0,0,0,0,0,0,0,0
+Nick Fitzgerald,Draft Finder,0,0,0,0,0,0,0,0,0
+Nick Schuessler,0,0,0,0,0,0,0,0,0,0
+Nick Stevens,Undrafted,0,0,0,0,0,0,0,0,0
+Nolan Henderson,0,0,0,0,0,0,0,0,0,0
+Parker Hall,0,0,0,0,0,0,0,0,0,0
+Pat Devlin,Undrafted,2015,0,0,0,0,0,0,0,0
+Patrick Ramsey,Washington Redskins,2002,0,0,0,0,0,0,0,1
+Paul Christman,0,0,0,0,0,0,0,0,0,0
+Paul McDonald,Cleveland Browns,1980,0,0,0,0,0,0,0,1
+Paxton Lynch,Denver Broncos,2016,0,0,0,0,0,1,0,1
+Peewee Jarrett,0,0,0,0,0,0,0,0,0,0
+Pete Beathard,Kansas City Chiefs,1964,0,0,0,0,0,0,1,1
+Pete Liske,New York Jets,1963,0,0,0,0,0,0,0,1
+Peter Pujals,0,0,0,0,0,0,0,0,0,0
+Phillip Walker,Undrafted,2017,0,0,0,0,0,1,0,1
+Quincy Carter,Dallas Cowboys,2001,0,0,0,0,0,0,0,1
+Ralph Guglielmi,Washington Redskins,1955,0,0,0,0,0,0,0,1
+Randy Johnson,Atlanta Falcons,1966,0,0,0,0,0,0,1,1
+Randy Wright,Green Bay Packers,1984,0,0,0,0,0,0,0,1
+Red Dunn,Undrafted,0,0,0,0,0,0,0,0,0
+Reid Sinnett,Undrafted,2020,0,0,0,0,0,1,0,0
+Rex Grossman,Chicago Bears,2003,0,0,0,0,0,0,1,1
+Rick Mirer,Seattle Seahawks,1993,0,0,0,0,0,0,1,1
+Rick Norton,Miami Dolphins,1966,0,0,0,0,0,0,0,1
+Ricky Stanzi,Kansas City Chiefs,2011,0,0,0,0,0,1,0,0
+Riley Neal,0,0,0,0,0,0,0,0,0,0
+Rocky Lombardi,0,0,0,0,0,0,0,0,0,0
+Roy Zimmerman,0,0,0,0,0,0,0,0,0,0
+Rusty Smith,San Diego Chargers,0,0,0,0,0,0,0,0,1
+Ryan Finley,Cincinnati Bengals,2019,0,0,0,0,0,1,0,1
+Ryan Griffin,Houston Texans,2013,0,0,0,0,0,1,0,1
+Ryan Leaf,San Diego Chargers,1998,0,0,0,0,0,0,0,1
+Ryan Lindley,Arizona Cardinals,2012,0,0,0,0,0,1,0,1
+Ryan Mallett,New England Patriots,2011,0,0,0,0,0,1,0,1
+Ryan Willis,Arizona Cardinals,2011,0,0,0,0,0,0,0,1
+Sam Ehlinger,Indianapolis Colts,2021,0,0,0,0,0,1,0,1
+Sam Hartman,Undrafted,2024,0,0,0,0,0,0,0,0
+Sam Howell,Washington Commanders,2022,0,0,0,0,0,1,0,1
+Scott Brunner,New York Giants,1980,0,0,0,0,0,0,0,1
+Scott Hunter,Green Bay Packers,1971,0,0,0,0,0,0,0,1
+Sean Clifford,Green Bay Packers,2023,0,0,0,0,0,1,0,1
+Sean Mannion,St. Louis Rams,2015,0,0,0,0,0,1,0,1
+Sean Renfree,Atlanta Falcons,2013,0,0,0,0,0,1,0,1
+Sefo Liufau,Undrafted,0,0,0,0,0,0,0,0,0
+Seneca Wallace,Seattle Seahawks,2003,0,0,0,0,0,0,0,1
+Seth Lobato,Undrafted,0,0,0,0,0,0,0,0,0
+Shane Buechele,Undrafted,2021,0,0,0,0,0,1,0,0
+Shane Matthews,Undrafted,0,0,0,0,0,0,0,0,1
+Shaun King,Tampa Bay Buccaneers,1999,0,0,0,0,0,0,0,1
+Skylar Thompson,Miami Dolphins,2022,0,0,0,0,0,1,0,1
+Skyler Howard,Undrafted,0,0,0,0,0,0,0,0,0
+Spencer Rattler,New Orleans Saints,2024,0,0,0,0,0,0,0,0
+Stephen Morris,Undrafted,2015,0,0,0,0,0,0,0,0
+Stetson Bennett,Los Angeles Rams,2023,0,0,0,0,0,1,0,0
+Steve Bono,Minnesota Vikings,1985,0,0,0,0,0,0,1,1
+Steve Dils,Minnesota Vikings,1979,0,0,0,0,0,0,0,1
+Steve Fuller,Kansas City Chiefs,1979,0,0,0,0,0,0,1,1
+Steve Ramsey,New Orleans Saints,1970,0,0,0,0,1,0,0,1
+Steve Spurrier,San Francisco 49ers,1967,0,0,0,0,0,0,0,1
+Steve Tensi,San Diego Chargers,1965,0,0,0,0,0,0,0,1
+Steve Walsh,Dallas Cowboys,0,0,0,0,0,0,0,1,1
+Steven Montez,Draft Finder,2020,0,0,0,0,0,0,0,0
+Stoney Case,Arizona Cardinals,1995,0,0,0,0,0,0,0,1
+T.J. Yates,Houston Texans,2011,0,0,0,0,0,1,0,1
+Tajh Boyd,New York Jets,2014,0,0,0,0,0,0,0,0
+Tanner Lee,0,2018,0,0,0,0,0,0,0,0
+Tanner McKee,Draft Finder,2023,0,0,0,0,0,0,0,0
+Tanner Mordecai,Undrafted,2024,0,0,0,0,0,0,0,0
+Tanner Morgan,Undrafted,0,0,0,0,0,0,0,0,0
+Taryn Christion,Undrafted,0,0,0,0,0,0,0,0,0
+Taysom Hill,Undrafted,2017,0,0,0,0,0,1,0,1
+Thaddeus Lewis,New York Giants,1994,0,0,0,0,0,0,0,1
+Tim Boyle,Undrafted,2018,0,0,0,0,0,1,0,1
+Tim DeMorat,0,0,0,0,0,0,0,0,0,0
+Tim Tebow,Denver Broncos,2010,0,0,0,0,0,1,0,1
+Todd Blackledge,Kansas City Chiefs,1983,0,0,0,0,0,0,0,1
+Todd Bouman,Undrafted,0,0,0,0,0,1,0,0,1
+Todd Collins,Buffalo Bills,1995,0,0,0,0,0,0,0,1
+Tom Savage,Houston Texans,2014,0,0,0,0,0,1,0,1
+Tommy DeVito,Undrafted,2023,0,0,0,0,0,0,0,1
+Tommy Maddox,Denver Broncos,1992,0,0,0,0,0,0,1,1
+Tommy Rees,0,0,0,0,0,0,0,0,0,0
+Tommy Stevens,Undrafted,2020,0,0,0,0,0,0,0,0
+Tommy Thompson,Undrafted,0,0,0,0,0,1,0,0,1
+Tommy Wade,Undrafted,0,0,0,0,0,0,0,0,1
+Tony Adams,San Diego Chargers,1973,0,0,0,0,0,0,0,1
+Trace McSorley,Baltimore Ravens,2019,0,0,0,0,0,1,0,1
+Travis Partridge,0,0,0,0,0,0,0,0,0,0
+Trent Edwards,Pittsburgh Steelers,1999,0,0,0,0,0,0,0,1
+Trevone Boykin,Undrafted,2016,0,0,0,0,1,0,0,1
+Trevor Knight,Undrafted,2017,0,0,0,0,0,0,0,0
+Turk Schonert,Chicago Bears,1980,0,0,0,0,1,0,0,1
+Ty Detmer,Green Bay Packers,1992,0,0,0,0,0,0,0,1
+Tyler Bray,Undrafted,2015,0,0,0,0,0,1,0,1
+Tyler Ferguson,Undrafted,0,0,0,0,0,0,0,0,0
+Tyler Huntley,Undrafted,2020,0,0,0,0,0,1,0,0
+Tyler Wilson,Oakland Raiders,2013,0,0,0,0,0,0,0,0
+Tyree Jackson,Draft Finder,0,0,0,0,0,0,0,0,0
+Tyson Bagent,Undrafted,2023,0,0,0,0,0,0,0,1
+Vince Evans,Chicago Bears,1977,0,0,0,0,0,0,1,1
+Wes Lunt,Undrafted,0,0,0,0,0,0,0,0,0
+Will Grier,Carolina Panthers,2019,0,0,0,0,0,1,0,1
+Will Levis,Tennessee Titans,2023,0,0,0,0,0,1,0,1
+Wilton Speight,0,0,0,0,0,0,0,0,0,0
+Zac Dysert,Denver Broncos,2013,0,0,0,0,0,1,0,0
+Zac Robinson,New England Patriots,2010,0,0,0,0,0,0,0,0
+Zach Mettenberger,Tennessee Titans,2014,0,0,0,0,0,1,0,1
+Zach Terrell,Undrafted,0,0,0,0,0,0,0,0,0
+Zach Wilson,New York Jets,2021,0,0,0,0,0,1,0,1
+Zack Annexstad,0,0,0,0,0,0,0,0,0,0
