@@ -1,4 +1,4 @@
-player,pass_yds,comp,att,TD,pass_rating,int,sacks,pick_6,pass_yds_game,comp_%,int_%,GWD,4QC,wAV,num_teams,teams,hof,yrs_played
+player,pass_yds,comp,att,TD,pass_rating,int,sacks,pick_6,pass_yds_game,comp_%,int_%,GWD,4QC,wAV,num_teams,teams,hof_yes,yrs_played
 Tom Brady,89214,7753,12050,649,97.2,212,565,18,266,64.3%,1.8%,58,46,184.0,2,TM,0,23
 Drew Brees,80358,7142,10551,571,98.7,243,420,27,280,67.7%,2.3%,53,36,167.0,2,TM,0,20
 Peyton Manning,71940,6125,9380,539,96.5,251,303,27,270,65.3%,2.7%,54,43,176.0,2,TM,1,18
