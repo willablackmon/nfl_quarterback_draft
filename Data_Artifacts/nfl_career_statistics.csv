@@ -1,4 +1,4 @@
-player,drafted,yrs_played,teams,hof,wAV,earnings_mils,comp_%,pass_rating,comp,att,pass_yds,TD,pass_yds_game,int,int_%,pick_6,sacks,4QC,GWD
+player,drafted,yrs_played,teams,hof_yes,wAV,earnings_mils,comp_%,pass_rating,comp,att,pass_yds,TD,pass_yds_game,int,int_%,pick_6,sacks,4QC,GWD
 Tom Brady,2000,23,"['Patriots', 'Buccaneers']",0,184.0,317.62,64.3,97.2,7753,12050,89214,649,266,212,1.8,18,565,46,58
 Drew Brees,2001,20,"['Saints', 'Chargers']",0,167.0,273.933,67.7,98.7,7142,10551,80358,571,280,243,2.3,27,420,36,53
 Peyton Manning,1998,18,"['Colts', 'Broncos']",1,176.0,247.714,65.3,96.5,6125,9380,71940,539,270,251,2.7,27,303,43,54

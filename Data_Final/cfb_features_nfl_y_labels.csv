@@ -1,0 +1,318 @@
+player,school,passer_eff_rate,yrs_played,from,to,comp,att,comp_%,pass_yds,pass_td,int,tot_plays,tot_yds,tot_td,pyds_att,adj_pyds_att,pass-yds-per-cmp,yds_pgame,yds_pplay,player_nfl,draft_yr,nfl_success,hof_succ,wins_succ,awards_succ,stats_succ,earn_succ,long_succ,metrics_succ,team_names,teams,hof_yr,_merge
+Case Keenum,Houston,160.6,4.0,2007.0,2011.0,1546,2229,69.4,19217,155,46,2529,20114,178,8.6,9.1,,337.1,8.0,Case Keenum,2012.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Broncos', 'Browns', 'Texans', 'Commanders', 'Bills', 'Vikings', 'Rams']",0,0.0,both
+Luke Falk,Washington State,,3.0,2014.0,2017.0,1404,2055,68.3,14486,119,,2306,14086,123,,,,344.9,,Luke Falk,2018.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"['Dolphins', 'Jets', 'Titans']",0,0.0,both
+Landry Jones,Oklahoma,,3.0,2009.0,2012.0,1388,2183,63.6,16646,123,52,2315,16271,126,,,,314.1,7.0,Landry Jones,1980.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Steelers', 'Jaguars']",0,0.0,both
+Bo Nix,Oregon,149.6,4.0,2019.0,2023.0,1286,1936,66.4,15351,113,,2341,16964,152,,8.5,,251.7,7.2,Bo Nix,2024.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,['Broncos'],0,0.0,both
+Sean Mannion,Oregon State,,3.0,2011.0,2014.0,1187,1838,64.6,13600,83,54,1970,12796,85,,,,289.4,,Sean Mannion,2015.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Vikings', 'Rams', 'Seahawks']",0,0.0,both
+Colt McCoy,Texas,155.0,3.0,2006.0,2009.0,1157,1645,70.3,13253,112,45,2092,14824,132,8.1,8.2,,250.1,7.1,Colt McCoy,2010.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,"['Commanders', 'Cardinals', 'Giants', 'Browns']",0,0.0,both
+Kellen Moore,Boise State,169.0,3.0,2008.0,2011.0,1157,1658,69.8,14667,142,,1759,14534,146,8.8,9.8,,276.7,8.3,Kellen Moore,2008.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cowboys', 'Lions']",0,0.0,both
+Sam Hartman,Notre Dame,147.2,5.0,2018.0,2023.0,1135,1898,,15656,134,49,2359,16634,154,8.2,8.5,13.8,260.9,7.1,Sam Hartman,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Commanders'],0,0.0,both
+Holton Ahlers,East Carolina,,4.0,2018.0,2022.0,1127,1857,,13927,97,,2326,15373,123,,,,253.2,,Holton Ahlers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Seahawks'],0,0.0,both
+Chase Daniel,Missouri,148.9,3.0,2005.0,2008.0,1094,1609,68.0,12515,101,41,1973,13485,111,,,,245.4,6.8,Chase Daniel,2009.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Eagles', 'Chiefs', 'Bears', 'Lions', 'Chargers', 'Saints', 'Commanders']",0,0.0,both
+Derek Carr,Fresno State,152.8,4.0,2009.0,2013.0,1087,1630,66.7,12843,113,,1794,13033,118,,8.6,,291.9,7.3,Derek Carr,2014.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Raiders', 'Saints']",0,0.0,both
+Philip Rivers,North Carolina State,144.2,3.0,2000.0,2003.0,1087,1710,63.6,13484,95,,1962,13580,113,,8.1,,275.2,6.9,Philip Rivers,2004.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Chargers', 'Colts']","['San Diego Chargers 2004-2018', 'Los Angeles Chargers 2019', 'Indianapolis Colts 2020']",0.0,both
+Michael Penix Jr.,Washington,146.6,5.0,2018.0,2023.0,1067,1685,63.3,13741,96,,1819,14006,109,8.2,8.4,,286.3,7.7,Michael Penix Jr.,2024.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,['Falcons'],0,0.0,both
+Zac Dysert,Miami (OH),,3.0,2009.0,2012.0,1066,1672,63.8,12013,73,51,2133,12678,85,,,,261.2,,Zac Dysert,2013.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Broncos', 'Cowboys', 'Cardinals', 'Texans', 'Bills']",0,0.0,both
+Luke McCown,Louisiana Tech,,3.0,2000.0,2003.0,1063,1775,,12666,87,62,2049,12731,97,,,,294.6,,Luke McCown,2004.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Jaguars', 'Buccaneers', 'Saints', 'Falcons', 'Browns', 'Cowboys']",0,0.0,both
+Kenny Pickett,Pitt,,4.0,2017.0,2021.0,1045,1674,62.4,12303,81,,2090,13112,102,,,,236.6,,Kenny Pickett,2022.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Steelers'],0,0.0,both
+Brett Rypien,Boise State,149.2,3.0,2015.0,2018.0,1036,1619,64.0,13581,90,,1829,13484,95,8.4,8.7,,271.6,7.4,Brett Rypien,2019.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Broncos', 'Rams', 'Jets', 'Seahawks']",0,0.0,both
+Keith Wenning,Ball State,,3.0,2010.0,2013.0,1035,1642,63.0,11402,92,42,1832,11730,106,,,,232.7,,Keith Wenning,2014.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Ravens', 'Bengals', 'Giants']",0,0.0,both
+Chris Redman,Louisville,,3.0,1996.0,1999.0,1031,1679,61.4,12541,84,51,1846,12129,87,,,,291.7,,Chris Redman,2000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],"['Baltimore Ravens 2000-2003', 'Atlanta Falcons 2007-2011']",0.0,both
+Baker Mayfield,Oklahoma,175.4,4.0,2013.0,2017.0,1026,1497,68.5,14607,131,,1901,15690,153,9.8,10.6,14.2,304.3,8.3,Baker Mayfield,2018.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Browns', 'Buccaneers', 'Panthers', 'Rams']","['Cleveland Browns 2018-2021', 'Carolina Panthers 2022', 'Los Angeles Rams 2022', 'Tampa Bay Buccaneers 2023-2024']",0.0,both
+Brandon Doughty,Western Kentucky,161.0,4.0,2011.0,2015.0,1023,1491,68.6,12855,111,,1593,12570,115,8.6,9.1,,299.0,7.9,Brandon Doughty,2016.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Dolphins'],0,0.0,both
+Cooper Rush,Central Michigan,,3.0,2013.0,2016.0,1022,1648,62.0,12894,90,55,1863,12786,95,,,,257.9,6.9,Cooper Rush,2017.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cowboys', 'Giants']",0,0.0,both
+Connor Halliday,Washington State,,3.0,2011.0,2014.0,1014,1634,62.1,11308,90,50,1746,10816,90,,,,323.1,,Connor Halliday,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Commanders'],0,0.0,both
+Matt Barkley,USC,148.7,3.0,2009.0,2012.0,1001,1562,64.1,12327,116,48,1694,12214,122,,,,262.3,7.2,Matt Barkley,2013.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Bills', 'Eagles', 'Cardinals', 'Bengals', 'Bears', '49ers', 'Panthers', 'Giants', 'Jaguars', 'Titans', 'Falcons']",0,0.0,both
+Brock Purdy,Iowa State,151.1,3.0,2018.0,2021.0,993,1467,67.7,12170,81,,1832,13347,100,8.3,8.4,,253.5,7.3,Brock Purdy,2022.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['49ers'],"['San Francisco 49ers 2022', 'San Francisco 49ers 2022-2024']",0.0,both
+Clayton Thorson,Northwestern,,3.0,2015.0,2018.0,991,1696,,10731,,45,2058,11139,88,,,,,,Clayton Thorson,2019.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Eagles', 'Giants', 'Cowboys']",0,0.0,both
+Kedon Slovis,Brigham Young,,4.0,2019.0,2023.0,989,1534,64.5,11689,80,,1682,11430,83,,,,254.1,6.8,Kedon Slovis,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Jaguars'],0,0.0,both
+Geno Smith,West Virginia,153.5,3.0,2009.0,2012.0,988,1465,67.4,11662,98,,1710,12004,102,,8.7,,265.0,7.0,Geno Smith,2013.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,"['Seahawks', 'Jets', 'Giants', 'Chargers']","['New York Jets 2013-2016', 'New York Giants 2017', 'Los Angeles Chargers 2018', 'Seattle Seahawks 2020-2024']",0.0,both
+Curtis Painter,Purdue,,3.0,2005.0,2008.0,987,1648,,11163,67,46,1873,11511,80,,,,242.7,,Curtis Painter,2009.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Giants'],0,0.0,both
+Jared Goff,California,,2.0,2013.0,2015.0,977,1569,62.3,12200,96,,1739,12086,97,,8.1,,329.7,6.9,Jared Goff,2016.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,"['Lions', 'Rams']","['Los Angeles Rams 2016-2017', 'Los Angeles Rams 2018-2019', 'Los Angeles Rams 2020', 'Detroit Lions 2021-2024']",0.0,both
+Chevan Cordeiro,San Jose State,,5.0,2018.0,2023.0,971,1624,,12191,88,,2138,13811,113,,,,,,Chevan Cordeiro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Seahawks'],0,0.0,both
+Kevin Kolb,Houston,145.1,3.0,2003.0,2006.0,964,1565,61.6,12964,85,,2037,13715,106,8.3,8.5,,259.3,6.7,Kevin Kolb,2007.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cardinals', 'Eagles', 'Bills']",0,0.0,both
+Ryan Lindley,San Diego State,,3.0,2008.0,2011.0,961,1732,,12690,90,47,1822,12415,92,,,,259.0,6.8,Ryan Lindley,2012.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cardinals', 'Chargers', 'Colts']",0,0.0,both
+Jake Browning,Washington,150.6,3.0,2015.0,2018.0,958,1483,64.6,12296,94,,1754,12540,110,8.3,8.5,,232.0,7.1,Jake Browning,2011.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Bengals', 'Vikings']",0,0.0,both
+Ty Detmer,Brigham Young,162.7,3.0,1988.0,1991.0,958,1530,62.6,15031,121,65,1795,14665,135,9.8,9.5,15.7,313.1,8.2,Ty Detmer,1992.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Clayton Tune,Houston,148.5,4.0,2018.0,2022.0,956,1498,63.8,11996,104,41,1910,13247,119,,8.2,,255.2,6.9,Clayton Tune,2023.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Cardinals'],0,0.0,both
+Jayden Daniels,LSU,158.4,4.0,2019.0,2023.0,953,1438,66.3,12749,89,,2055,16056,124,8.9,9.5,,231.8,7.8,Jayden Daniels,2024.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,['Commanders'],0,0.0,both
+Shane Buechele,SMU,,4.0,2016.0,2020.0,952,1508,63.1,11660,87,,1799,12128,95,,,,253.5,6.7,Shane Buechele,2021.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Chiefs', 'Bills']",0,0.0,both
+Drew Brees,Purdue,,3.0,1997.0,2000.0,942,1525,61.8,10909,81,41,1754,11815,97,,,,266.1,6.7,Drew Brees,2001.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Saints', 'Chargers']","['San Diego Chargers 2001-2005', 'New Orleans Saints 2006-2020']",0.0,both
+Ryan Finley,North Carolina State,,4.0,2014.0,2018.0,939,1462,64.2,11147,,,1676,11529,,,,,237.2,6.9,Ryan Finley,2019.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Bengals'],0,0.0,both
+Byron Leftwich,Marshall,150.9,4.0,1998.0,2002.0,939,1442,65.1,11903,89,,1632,12084,96,8.3,8.6,,,7.4,Byron Leftwich,2003.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,[],"['Jacksonville Jaguars 2003-2006', 'Atlanta Falcons 2007', 'Pittsburgh Steelers 2008-2012', 'Tampa Bay Buccaneers 2009']",0.0,both
+Nick Foles,Arizona,,4.0,2007.0,2011.0,938,1404,66.8,10068,67,,1510,9778,,,,,279.7,,Nick Foles,2012.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Jaguars', 'Bears', 'Eagles', 'Rams', 'Colts', 'Chiefs']","['Philadelphia Eagles 2012-2018', 'St. Louis Rams 2015', 'Kansas City Chiefs 2016', 'Jacksonville Jaguars 2019', 'Chicago Bears 2020-2021', 'Indianapolis Colts 2022']",0.0,both
+Austin Davis,Southern Mississippi,,3.0,2008.0,2011.0,933,1527,,10892,83,,1987,12267,109,,,,231.7,,Austin Davis,2012.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Browns', 'Broncos', 'Rams', 'Seahawks', 'Titans', 'Dolphins']",0,0.0,both
+Brady Quinn,Notre Dame,,3.0,2003.0,2006.0,929,1602,,11762,95,,1856,11944,101,,,,240.0,,Brady Quinn,2007.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"['Rams', 'Jets', 'Seahawks']",0,0.0,both
+Nick Mullens,Southern Mississippi,,3.0,2013.0,2016.0,928,1546,,11994,87,46,1729,11784,96,,,,272.6,6.8,Nick Mullens,2017.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Vikings', '49ers', 'Raiders', 'Browns', 'Eagles']",0,0.0,both
+Sam Ehlinger,Texas,145.0,3.0,2017.0,2020.0,923,1476,62.5,11436,94,,2030,13343,127,,8.2,,248.6,,Sam Ehlinger,2021.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Colts'],0,0.0,both
+Aaron Murray,Georgia,158.6,3.0,2010.0,2013.0,921,1478,62.3,13166,121,41,1764,13562,137,8.9,9.3,14.3,253.2,7.7,Aaron Murray,2014.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Chiefs', 'Eagles', 'Cardinals']",0,0.0,both
+Dan Orlovsky,Connecticut,,3.0,2001.0,2004.0,916,1567,,10706,84,51,1710,10421,90,,,,232.7,,Dan Orlovsky,2005.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Lions', 'Rams']",0,0.0,both
+Mason Rudolph,Oklahoma State,159.7,3.0,2014.0,2017.0,915,1447,63.2,13618,92,,1672,13646,109,9.4,9.9,14.9,324.2,8.2,Mason Rudolph,2018.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Steelers', 'Titans']",0,0.0,both
+Adam Weber,Minnesota,,3.0,2007.0,2010.0,909,1594,,10917,72,51,1992,11790,82,,,,,,Adam Weber,2011.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Broncos', 'Buccaneers']",0,0.0,both
+Garrett Gilbert,SMU,,4.0,2009.0,2013.0,908,1548,,9761,,45,1843,10774,,,,,,,Garrett Gilbert,2014.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Browns', 'Cowboys', 'Patriots', 'Panthers', 'Commanders', 'Rams', 'Raiders', 'Lions']",0,0.0,both
+Zach Terrell,Western Michigan,157.0,3.0,2013.0,2016.0,908,1387,65.5,12088,96,,1664,12708,109,8.7,9.1,,246.7,7.6,Zach Terrell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Ravens'],0,0.0,both
+Russell Wilson,Wisconsin,147.2,3.0,2008.0,2011.0,907,1489,,11720,109,,1930,13141,133,,8.4,,234.4,6.8,Russell Wilson,2012.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Seahawks', 'Broncos']","['Seattle Seahawks 2012-2021', 'Denver Broncos 2022-2023', 'Pittsburgh Steelers 2024']",0.0,both
+Tajh Boyd,Clemson,155.2,3.0,2010.0,2013.0,901,1402,64.3,11904,107,,1907,13069,133,8.5,8.8,,253.3,6.9,Tajh Boyd,2014.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Jets'],0,0.0,both
+Spencer Rattler,South Carolina,152.2,4.0,2019.0,2023.0,900,1313,68.5,10807,77,,1610,11217,93,8.2,8.3,,,7.0,Spencer Rattler,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Saints'],0,0.0,both
+Sean Renfree,Duke,,3.0,2009.0,2012.0,898,1389,64.7,9465,,40,1542,,,,,,,,Sean Renfree,2013.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Falcons', 'Buccaneers']",0,0.0,both
+Carson Palmer,USC,,4.0,1998.0,2002.0,895,1515,,11388,71,49,1758,11289,80,,,,,,Carson Palmer,2003.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Bengals', 'Cardinals', 'Raiders']","['Cincinnati Bengals 2004-2010', 'Oakland Raiders 2011-2012', 'Arizona Cardinals 2013-2017']",0.0,both
+Sefo Liufau,Colorado,,3.0,2013.0,2016.0,888,1412,62.9,9763,,,1793,10702,,,,,,,Sefo Liufau,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Buccaneers'],0,0.0,both
+Drew Lock,Missouri,,3.0,2015.0,2018.0,883,1553,,12193,99,,1756,12630,109,,,13.8,243.9,7.2,Drew Lock,2019.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Broncos', 'Seahawks', 'Giants']",0,0.0,both
+Riley Neal,Vanderbilt,,4.0,2015.0,2019.0,880,1477,,,,,1855,10399,,,,,,,Riley Neal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Broncos'],0,0.0,both
+Cody Fajardo,Nevada,,3.0,2011.0,2014.0,878,1348,65.1,9659,,,1984,13141,101,,,,,6.6,Cody Fajardo,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Raiders'],0,0.0,both
+Thaddeus Lewis,Duke,,3.0,2006.0,2009.0,877,1510,,10065,67,40,1860,9987,,,,,,,Thaddeus Lewis,1994.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"['49ers', 'Bills']",0,0.0,both
+David Blough,Purdue,,3.0,2015.0,2018.0,871,1429,,9734,69,43,1693,9996,83,,,,,,David Blough,2019.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Lions', 'Cardinals', 'Vikings', 'Browns']",0,0.0,both
+Peyton Manning,Tennessee,147.1,3.0,1994.0,1997.0,863,1381,62.5,11201,89,,1534,11020,101,8.1,8.3,,248.9,7.2,Peyton Manning,1998.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Colts', 'Broncos']","['Indianapolis Colts 1998-2010', 'Denver Broncos 2012-2015']",2021.0,both
+Mike White,Western Kentucky,,4.0,2013.0,2017.0,863,1393,62.0,11262,74,,1529,10792,80,8.1,8.1,,256.0,7.1,Mike White,2018.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Dolphins', 'Jets', 'Cowboys']",0,0.0,both
+Dorian Thompson-Robinson,UCLA,145.6,4.0,2018.0,2022.0,860,1359,63.3,10710,88,,1830,12536,116,,,,,6.9,Dorian Thompson-Robinson,1991.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Browns'],0,0.0,both
+Patrick Mahomes,Texas Tech,152.0,2.0,2014.0,2016.0,857,1349,63.5,11252,93,,1657,12072,115,8.3,8.8,,351.6,7.3,Patrick Mahomes,2017.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,['Chiefs'],['Kansas City Chiefs 2017-2024'],0.0,both
+Jack Plummer,Louisville,,4.0,2019.0,2023.0,857,1338,64.1,9728,68,,1593,9710,,,,,,,Jack Plummer,1997.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,['Panthers'],"['Arizona Cardinals 1997-2002', 'Denver Broncos 2003-2006']",0.0,both
+Ben Roethlisberger,Miami (OH),151.3,2.0,2001.0,2003.0,854,1304,65.5,10829,84,,1573,11075,91,8.3,8.4,,285.0,7.0,Ben Roethlisberger,2004.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,['Steelers'],['Pittsburgh Steelers 2004-2021'],0.0,both
+Carson Strong,Nevada,147.4,3.0,2018.0,2021.0,852,1252,68.1,9368,74,,,,,,,,292.8,,Carson Strong,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Eagles', 'Cardinals']",0,0.0,both
+Cody Kessler,USC,156.4,3.0,2012.0,2015.0,851,1261,67.5,10339,88,,,9914,95,8.2,8.9,,,7.0,Cody Kessler,2016.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Browns', 'Jaguars', 'Patriots', 'Eagles']",0,0.0,both
+Tanner Mordecai,Wisconsin,148.7,5.0,2018.0,2023.0,850,1281,66.4,9857,85,,1519,10463,93,,8.1,,,6.9,Tanner Mordecai,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['49ers'],0,0.0,both
+Davis Webb,California,,3.0,2013.0,2016.0,841,1367,61.5,9852,83,,,9752,92,,,,281.5,6.8,Davis Webb,2017.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Giants', 'Bills', 'Jets']",0,0.0,both
+Brett Hundley,UCLA,150.8,2.0,2012.0,2014.0,837,1241,67.4,9966,75,,1720,11713,106,,8.3,,249.2,6.8,Brett Hundley,2015.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cardinals', 'Packers', 'Seahawks', 'Colts', 'Ravens', 'Saints']",0,0.0,both
+Ryan Griffin,Tulane,,3.0,2009.0,2012.0,836,1396,,,,,1545,,,,,,,,Ryan Griffin,2013.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Buccaneers', 'Saints']",0,0.0,both
+Sean Clifford,Penn State,,4.0,2018.0,2022.0,833,1356,61.4,10661,86,,1744,11734,101,,8.1,,,6.7,Sean Clifford,2023.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Packers'],0,0.0,both
+Trevone Boykin,TCU,,3.0,2012.0,2015.0,830,1356,61.2,10728,86,,1863,12777,114,,,,,6.9,Trevone Boykin,2016.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,['Seahawks'],0,0.0,both
+Eli Manning,Ole Miss,,3.0,2000.0,2003.0,829,1363,,10119,81,,,9984,86,,,,235.3,6.7,Eli Manning,2004.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,['Giants'],['New York Giants 2004-2019'],0.0,both
+Chad Henne,Michigan,,3.0,2004.0,2007.0,828,1387,,9715,87,,1567,,90,,,,,,Chad Henne,2008.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,"['Jaguars', 'Chiefs', 'Dolphins']","['Houston Oilers 1960', 'Houston Oilers 1961-1966']",0.0,both
+Justin Herbert,Oregon,153.1,3.0,2016.0,2019.0,827,1293,64.0,10541,95,,1524,11101,108,8.2,8.8,,239.6,7.3,Justin Herbert,2020.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['Chargers'],['Los Angeles Chargers 2020-2024'],0.0,both
+Aidan O'Connell,Purdue,,3.0,2019.0,2022.0,826,1238,66.7,9219,,,,,,,,,279.4,6.7,Aidan O'Connell,2023.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Raiders'],0,0.0,both
+Steven Montez,Colorado,,3.0,2016.0,2019.0,824,1321,62.4,9710,,,1664,10670,,,,,,,Steven Montez,2020.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Commanders', 'Lions']",0,0.0,both
+Charlie Whitehurst,Clemson,,3.0,2002.0,2005.0,817,1368,,9665,,46,1634,9763,,,,,,,Charlie Whitehurst,1980.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,"['Seahawks', 'Chargers', 'Titans', 'Colts', 'Browns']","['Cleveland Browns 1980-1984', 'Los Angeles Rams 1985-1988']",0.0,both
+Deshaun Watson,Clemson,157.5,2.0,2014.0,2016.0,814,1207,67.4,10163,90,,1642,12097,116,8.4,8.7,,267.4,7.4,Deshaun Watson,2017.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,"['Browns', 'Texans']","['Houston Texans 2017-2020', 'Cleveland Browns 2022-2024']",0.0,both
+Andy Dalton,TCU,,3.0,2007.0,2010.0,812,1317,61.7,10314,71,,1730,11925,93,,,,,6.9,Andy Dalton,2011.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,"['Bengals', 'Bears', 'Panthers', 'Saints', 'Cowboys']","['Cincinnati Bengals 2011-2019', 'Dallas Cowboys 2020', 'Chicago Bears 2021', 'New Orleans Saints 2022', 'Carolina Panthers 2023-2024']",0.0,both
+Desmond Ridder,Cincinnati,145.8,3.0,2018.0,2021.0,810,1304,62.1,10239,87,,1806,12418,117,,8.2,,,6.9,Desmond Ridder,2022.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['Falcons'],0,0.0,both
+Matt Leinart,USC,159.5,2.0,2003.0,2005.0,807,1245,64.8,10693,99,,,10623,109,8.6,9.3,,274.2,7.7,Matt Leinart,2006.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cardinals', 'Texans', 'Raiders']",0,0.0,both
+Chad Pennington,Marshall,156.2,2.0,1997.0,1999.0,807,1265,63.8,10698,100,,,10716,104,8.5,9.0,,297.2,7.5,Chad Pennington,1994.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Jets', 'Dolphins']",0,0.0,both
+Matt Ryan,Boston College,,3.0,2004.0,2007.0,807,1347,,9313,,,1515,,,,,,,,Matt Ryan,2008.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Falcons', 'Colts']","['Atlanta Falcons 2008-2019', 'Atlanta Falcons 2020-2021', 'Indianapolis Colts 2022']",0.0,both
+Alex McGough,Florida International,,3.0,2014.0,2017.0,806,1335,,,,,1643,,81,,,,,,Alex McGough,2018.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Texans', 'Seahawks', 'Packers', 'Jaguars']",0,0.0,both
+Kellen Mond,Texas A&M,,3.0,2017.0,2020.0,801,1358,,9661,71,,1796,11269,93,,,,,,Kellen Mond,2021.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Vikings', 'Browns', 'Colts']",0,0.0,both
+Robert Griffin III,Baylor,158.9,3.0,2008.0,2011.0,800,,67.1,10366,78,,1720,12620,111,8.7,9.4,,252.8,7.3,Robert Griffin III,2012.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,"['Commanders', 'Browns', 'Ravens']","['Minnesota Vikings 1994-2001', 'Cleveland Browns 2002-2004', 'Arizona Cardinals 2005-2006']",0.0,both
+Patrick Ramsey,Tulane,,3.0,1998.0,2001.0,798,1355,,9205,72,51,1507,,,,,,263.0,,Patrick Ramsey,2002.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Tim Couch,Kentucky,,2.0,1996.0,1998.0,795,,67.1,,74,,,,,,,,290.9,,Tim Couch,1999.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,"['Browns', 'Packers']",0,0.0,both
+T.J. Yates,North Carolina,,3.0,2007.0,2010.0,795,1277,62.3,9377,,46,1497,,,,,,,,T.J. Yates,2011.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Texans', 'Falcons', 'Dolphins', 'Bills']",0,0.0,both
+Ryan Nassib,Syracuse,,3.0,2009.0,2012.0,791,1312,,9190,70,,1554,,,,,,,,Ryan Nassib,2013.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Giants', 'Jaguars', 'Saints']",0,0.0,both
+Dominique Davis,East Carolina,,3.0,2008.0,2011.0,790,1241,63.7,,68,,,,84,,,,255.9,,Dominique Davis,1962.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Colts'],0,0.0,both
+Adrian Martinez,Kansas State,,4.0,2018.0,2022.0,788,1239,63.6,9752,,,1858,12680,96,,,,,6.8,Adrian Martinez,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Lions'],0,0.0,both
+Eric Dungey,Syracuse,,3.0,2015.0,2018.0,786,1279,61.5,9340,,,1822,11333,93,,,,239.5,,Eric Dungey,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Browns', 'Giants']",0,0.0,both
+Teddy Bridgewater,Louisville,157.2,2.0,2011.0,2013.0,781,,68.4,9817,72,,,9987,,8.6,8.9,,251.7,7.3,Teddy Bridgewater,2014.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,"['Panthers', 'Saints', 'Vikings', 'Dolphins', 'Broncos', 'Lions', 'Jets']","['Minnesota Vikings 2014-2017', 'New Orleans Saints 2018-2019', 'Carolina Panthers 2020', 'Denver Broncos 2021', 'Miami Dolphins 2022', 'Detroit Lions 2023']",0.0,both
+Nathan Enderle,Idaho,,3.0,2007.0,2010.0,779,1427,,10084,74,60,1655,9735,,,,,,,Nathan Enderle,2011.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Bears'],0,0.0,both
+Marcus Mariota,Oregon,171.8,2.0,2012.0,2014.0,779,,66.8,10796,105,,1504,13033,136,9.3,10.5,13.9,263.3,8.7,Marcus Mariota,2010.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Titans', 'Raiders', 'Falcons', 'Eagles', 'Commanders']","['Tennessee Titans 2010-2011', 'Chicago Bears 2014-2015', 'Tennessee Titans 2016']",0.0,both
+Devin Leary,Kentucky,,4.0,2019.0,2023.0,777,1315,,9553,87,,,,93,,,,,,Devin Leary,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Ravens'],0,0.0,both
+Drew Plitt,Ball State,,4.0,2017.0,2021.0,777,1246,62.4,,68,,1568,,82,,,,,,Drew Plitt,2023.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Bengals'],0,0.0,both
+John Elway,Stanford,,3.0,1979.0,1982.0,774,1246,62.1,9349,77,,1505,,82,,,,,,John Elway,1983.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,['Broncos'],"['Denver Broncos 1983-1996', 'Denver Broncos 1997-1998']",2004.0,both
+J.T. Barrett,Ohio State,152.3,3.0,2014.0,2017.0,769,1211,63.5,9434,104,,1867,12697,147,,8.4,,,6.8,J.T. Barrett,2018.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Saints', 'Steelers']",0,0.0,both
+Derek Anderson,Oregon State,,3.0,2001.0,2004.0,768,1515,,11249,79,57,1697,10716,87,,,14.6,229.6,,Derek Anderson,2005.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,"['Browns', 'Panthers', 'Cardinals', 'Bills', 'Ravens']","['Cleveland Browns 2006-2009', 'Arizona Cardinals 2010', 'Carolina Panthers 2011-2017', 'Buffalo Bills 2018']",0.0,both
+Rusty Smith,Florida Atlantic,,3.0,2006.0,2009.0,768,1361,,10112,76,,,9777,81,,,,,6.6,Rusty Smith,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Titans'],0,0.0,both
+Brandon Weeden,Oklahoma State,157.6,3.0,2008.0,2011.0,767,,69.5,9260,75,,,,,8.4,8.7,,308.7,8.0,Brandon Weeden,2012.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Browns', 'Texans', 'Cowboys', 'Titans']",0,0.0,both
+Bruce Gradkowski,Toledo,157.4,3.0,2002.0,2005.0,766,,68.2,9225,85,,,10243,99,8.2,8.6,,,7.5,Bruce Gradkowski,2006.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Steelers'],0,0.0,both
+James Blackman,Arkansas State,,5.0,2017.0,2022.0,765,1246,61.4,9260,,,1501,,,,,,,,James Blackman,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Dolphins'],0,0.0,both
+Daniel Jones,Duke,,2.0,2016.0,2018.0,764,1275,,,,,1681,,,,,,,,Daniel Jones,1997.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,['Giants'],0,0.0,both
+Gardner Minshew,Washington State,,2.0,2016.0,2018.0,761,,65.2,,,,,,,,,,275.5,,Gardner Minshew,2019.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Raiders', 'Colts', 'Eagles', 'Jaguars']","['Jacksonville Jaguars 2019-2020', 'Philadelphia Eagles 2021-2022', 'Indianapolis Colts 2023', 'Las Vegas Raiders 2024']",0.0,both
+John Wolford,Wake Forest,,3.0,2014.0,2017.0,761,1273,,,,41,1720,9914,,,,,,,John Wolford,2019.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Rams', 'Buccaneers']","['Los Angeles Rams 2020', 'Los Angeles Rams 2021-2022']",0.0,both
+Logan Woodside,Toledo,162.9,4.0,2013.0,2017.0,759,,65.1,10514,93,,,10602,97,9.0,9.6,13.9,239.0,8.1,Logan Woodside,2018.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Titans', 'Falcons', 'Bengals']",0,0.0,both
+Trevor Lawrence,Clemson,164.3,2.0,2018.0,2020.0,758,,66.6,10098,90,,,11041,108,8.9,9.8,,252.5,8.1,Trevor Lawrence,2021.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['Jaguars'],['Jacksonville Jaguars 2021-2024'],0.0,both
+Paxton Lynch,Memphis,,2.0,2013.0,2015.0,758,1205,62.9,,,,,,,,,,233.2,,Paxton Lynch,2016.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Broncos', 'Steelers']",0,0.0,both
+Keith Price,Washington,,3.0,2010.0,2013.0,757,,64.0,,75,,,,85,,,,,,Keith Price,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Seahawks'],0,0.0,both
+Brett Smith,Wyoming,,3.0,2011.0,2014.0,751,1212,62.0,,76,,1590,10365,97,,,,,,Brett Smith,1985.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,['Buccaneers'],"['Buffalo Bills 1985-1999', 'Washington Redskins 2000-2003']",0.0,both
+Kyle Orton,Purdue,,3.0,2001.0,2004.0,748,1262,,,,,1524,,,,,,,,Kyle Orton,2005.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,"['Broncos', 'Cowboys', 'Bills', 'Bears', 'Chiefs']",0,0.0,both
+Brogan Roback,Eastern Michigan,,4.0,2013.0,2017.0,745,1284,,,,,,,,,,,,,Brogan Roback,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Browns'],0,0.0,both
+Jake Haener,Fresno State,156.2,4.0,2018.0,2022.0,740,,68.2,,68,,,,,8.4,8.9,,276.4,7.2,Jake Haener,2023.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Saints'],0,0.0,both
+Colin Kaepernick,Nevada,,3.0,2007.0,2010.0,740,1271,,10098,82,,1871,14210,142,,8.4,13.6,,7.6,Colin Kaepernick,2011.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,['49ers'],0,0.0,both
+Max Duggan,TCU,,3.0,2019.0,2022.0,739,1225,,9618,73,,1713,11474,101,,8.0,,,6.7,Max Duggan,2023.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Chargers'],0,0.0,both
+Jack Trudeau,Illinois,,4.0,1981.0,1985.0,736,,63.9,,,,,,,,,,,,Jack Trudeau,1986.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,[],0,0.0,both
+Caleb Williams,USC,169.3,2.0,2021.0,2023.0,735,,66.9,10082,93,,,11048,120,9.2,10.3,13.7,272.5,8.0,Caleb Williams,1990.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Bears'],0,0.0,both
+Dak Prescott,Mississippi State,146.0,3.0,2012.0,2015.0,734,,62.8,9376,70,,1705,11897,114,,8.3,,,7.0,Dak Prescott,1977.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,['Cowboys'],0,0.0,both
+G.J. Kinne,Tulsa,144.8,2.0,2009.0,2011.0,732,,61.3,9472,81,,1629,10831,96,,8.1,,249.3,6.6,G.J. Kinne,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Giants'],0,0.0,both
+Michael Pratt,Tulane,148.0,3.0,2020.0,2023.0,729,,,9602,90,,1650,10747,119,,8.5,,,,Michael Pratt,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Packers'],0,0.0,both
+Ian Book,Notre Dame,147.0,4.0,2016.0,2020.0,728,,63.8,,72,,1501,10466,89,,8.3,,,7.0,Ian Book,2021.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Saints', 'Eagles', 'Patriots']",0,0.0,both
+Kyle Boller,California,,0.0,0.0,0.0,,1301,,,,48,1576,,,,,,,,Kyle Boller,2003.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,[],0,0.0,both
+Doug Flutie,Boston College,,0.0,0.0,0.0,,1271,,10579,67,54,1558,11318,,8.3,,15.6,240.4,7.3,Doug Flutie,1985.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,[],"['Chicago Bears 1986-1987', 'New England Patriots 1987-1989', 'Buffalo Bills 1998-2000', 'San Diego Chargers 2001-2004', 'New England Patriots 2005']",0.0,both
+Kyle Shurmur,Vanderbilt,,0.0,0.0,0.0,,1264,,,,,,,,,,,,,Kyle Shurmur,2019.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Chiefs', 'Commanders', 'Bengals']",0,0.0,both
+David Klingler,Houston,,0.0,0.0,0.0,,1261,,9430,91,,,,93,,,,294.7,,David Klingler,1992.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Brian Lewerke,Michigan State,,0.0,0.0,0.0,,1249,,,,,1595,,,,,,,,Brian Lewerke,2021.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Giants', 'Patriots']",0,0.0,both
+Logan Thomas,Virginia Tech,,0.0,0.0,0.0,,1248,,,,,1743,10362,,,,,,,Logan Thomas,2014.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cardinals', 'Dolphins', '49ers', 'Lions', 'Giants']",0,0.0,both
+Jake Delhomme,Louisiana,,0.0,0.0,0.0,,1246,,9216,,57,,,,,,14.1,,,Jake Delhomme,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,[],"['New Orleans Saints 1999', 'New Orleans Saints 2002', 'Carolina Panthers 2003-2009', 'Cleveland Browns 2010', 'Houston Texans 2011']",0.0,both
+Jay Cutler,Vanderbilt,,0.0,0.0,0.0,,1242,,,,,1695,9953,,,,,,,Jay Cutler,2006.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Bears', 'Broncos', 'Dolphins']","['Denver Broncos 2006-2008', 'Chicago Bears 2009-2016', 'Miami Dolphins 2017']",0.0,both
+Chase Rettig,Boston College,,0.0,0.0,0.0,,1242,,,,,,,,,,,,,Chase Rettig,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Packers'],0,0.0,both
+Stoney Case,New Mexico,,0.0,0.0,0.0,,1237,,9460,67,,1673,10651,98,,,14.0,,,Stoney Case,1995.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Christian Hackenberg,Penn State,,0.0,0.0,0.0,,1235,,,,,,,,,,,,,Christian Hackenberg,2016.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Jets', 'Bengals']",0,0.0,both
+James Morgan,Florida International,,0.0,0.0,0.0,,1221,,,,,,,,,,,,,James Morgan,2020.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Jets', 'Panthers', 'Colts', 'Cardinals', 'Steelers']",0,0.0,both
+Trace McSorley,Penn State,144.5,0.0,0.0,0.0,,1215,,9899,77,,1688,11596,107,8.1,8.5,13.7,,6.9,Trace McSorley,2019.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Ravens', 'Cardinals', 'Steelers', 'Bears']",0,0.0,both
+Joe Burrow,LSU,172.4,0.0,0.0,0.0,,,68.8,,78,,,9672,91,9.4,10.5,13.6,,8.0,Joe Burrow,1962.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,['Bengals'],0,0.0,both
+David Fales,San Jose State,161.7,0.0,0.0,0.0,,,68.1,,,,,,,8.9,9.3,,335.3,8.0,David Fales,2014.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Dolphins', 'Jets', 'Bears', 'Ravens']",0,0.0,both
+Sam Bradford,Oklahoma,175.6,0.0,0.0,0.0,,,67.6,,88,,,,93,9.4,10.6,13.9,271.1,8.7,Sam Bradford,2010.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Rams', 'Vikings', 'Eagles', 'Cardinals']","['St. Louis Rams 2010-2013', 'Philadelphia Eagles 2015', 'Minnesota Vikings 2016-2017', 'Arizona Cardinals 2018']",0.0,both
+Matt Corral,Ole Miss,159.2,0.0,0.0,0.0,,,67.3,,,,,,,9.1,9.2,,,7.7,Matt Corral,2022.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,['Panthers'],0,0.0,both
+Andrew Luck,Stanford,162.8,0.0,0.0,0.0,,,67.0,9430,82,,,10387,89,8.9,9.5,,248.2,8.5,Andrew Luck,2012.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,['Colts'],['Indianapolis Colts 2012-2018'],0.0,both
+Matt Schaub,Virginia,,0.0,0.0,0.0,,,67.0,,,,,,,,,,,,Matt Schaub,2004.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Texans', 'Falcons', 'Raiders', 'Ravens']","['Atlanta Falcons 2004-2019', 'Houston Texans 2007-2013', 'Oakland Raiders 2014', 'Baltimore Ravens 2015', 'Atlanta Falcons 2020']",0.0,both
+Hendon Hooker,Tennessee,172.2,0.0,0.0,0.0,,,66.9,,80,,,11053,105,9.5,10.6,14.2,,7.6,Hendon Hooker,2023.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,['Lions'],0,0.0,both
+E.J. Manuel,Florida State,150.4,0.0,0.0,0.0,,,66.9,,,,,,,8.6,8.3,,,7.2,E.J. Manuel,2013.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Bills', 'Raiders']",0,0.0,both
+A.J. McCarron,Alabama,162.5,0.0,0.0,0.0,,,66.9,,77,,,,80,8.8,9.6,,,7.8,A.J. McCarron,2014.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Texans', 'Bills', 'Bengals', 'Falcons', 'Raiders']",0,0.0,both
+Bryn Renner,North Carolina,151.2,0.0,0.0,0.0,,,66.5,,,,,,,8.2,8.3,,234.9,7.0,Bryn Renner,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Ravens', 'Broncos']",0,0.0,both
+Tim Tebow,Florida,170.8,0.0,0.0,0.0,,,66.4,9285,88,,1687,12232,145,9.3,10.4,14.0,,7.3,Tim Tebow,2010.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Broncos', 'Jets']",0,0.0,both
+Kevin Hogan,Stanford,154.6,0.0,0.0,0.0,,,65.9,9385,75,,,10634,91,8.5,8.7,,,7.5,Kevin Hogan,2016.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Broncos', 'Browns', 'Texans', 'Titans', 'Chiefs', 'Bengals']",0,0.0,both
+Bryce Young,Alabama,165.0,0.0,0.0,0.0,,,65.8,,80,,,,87,8.8,9.9,,238.7,7.8,Bryce Young,1994.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,['Panthers'],"['San Francisco 49ers 1994-1995', 'San Francisco 49ers 1996-2007']",0.0,both
+Will Grier,West Virginia,165.1,0.0,0.0,0.0,,,65.8,,81,,,,88,9.0,9.7,13.8,305.6,8.0,Will Grier,2019.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Panthers', 'Cowboys', 'Patriots', 'Chargers', 'Bengals']",0,0.0,both
+Daunte Culpepper,UCF,153.1,0.0,0.0,0.0,,,65.7,9341,72,,,10344,91,8.5,8.5,,283.1,7.0,Daunte Culpepper,1999.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,[],"['Minnesota Vikings 1999', 'Minnesota Vikings 2000-2005', 'Miami Dolphins 2006', 'Oakland Raiders 2007', 'Detroit Lions 2008-2009']",0.0,both
+Blake Bortles,UCF,153.8,0.0,0.0,0.0,,,65.7,,,,,,,8.5,8.8,,,7.5,Blake Bortles,2014.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Jaguars', 'Rams', 'Broncos', 'Saints', 'Packers']",0,0.0,both
+Matt Johnson,Bowling Green State,160.4,0.0,0.0,0.0,,,65.4,,73,,,,82,8.8,9.6,,239.1,7.4,Matt Johnson,1999.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Bengals'],0,0.0,both
+Jalen Hurts,Oklahoma,162.7,0.0,0.0,0.0,,,65.2,9477,80,,1660,12751,124,9.1,9.7,13.9,,7.7,Jalen Hurts,2020.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,['Eagles'],"['Philadelphia Eagles 2020', 'Philadelphia Eagles 2021-2024']",0.0,both
+Steve Young,Brigham Young,149.8,0.0,0.0,0.0,,,65.2,,,,,,,8.5,8.1,,,7.5,Steve Young,1985.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,"['49ers', 'Buccaneers']","['Tampa Bay Buccaneers 1985-1986', 'San Francisco 49ers 1987-1995', 'San Francisco 49ers 1996-1999']",2005.0,both
+Stetson Bennett,Georgia,160.9,0.0,0.0,0.0,,,65.1,,,,,,81,9.1,9.5,14.0,,8.4,Stetson Bennett,2023.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,['Rams'],0,0.0,both
+Drake Maye,North Carolina,154.1,0.0,0.0,0.0,,,64.9,,,,,,,8.4,9.0,,267.3,7.4,Drake Maye,2024.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Patriots'],0,0.0,both
+Rob Johnson,USC,144.4,0.0,0.0,0.0,,,64.7,,,,,,,8.0,,,,,Rob Johnson,1995.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Bills', 'Commanders', 'Jaguars', 'Buccaneers', 'Raiders']","['Jacksonville Jaguars 1995-1997', 'Buffalo Bills 1998-2001', 'Tampa Bay Buccaneers 2002', 'Washington Redskins 2003', 'Oakland Raiders 2003']",0.0,both
+Kirk Cousins,Michigan State,146.1,0.0,0.0,0.0,,,64.1,9131,,,,,,8.1,8.1,,,7.3,Kirk Cousins,2012.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,"['Vikings', 'Falcons', 'Commanders']","['Washington Redskins 2012-2013', 'Washington Redskins 2014-2017', 'Minnesota Vikings 2018-2023', 'Atlanta Falcons 2024']",0.0,both
+Sam Howell,North Carolina,164.2,0.0,0.0,0.0,,,63.8,10283,92,,,11292,111,9.2,9.9,14.4,277.9,7.6,Sam Howell,2022.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Commanders'],0,0.0,both
+Jake Fromm,Georgia,156.1,0.0,0.0,0.0,,,63.2,,78,,,,81,8.4,9.1,,,7.4,Jake Fromm,2020.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Bills', 'Commanders', 'Giants']",0,0.0,both
+Manny Wilkins,Arizona State,,0.0,0.0,0.0,,,63.2,,,,1499,9659,,,,,,,Manny Wilkins,2019.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Packers'],"['Tampa Bay Buccaneers 2019-2020', 'Baltimore Ravens 2021']",0.0,both
+Austin Reed,Western Kentucky,144.2,0.0,0.0,0.0,,,63.2,,71,,,,84,,,,311.0,7.0,Austin Reed,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Bears'],0,0.0,both
+Carter Bradley,South Alabama,,0.0,0.0,0.0,,,62.9,,,,,,,,,,,6.7,Carter Bradley,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Raiders'],0,0.0,both
+Malik Cunningham,Louisville,151.7,0.0,0.0,0.0,,,62.6,9664,70,,1724,12843,120,8.7,8.8,14.0,,7.4,Malik Cunningham,2023.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"['Patriots', 'Ravens']",0,0.0,both
+Jimmy Clausen,Notre Dame,,0.0,0.0,0.0,,,62.6,,,,,,,,,,232.8,,Jimmy Clausen,2010.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Bears', 'Ravens']",0,0.0,both
+Tyler Wilson,Arkansas,,0.0,0.0,0.0,,,62.6,,,,,,,8.2,8.1,,,7.3,Tyler Wilson,2013.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Raiders', 'Titans']",0,0.0,both
+Skylar Thompson,Kansas State,,0.0,0.0,0.0,,,62.4,,,,,,,8.1,8.2,,,6.6,Skylar Thompson,2022.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Dolphins'],0,0.0,both
+Chase Garbers,California,,0.0,0.0,0.0,,,62.4,,,,,,,,,,,,Chase Garbers,2022.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Raiders'],0,0.0,both
+Tanner Morgan,Minnesota,151.0,0.0,0.0,0.0,,,62.2,9454,,,,,,8.9,8.8,14.3,,7.4,Tanner Morgan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Steelers', 'Vikings']",0,0.0,both
+James Franklin,Missouri,,0.0,0.0,0.0,,,62.1,,,,,,,,,,,,James Franklin,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Lions'],0,0.0,both
+Jordan Travis,Florida State,150.6,0.0,0.0,0.0,,,62.0,,,,,10665,98,8.5,8.9,13.7,,7.4,Jordan Travis,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Jets'],0,0.0,both
+Nick Stevens,Colorado State,148.7,0.0,0.0,0.0,,,61.9,,70,,,,,8.3,8.5,,,7.6,Nick Stevens,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Broncos'],0,0.0,both
+Chandler Harnish,Northern Illinois,145.1,0.0,0.0,0.0,,,61.9,,68,,1648,11927,92,8.1,8.2,,,7.2,Chandler Harnish,2012.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Colts', 'Vikings']",0,0.0,both
+Garrett Grayson,Colorado State,145.3,0.0,0.0,0.0,,,61.8,9190,,,,,,8.3,8.3,,248.4,7.1,Garrett Grayson,2015.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Saints', 'Falcons', 'Broncos']",0,0.0,both
+Christian Ponder,Florida State,,0.0,0.0,0.0,,,61.8,,,,,,,,,,,,Christian Ponder,2011.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Vikings', 'Raiders', '49ers', 'Broncos']",0,0.0,both
+Jake Rudock,Michigan,,0.0,0.0,0.0,,,61.7,,,,,,,,,,,,Jake Rudock,2016.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Lions', 'Dolphins']",0,0.0,both
+Jim McMahon,Brigham Young,156.9,0.0,0.0,0.0,,,61.6,9536,84,,,9723,94,9.0,9.1,14.6,,7.3,Jim McMahon,1982.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,[],"['Chicago Bears 1982-1988', 'San Diego Chargers 1989', 'Philadelphia Eagles 1990-1992', 'Minnesota Vikings 1993', 'Arizona Cardinals 1994', 'Green Bay Packers 1995-1996']",0.0,both
+Joshua Dobbs,Tennessee,,0.0,0.0,0.0,,,61.5,,,,,,87,,,,,,Joshua Dobbs,2017.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Steelers', 'Browns', 'Vikings', 'Cardinals', 'Jaguars', '49ers', 'Titans', 'Lions']",0,0.0,both
+Cole McDonald,Hawaii,146.8,0.0,0.0,0.0,,,61.4,,70,,,,82,,8.3,,243.4,7.1,Cole McDonald,2020.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Titans'],0,0.0,both
+Jordan Love,Utah State,,0.0,0.0,0.0,,,61.2,,,,,,,,,,,7.0,Jordan Love,1967.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Packers'],0,0.0,both
+Danny Wuerffel,Florida,163.6,0.0,0.0,0.0,,,,10875,114,42,,10500,122,9.3,9.6,15.4,236.4,7.7,Danny Wuerffel,1997.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Brad Kaaya,Miami (FL),146.2,0.0,0.0,0.0,,,,9972,69,,,,,8.4,8.6,13.8,262.4,7.5,Brad Kaaya,2017.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Colts', 'Lions', 'Panthers']",0,0.0,both
+Chris Weinke,Florida State,151.1,0.0,0.0,0.0,,,,9839,79,,,,81,8.9,9.0,15.1,273.3,7.8,Chris Weinke,2001.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Ken Dorsey,Miami (FL),147.4,0.0,0.0,0.0,,,,9565,86,,,,88,8.3,8.7,14.3,233.3,7.8,Ken Dorsey,2003.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Josh Rosen,UCLA,,0.0,0.0,0.0,,,,9341,,,,,,,,,311.4,7.2,Josh Rosen,1980.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cardinals', 'Dolphins', 'Falcons', 'Buccaneers', '49ers', 'Browns', 'Vikings']",0,0.0,both
+Shane Matthews,Florida,,0.0,0.0,0.0,,,,9287,74,46,,,82,,,,273.1,,Shane Matthews,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Levi Lewis,Louisiana,144.4,0.0,0.0,0.0,,,,9203,74,,,10291,88,,8.4,,,7.0,Levi Lewis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Seahawks'],0,0.0,both
+Connor Cook,Michigan State,,0.0,0.0,0.0,,,,9194,71,,,,,,8.2,13.7,,7.0,Connor Cook,2016.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Raiders', 'Bengals', 'Lions', 'Panthers']",0,0.0,both
+Rex Grossman,Florida,146.7,0.0,0.0,0.0,,,,9164,77,,,,83,8.3,8.2,,261.8,7.3,Rex Grossman,2003.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,['Browns'],0,0.0,both
+Mac Jones,Alabama,197.6,0.0,0.0,0.0,,,,,,,,,,11.0,12.5,14.8,,,Mac Jones,2005.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,['Patriots'],0,0.0,both
+Tua Tagovailoa,Alabama,199.4,0.0,0.0,0.0,,,,,87,,,,96,10.9,12.7,15.7,,9.8,Tua Tagovailoa,2020.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['Dolphins'],['Miami Dolphins 2020-2024'],0.0,both
+Kyler Murray,Oklahoma,181.3,0.0,0.0,0.0,,,,,,,,,,10.4,11.1,15.4,,,Kyler Murray,2019.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,['Cardinals'],['Arizona Cardinals 2019-2024'],0.0,both
+C.J. Stroud,Ohio State,182.4,0.0,0.0,0.0,,,,,85,,,,86,9.8,11.2,14.1,300.9,9.1,C.J. Stroud,2023.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,['Texans'],0,0.0,both
+Bryce Petty,Baylor,166.0,0.0,0.0,0.0,,,,,,,,,83,9.7,10.6,15.5,,8.2,Bryce Petty,2009.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Jets', 'Dolphins']",0,0.0,both
+Jordan Ta'amu,Ole Miss,156.8,0.0,0.0,0.0,,,,,,,,,,9.5,9.6,14.7,280.0,,Jordan Ta'amu,2020.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Chiefs', 'Panthers']",0,0.0,both
+Jameis Winston,Florida State,163.3,0.0,0.0,0.0,,,,,,,,,,9.4,9.4,14.2,295.0,8.3,Jameis Winston,2015.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Buccaneers', 'Saints', 'Browns']","['Tampa Bay Buccaneers 2015-2019', 'New Orleans Saints 2020-2023', 'Cleveland Browns 2024']",0.0,both
+Justin Fields,Ohio State,178.8,0.0,0.0,0.0,,,,,67,,,,86,9.2,10.7,,,,Justin Fields,2021.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['Bears'],0,0.0,both
+Dwayne Haskins,Ohio State,174.0,0.0,0.0,0.0,,,,,,,,,,9.1,10.3,,245.3,,Dwayne Haskins,2019.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Commanders', 'Steelers']",0,0.0,both
+Zach Wilson,Brigham Young,162.9,0.0,0.0,0.0,,,,,,,,,,9.1,9.7,,255.1,7.9,Zach Wilson,2021.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Jets'],0,0.0,both
+Danny White,Arizona State,148.8,0.0,0.0,0.0,,,,,,,,,,9.1,8.5,17.2,,,Danny White,1988.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,[],0,0.0,both
+Jake Waters,Kansas State,155.6,0.0,0.0,0.0,,,,,,,,,,9.1,9.2,14.2,229.6,,Jake Waters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Jaguars'],0,0.0,both
+Kyle Trask,Florida,168.5,0.0,0.0,0.0,,,,,69,,,,,9.1,10.0,,254.7,,Kyle Trask,2021.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Buccaneers'],0,0.0,both
+Johnny Manziel,Texas A&M,164.1,0.0,0.0,0.0,,,,,,,,9989,93,9.1,9.4,,300.8,8.3,Johnny Manziel,2014.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Browns'],0,0.0,both
+Vinny Testaverde,Miami (FL),152.9,0.0,0.0,0.0,,,,,,,,,,9.0,8.7,14.7,,,Vinny Testaverde,1987.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,[],"['Tampa Bay Buccaneers 1987-1992', 'Cleveland Browns 1993-1995', 'Baltimore Ravens 1996-1997', 'New York Jets 1998-2005', 'Dallas Cowboys 2004', 'New England Patriots 2006', 'Carolina Panthers 2007']",0.0,both
+Trent Dilfer,Fresno State,151.2,0.0,0.0,0.0,,,,,,,,,,9.0,9.1,15.1,,,Trent Dilfer,1994.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,[],"['Tampa Bay Buccaneers 1994-1996', 'Tampa Bay Buccaneers 1997-1999', 'Baltimore Ravens 2000', 'Seattle Seahawks 2001', 'Seattle Seahawks 2002-2004', 'Cleveland Browns 2005', 'San Francisco 49ers 2007']",0.0,both
+Jim Harbaugh,Michigan,149.5,0.0,0.0,0.0,,,,,,,,,,9.0,8.6,14.2,,,Jim Harbaugh,1987.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],"['Chicago Bears 1987', 'Chicago Bears 1988-1993', 'Indianapolis Colts 1994', 'Indianapolis Colts 1995-1997', 'Baltimore Ravens 1998', 'San Diego Chargers 1999-2000']",0.0,both
+Donovan McNabb,Syracuse,155.1,0.0,0.0,0.0,,,,,77,,,9950,96,8.9,9.3,15.3,,7.1,Donovan McNabb,1999.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Eagles', 'Commanders', 'Vikings']","['Philadelphia Eagles 1999-2009', 'Washington Redskins 2010', 'Minnesota Vikings 2011']",0.0,both
+Alex Smith,Utah,164.4,0.0,0.0,0.0,,,,,,,,,,8.9,9.9,,,,Alex Smith,2005.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['49ers', 'Commanders', 'Chiefs']",0,0.0,both
+Ryan Mallett,Arkansas,150.4,0.0,0.0,0.0,,,,,69,,,,,8.8,9.1,15.2,,7.6,Ryan Mallett,2011.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Texans', 'Ravens', 'Patriots']",0,0.0,both
+Zach Mettenberger,LSU,148.4,0.0,0.0,0.0,,,,,,,,,,8.8,8.8,14.2,,,Zach Mettenberger,2014.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Titans', 'Steelers']",0,0.0,both
+Scott Tolzien,Wisconsin,153.2,0.0,0.0,0.0,,,,,,,,,,8.8,8.5,,,,Scott Tolzien,2016.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Colts', 'Packers']",0,0.0,both
+J.J. McCarthy,Michigan,160.5,0.0,0.0,0.0,,,,,,,,,,8.7,9.4,,,,J.J. McCarthy,2024.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,['Vikings'],0,0.0,both
+Bailey Zappe,Western Kentucky,168.7,0.0,0.0,0.0,,,,,,,,,,8.7,9.8,,426.2,,Bailey Zappe,2022.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Patriots'],0,0.0,both
+Greg McElroy,Alabama,155.4,0.0,0.0,0.0,,,,,,,,,,8.6,9.2,,,,Greg McElroy,2011.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"['Jets', 'Bengals']",0,0.0,both
+Tyler Huntley,Utah,152.6,0.0,0.0,0.0,,,,,,,,,,8.6,8.6,,,6.8,Tyler Huntley,2020.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Ravens', 'Browns']",0,0.0,both
+Jaren Hall,Brigham Young,158.2,0.0,0.0,0.0,,,,,,,,,,8.6,9.4,,,,Jaren Hall,2023.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['Vikings'],0,0.0,both
+Rick Mirer,Notre Dame,,0.0,0.0,0.0,,,,,,,,,,8.6,8.3,15.9,,,Rick Mirer,1993.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,[],"['Seattle Seahawks 1993-1996', 'Chicago Bears 1997', 'New York Jets 1999', 'San Francisco 49ers 2000', 'Oakland Raiders 2003']",0.0,both
+Brendon Kay,Cincinnati,151.9,0.0,0.0,0.0,,,,,,,,,,8.6,8.6,,,,Brendon Kay,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Steelers'],0,0.0,both
+Jason Campbell,Auburn,148.2,0.0,0.0,0.0,,,,,,,,,,8.5,8.3,,,6.9,Jason Campbell,2005.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Commanders', 'Raiders', 'Bears', 'Browns', 'Bengals']",0,0.0,both
+Sam Darnold,USC,153.7,0.0,0.0,0.0,,,,,,,,,,8.5,8.7,,267.7,7.7,Sam Darnold,2018.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Jets', 'Panthers', 'Vikings', '49ers']",0,0.0,both
+Chad Kelly,Ole Miss,150.9,0.0,0.0,0.0,,,,,,,,,,8.5,8.6,,254.0,7.8,Chad Kelly,2017.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Broncos', 'Colts']",0,0.0,both
+Jason Bean,Kansas,149.5,0.0,0.0,0.0,,,,,,,,,,8.5,8.4,14.4,,,Jason Bean,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Colts'],0,0.0,both
+Troy Aikman,UCLA,149.7,0.0,0.0,0.0,,,,,,,,,,8.5,8.5,,,,Troy Aikman,1989.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,['Cowboys'],"['Dallas Cowboys 1989-1996', 'Dallas Cowboys 1997-2000']",2006.0,both
+Jarrett Stidham,Auburn,151.4,0.0,0.0,0.0,,,,,,,,,,8.5,9.0,,,,Jarrett Stidham,2019.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Broncos', 'Patriots', 'Raiders']",0,0.0,both
+Vince Young,Texas,144.9,0.0,0.0,0.0,,,,,,,,,81,8.4,,13.6,,7.8,Vince Young,2006.0,1.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,"['Titans', 'Eagles', 'Bills']","['Tennessee Titans 2006-2010', 'Philadelphia Eagles 2011']",0.0,both
+Ryan Leaf,Washington State,,0.0,0.0,0.0,,,,,,,,,,8.4,8.6,15.6,229.1,,Ryan Leaf,1998.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Malik Willis,Liberty,153.1,0.0,0.0,0.0,,,,,,,,,,8.4,8.6,,,,Malik Willis,2022.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Titans'],0,0.0,both
+Mike Tomczak,Ohio State,,0.0,0.0,0.0,,,,,,,,,,8.4,,15.1,,,Mike Tomczak,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,[],"['Chicago Bears 1985-1990', 'Green Bay Packers 1991', 'Cleveland Browns 1992', 'Pittsburgh Steelers 1993-1999']",0.0,both
+DeShone Kizer,Notre Dame,147.7,0.0,0.0,0.0,,,,,,,,,,8.3,8.5,13.7,232.4,,DeShone Kizer,2017.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Browns', 'Raiders', 'Packers', 'Titans']",0,0.0,both
+Nathan Rourke,Ohio,146.4,0.0,0.0,0.0,,,,,,,,10093,111,8.3,8.7,14.2,,7.6,Nathan Rourke,2023.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Jaguars', 'Patriots']",0,0.0,both
+Lamar Jackson,Louisville,,0.0,0.0,0.0,,,,,69,,1741,13175,119,8.3,8.5,14.6,238.0,7.6,Lamar Jackson,2018.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,['Ravens'],['Baltimore Ravens 2018-2024'],0.0,both
+Zac Robinson,Oklahoma State,146.6,0.0,0.0,0.0,,,,,,,,10175,88,8.3,8.3,13.6,,7.1,Zac Robinson,2010.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Bengals'],0,0.0,both
+JaMarcus Russell,LSU,147.9,0.0,0.0,0.0,,,,,,,,,,8.3,8.4,,,,JaMarcus Russell,2007.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Raiders'],0,0.0,both
+Austin Allen,Arkansas,,0.0,0.0,0.0,,,,,,,,,,8.3,,14.1,,,Austin Allen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Buccaneers'],0,0.0,both
+Todd Collins,Michigan,146.5,0.0,0.0,0.0,,,,,,,,,,8.3,8.2,,,,Todd Collins,1995.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Connor Shaw,South Carolina,155.9,0.0,0.0,0.0,,,,,,,,,,8.3,8.8,,,,Connor Shaw,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,"['Bears', 'Browns']",0,0.0,both
+Stephen Morris,Miami (FL),,0.0,0.0,0.0,,,,,,,,,,8.3,,14.3,,7.5,Stephen Morris,2015.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Colts', 'Eagles', 'Jaguars']",0,0.0,both
+Kordell Stewart,Colorado,,0.0,0.0,0.0,,,,,,,,,,8.3,,14.2,,7.1,Kordell Stewart,1995.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,[],"['Pittsburgh Steelers 1995-2002', 'Chicago Bears 2003', 'Baltimore Ravens 2004-2005']",0.0,both
+Aaron Rodgers,California,150.3,0.0,0.0,0.0,,,,,,,,,,8.2,8.6,,,,Aaron Rodgers,2005.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,"['Packers', 'Jets']","['Green Bay Packers 2005-2022', 'New York Jets 2023-2024']",0.0,both
+David Carr,Fresno State,150.7,0.0,0.0,0.0,,,,,,,,,,8.2,8.6,,,,David Carr,2002.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Texans', 'Giants', 'Panthers', '49ers']",0,0.0,both
+Marc Wilson,Brigham Young,,0.0,0.0,0.0,,,,,,46,,,,8.2,,14.3,,,Marc Wilson,1980.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,[],"['Oakland Raiders 1980-1987', 'New England Patriots 1989-1990']",0.0,both
+Ricky Stanzi,Iowa,,0.0,0.0,0.0,,,,,,,,,,8.1,,13.6,,,Ricky Stanzi,2011.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,"['Chiefs', 'Jaguars', 'Lions', 'Texans']",0,0.0,both
+Tyrod Taylor,Virginia Tech,,0.0,0.0,0.0,,,,,,,,,,8.1,8.1,14.2,,6.7,Tyrod Taylor,2011.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,"['Bills', 'Browns', 'Chargers', 'Giants', 'Texans', 'Jets', 'Ravens']","['Baltimore Ravens 2011-2014', 'Buffalo Bills 2015-2017', 'Cleveland Browns 2018', 'Los Angeles Chargers 2019-2020', 'Houston Texans 2021', 'New York Giants 2022-2023', 'New York Jets 2024']",0.0,both
+Tommy Maddox,UCLA,,0.0,0.0,0.0,,,,,,,,,,8.1,,13.9,235.8,,Tommy Maddox,1992.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,[],"['Denver Broncos 1992-1993', 'Los Angeles Rams 1994', 'New York Giants 1995', 'Pittsburgh Steelers 2001-2005']",0.0,both
+Tyler Bray,Tennessee,145.0,0.0,0.0,0.0,,,,,69,,,,,8.1,8.2,13.8,265.9,,Tyler Bray,2015.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Chiefs', 'Bears', '49ers']",0,0.0,both
+Dylan Thompson,South Carolina,,0.0,0.0,0.0,,,,,,,,,,8.1,8.2,13.8,,,Dylan Thompson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['49ers'],0,0.0,both
+Kerry Collins,Penn State,,0.0,0.0,0.0,,,,,,,,,,8.1,,14.3,,,Kerry Collins,1995.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,[],"['Carolina Panthers 1995-1998', 'New Orleans Saints 1998', 'New York Giants 1999', 'New York Giants 2000-2003', 'Oakland Raiders 2004-2005', 'Tennessee Titans 2006-2010', 'Indianapolis Colts 2011']",0.0,both
+Anthony Gordon,Washington State,157.1,0.0,0.0,0.0,,,,,,,,,,8.1,8.3,,349.8,,Anthony Gordon,2021.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Broncos', 'Seahawks']",0,0.0,both
+Craig Erickson,Miami (FL),,0.0,0.0,0.0,,,,,,,,,,8.1,,14.4,,,Craig Erickson,1992.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],0,0.0,both
+Gary Huff,Florida State,,0.0,0.0,0.0,,,,,,42,,,,8.0,,14.6,,,Gary Huff,1973.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Nic Shimonek,Texas Tech,153.2,0.0,0.0,0.0,,,,,,,,,,8.0,8.6,,233.9,,Nic Shimonek,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Commanders', 'Chargers']",0,0.0,both
+Bernie Kosar,Miami (FL),,0.0,0.0,0.0,,,,,,,,,,8.0,,,259.6,,Bernie Kosar,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],"['Cleveland Browns 1985-1993', 'Dallas Cowboys 1993', 'Miami Dolphins 1994-1996']",0.0,both
+Nate Sudfeld,Indiana,,0.0,0.0,0.0,,,,,,,,,,,8.3,,,7.2,Nate Sudfeld,2016.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Eagles', 'Lions', '49ers', 'Commanders']","['Philadelphia Eagles 2017-2020', 'Detroit Lions 2022', 'Detroit Lions 2022']",0.0,both
+Nathan Peterman,Pitt,144.6,0.0,0.0,0.0,,,,,,,,,,,8.2,,,,Nathan Peterman,2017.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Raiders', 'Bears', 'Bills', 'Saints']",0,0.0,both
+Jack Coan,Notre Dame,148.0,0.0,0.0,0.0,,,,,,,,,,,8.2,,,,Jack Coan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Colts'],0,0.0,both
+Skyler Howard,West Virginia,,0.0,0.0,0.0,,,,,,,,,,,8.1,13.9,243.4,6.8,Skyler Howard,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Seahawks'],0,0.0,both
+Dan Marino,Pitt,,0.0,0.0,0.0,,,,,74,64,,,,,,,,,Dan Marino,1983.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,['Dolphins'],['Miami Dolphins 1983-1999'],2005.0,both
+Chase Litton,Marshall,,0.0,0.0,0.0,,,,,72,,,,,,,,245.1,,Chase Litton,2018.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Chiefs', 'Jaguars']",0,0.0,both
+Shaun King,Tulane,,0.0,0.0,0.0,,,,,70,,1516,,89,,,,,,Shaun King,1999.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],"['Tampa Bay Buccaneers 1999-2003', 'Arizona Cardinals 2004']",0.0,both
+Scott Mitchell,Utah,,0.0,0.0,0.0,,,,,69,,,,,,,,256.6,6.8,Scott Mitchell,1990.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],0,0.0,both
+Steve Ramsey,North Texas,,0.0,0.0,0.0,,,,,69,67,,,,,,14.4,244.0,,Steve Ramsey,1970.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,[],0,0.0,both
+Jerrod Johnson,Texas A&M,,0.0,0.0,0.0,,,,,67,,,,83,,,,,,Jerrod Johnson,2003.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,['Bears'],0,0.0,both
+Lynn Dickey,Kansas State,,0.0,0.0,0.0,,,,,,64,,,,,,,,,Lynn Dickey,1971.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],0,0.0,both
+Dan Fouts,Oregon,,0.0,0.0,0.0,,,,,,54,,,,,,,,,Dan Fouts,1973.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,[],"['San Diego Chargers 1973', 'San Diego Chargers 1974-1987']",1993.0,both
+Tommy Kramer,Rice,,0.0,0.0,0.0,,,,,,52,,,,,,,,,Tommy Kramer,1977.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],"['Minnesota Vikings 1977-1989', 'New Orleans Saints 1990']",0.0,both
+Mike McMahon,Rutgers,,0.0,0.0,0.0,,,,,,52,,,,,,13.7,,,Mike McMahon,2001.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Joe Pisarcik,New Mexico State,,0.0,0.0,0.0,,,,,,51,,,,,,,,,Joe Pisarcik,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Jack Thompson,Washington State,,0.0,0.0,0.0,,,,,,49,,,,,,,,,Jack Thompson,1979.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Jim Plunkett,Stanford,,0.0,0.0,0.0,,,,,,47,,,,,,14.2,243.4,6.7,Jim Plunkett,1971.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],"['New England Patriots 1971-1975', 'San Francisco 49ers 1976-1977', 'Oakland Raiders 1979-1986']",0.0,both
+Norm Snead,Wake Forest,,0.0,0.0,0.0,,,,,,47,,,,,,,,,Norm Snead,1961.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,[],"['Washington Redskins 1961-1963', 'Philadelphia Eagles 1964-1969', 'Philadelphia Eagles 1970', 'Minnesota Vikings 1971', 'New York Giants 1972-1976', 'San Francisco 49ers 1974-1975']",0.0,both
+Don Strock,Virginia Tech,,0.0,0.0,0.0,,,,,,47,,,,,,13.7,,,Don Strock,1973.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Steve Beuerlein,Notre Dame,,0.0,0.0,0.0,,,,,,44,,,,,,13.8,,,Steve Beuerlein,1987.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],"['Los Angeles Raiders 1988-1989', 'Dallas Cowboys 1991-1992', 'Phoenix Cardinals 1993-1994', 'Jacksonville Jaguars 1995', 'Carolina Panthers 1996-2000', 'Denver Broncos 2002-2003']",0.0,both
+Rick Norton,Kentucky,,0.0,0.0,0.0,,,,,,44,,,,,,,,,Rick Norton,1966.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Brian Sipe,San Diego State,,0.0,0.0,0.0,,,,,,43,,,,,,,,,Brian Sipe,1972.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,[],['Cleveland Browns 1974-1983'],0.0,both
+Eric Hipple,Utah State,,0.0,0.0,0.0,,,,,,42,,,,,,,,,Eric Hipple,1980.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,[],0,0.0,both
+Todd Blackledge,Penn State,,0.0,0.0,0.0,,,,,,41,,,,,,14.1,,,Todd Blackledge,1983.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Archie Manning,Ole Miss,,0.0,0.0,0.0,,,,,,40,,,,,,,,,Archie Manning,1971.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,[],"['New Orleans Saints 1971-1982', 'Houston Oilers 1982-1983', 'Minnesota Vikings 1983-1984']",0.0,both
+Billy Joe Tolliver,Texas Tech,,0.0,0.0,0.0,,,,,,40,,,,,,13.7,,,Billy Joe Tolliver,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,[],0,0.0,both
+Elvis Grbac,Michigan,148.7,0.0,0.0,0.0,,,,,,,,,,,,,,,Elvis Grbac,1993.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,[],"['San Francisco 49ers 1994-1995', 'San Francisco 49ers 1996', 'Kansas City Chiefs 1997-1998', 'Kansas City Chiefs 1999-2000', 'Baltimore Ravens 2001']",0.0,both
+Will Levis,Kentucky,145.6,0.0,0.0,0.0,,,,,,,,,,,,,,,Will Levis,2023.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,['Titans'],0,0.0,both
+Cody Carlson,Baylor,,0.0,0.0,0.0,,,,,,,,,,,,14.8,,,Cody Carlson,1987.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Mike Phipps,Purdue,,0.0,0.0,0.0,,,,,,,,,,,,14.5,,,Mike Phipps,1970.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,[],0,0.0,both
+Aaron Brooks,Virginia,,0.0,0.0,0.0,,,,,,,,,,,,14.3,,,Aaron Brooks,1999.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],0,0.0,both
+Jeff Blake,East Carolina,,0.0,0.0,0.0,,,,,,,,,,,,14.3,,,Jeff Blake,1992.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],"['New York Jets 1992', 'Cincinnati Bengals 1994-1999', 'New Orleans Saints 2000-2001', 'Baltimore Ravens 2002', 'Arizona Cardinals 2003', 'Philadelphia Eagles 2004', 'Chicago Bears 2005']",0.0,both
+Jake Plummer,Arizona State,,0.0,0.0,0.0,,,,,,,,,,,,14.1,,,Jake Plummer,1997.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,"['Cardinals', 'Broncos']","['Arizona Cardinals 1997-2002', 'Denver Broncos 2003-2006']",0.0,both
+Mark Rypien,Washington State,,0.0,0.0,0.0,,,,,,,,,,,,14.0,,,Mark Rypien,1986.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,[],"['Washington Redskins 1988-1993', 'Cleveland Browns 1994', 'St. Louis Rams 1995-1997', 'Philadelphia Eagles 1996', 'Indianapolis Colts 2001']",0.0,both
+Vince Ferragamo,Nebraska,,0.0,0.0,0.0,,,,,,,,,,,,14.0,,,Vince Ferragamo,1977.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],0,0.0,both
+Gavin Hardison,UTEP,,0.0,0.0,0.0,,,,,,,,,,,,14.0,,,Gavin Hardison,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Dolphins'],0,0.0,both
+Jim Kelly,Miami (FL),,0.0,0.0,0.0,,,,,,,,,,,,13.9,,,Jim Kelly,1983.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,[],['Buffalo Bills 1986-1996'],2002.0,both
+Josh Allen,Wyoming,,0.0,0.0,0.0,,,,,,,,,,,,13.9,,,Josh Allen,2018.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['Bills'],0,0.0,both
+Erik Kramer,North Carolina State,,0.0,0.0,0.0,,,,,,,,,,,,13.8,,,Erik Kramer,2024.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],0,0.0,both
+Drew Bledsoe,Washington State,,0.0,0.0,0.0,,,,,,,,,,,,13.7,237.8,,Drew Bledsoe,1993.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,"['Patriots', 'Bills', 'Cowboys']","['New England Patriots 1993-1999', 'New England Patriots 2000-2001', 'Buffalo Bills 2002-2004', 'Dallas Cowboys 2005-2006']",0.0,both
+Matthew Stafford,Georgia,,0.0,0.0,0.0,,,,,,,,,,,,13.7,,7.0,Matthew Stafford,2009.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,[],"['Detroit Lions 2009-2020', 'Los Angeles Rams 2021-2024']",0.0,both
+Tony Adams,Utah State,,0.0,0.0,0.0,,,,,,,,,,,,13.7,,,Tony Adams,1973.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,[],0,0.0,both
+Joey Harrington,Oregon,,0.0,0.0,0.0,,,,,,,,,,,,13.6,,,Joey Harrington,2002.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],0,0.0,both
+Tony Eason,Illinois,,0.0,0.0,0.0,,,,,,,,,,,,,300.4,,Tony Eason,1983.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,[],0,0.0,both
+Charlie Batch,Eastern Michigan,,0.0,0.0,0.0,,,,,,,,,,,,,237.3,,Charlie Batch,1998.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,[],"['Detroit Lions 1998-2001', 'Pittsburgh Steelers 2003-2012']",0.0,both
+Randall Cunningham,UNLV,,0.0,0.0,0.0,,,,,,,,,,,,,235.9,,Randall Cunningham,1985.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,[],"['Philadelphia Eagles 1985-1995', 'Minnesota Vikings 1997-1999', 'Dallas Cowboys 2000', 'Baltimore Ravens 2001']",0.0,both
+Tanner McKee,Stanford,,0.0,0.0,0.0,,,,,,,,,,,,,232.0,,Tanner McKee,2023.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Eagles'],0,0.0,both
+Josh Freeman,Kansas State,,0.0,0.0,0.0,,,,,,,,,,,,,230.8,,Josh Freeman,2009.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,"['Buccaneers', 'Vikings', 'Giants', 'Colts', 'Dolphins']",0,0.0,both
+David Garrard,East Carolina,,0.0,0.0,0.0,,,,,,,1685,10238,81,,,,,,David Garrard,2002.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,['Jets'],['Jacksonville Jaguars 2002-2010'],0.0,both
+B.J. Daniels,South Florida,,0.0,0.0,0.0,,,,,,,1658,10501,,,,,,,B.J. Daniels,2013.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Seahawks', '49ers', 'Falcons', 'Texans']",0,0.0,both
+Jake Locker,Washington,,0.0,0.0,0.0,,,,,,,1601,,82,,,,,,Jake Locker,2011.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,['Titans'],0,0.0,both
+Taysom Hill,Brigham Young,,0.0,0.0,0.0,,,,,,,1581,9744,,,,,,,Taysom Hill,2017.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Saints', 'Packers']",0,0.0,both
+Nick Fitzgerald,Mississippi State,,0.0,0.0,0.0,,,,,,,1543,9814,101,,,,,,Nick Fitzgerald,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Buccaneers'],0,0.0,both
+John Rhys Plumlee,UCF,,0.0,0.0,0.0,,,,,,,,,,,,,,6.9,John Rhys Plumlee,2024.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Steelers'],0,0.0,both
+Drew Stanton,Michigan State,,0.0,0.0,0.0,,,,,,,,,,,,,,6.8,Drew Stanton,2007.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,"['Cardinals', 'Browns', 'Lions', 'Colts', 'Jets', 'Buccaneers']",0,0.0,both
+Tommy Rees,Notre Dame,,0.0,0.0,0.0,,,,,,,,,,,,,,6.8,Tommy Rees,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['Commanders'],0,0.0,both
+Tyree Jackson,Buffalo,,0.0,0.0,0.0,,,,,,,,,,,,,,6.7,Tyree Jackson,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"['Giants', 'Bills']",0,0.0,both
